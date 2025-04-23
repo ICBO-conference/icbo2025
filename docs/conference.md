@@ -1,5 +1,5 @@
 <br>
-<h1> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO 2025 <small>conference</small></h1>
 
 ### About 
 
@@ -14,7 +14,7 @@ At the conference participants will present their work on applied aspects of ont
 ### Conference Date 
 
 <ul>
-    <li><b>[MONTH] [NUMBER]th to [MONTH] [NUMBER]st ([DAYSTRING]-[DAYSTRING])</b></li>
+    <li><b>November 12th to November 15th (11/12/2025-11/15/2025)</b></li>
     <ul>
         <li>Workshops and tutorials: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
         <li>Main conference: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
@@ -23,25 +23,18 @@ At the conference participants will present their work on applied aspects of ont
 
 ### Local
 
-[DESCRIBELOCAL]
+Virtual Conference
 
-The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held at the [LOCAL]</b>, [LOCATION]
-<h4><b>[CITY]</b></h4>
-
-<ul>
-    <li>[CITY], located in the [....]</li>
-    <li>[CARACTERISTICS...]</li>
-    <li>[CARACTERISTICS...]</li>
-</ul>
+The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held virtually over Zoom.</b>
 
 ### Organization Committee
 
 <p>Below is the list of the General Committee of the event, being the responsibility of the general coordination to align the needs and integration among all members. </p>
   
-  <h4><b>President of the organizing committee of the ICBO 202x Conference</b></h4>
+  <h4><b>President of the organizing committee of the ICBO 2025 Conference</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
-  <h4><b>Local coordination of the 202x ICBO Conference</b></h4>
+  <h4><b>Local coordination of the 2025 ICBO Conference</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
@@ -82,9 +75,10 @@ The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>wi
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
 
   <h4><b>Website Coordination </b></h4>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
-  <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p>
+  <p>Finn Wilson (University at Buffalo)</p>
+  <p>B. Damayanthi Jesudas (University of Florida)</p>
+  <p>William (Bill) Duncan (University of Florida)</p>
+  <p>Eduardo Felipe (Federal University of Itajubá)</p>
 
   <h4><b>Volunteers:</b></h4>
   <p>Prof(a). Dr(a). [NAME] [LASTNAME] ([UNIVERSITY])</p> 
@@ -92,6 +86,8 @@ The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>wi
 ### Previous ICBO Conferences
 
 <ul>
+    <li>2024: Enschede, Netherlands <a 
+            href="https://icbo-conference.github.io/icbo2024/">icbo-conference.github.io/icbo2024</a></li>
     <li>2023: Brasilia, DF, Brazil 
     <a href="https://www.icbo2023.ncor-brasil.org/index.html">www.icbo2023.ncor-brasil.org</a>
     </li>
@@ -124,7 +120,7 @@ The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>wi
     </li>
 </ul>
 
-### Photographic Register - 2024
+### Photographic Register - 2025
 
 <ul>
     <li>Day [DAYNUMBER]: <a href="https://photos.app.goo.gl/..." target="_blank">https://photos.app.goo.gl/...</a></li>
@@ -138,7 +134,7 @@ The [NUMBER]th International Conference of Biomedical Ontology (ICBO 2024) <b>wi
             target="_blank">https://photos.app.goo.gl/...</a></li> -->
 </ul>
 
-### Proceedings 2024
+### Proceedings 2025
 
 The Proceedings of this conference can be access in: <a href="[LINKOFPROCEEDINGS]" target="_blank">[LINKOFPROCEEDINGS]</a>
 
