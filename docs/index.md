@@ -3,7 +3,7 @@
 
 ## 16th International Conference on Biomedical Ontology 
 
-The International Conference on Biological and Biomedical Ontology (ICBO) is a premier anual conference covering the development and application of ontologies for biological and medical domains. Researchers, students, and professors working in biomedical ontology are welcome to submit. 
+The International Conference on Biological and Biomedical Ontology (ICBO) is a premier anual conference series covering the development and application of ontologies for biological and medical domains. Researchers, students, and professors working in biomedical ontology are welcome to submit. 
 
 ## Theme of Conference 
 
