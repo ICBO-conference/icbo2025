@@ -65,6 +65,11 @@ body {
   padding-top: 100px; /* Or whatever height matches your navbar height */
 }
 
+/* Adjust the sidebar container to give it enough room */
+.bs-sidebar {
+  margin-top: 100px; /* Adjust based on your navbar height */
+}
+
 
 
 
