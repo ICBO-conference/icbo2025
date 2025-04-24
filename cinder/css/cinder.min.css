@@ -39,9 +39,20 @@ body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-si
     padding-right: 5px; /* Reduce the padding if needed */
 }
 
+.navbar {
+  padding-left: 15px;  /* Ensure navbar has enough padding on the left */
+  padding-right: 15px; /* Ensure navbar has enough padding on the right */
+}
+
+.container {
+  padding-left: 0; /* Remove default padding */
+  padding-right: 0; /* Remove default padding */
+}
 
 body {
-  padding-top: 100px; /* Adjust this value to create space for the increased navbar height */
+  padding-top: 110px; /* Increase space for larger navbar */
+  position: relative; /* Ensure the body stays below the fixed navbar */
 }
+
 
 
