@@ -54,19 +54,13 @@ body {
   position: relative; /* Ensure the body stays below the fixed navbar */
 }
 
-/* Reset margin/padding of the sidebar */
 .bs-sidenav {
-  margin-top: 0; /* Remove any top margin */
-  padding-top: 0; /* Remove any top padding */
+  padding-top: 110px; /* Match your navbar height */
+  margin-top: 0; /* Prevent stacking */
 }
 
-/* Add some padding-top to the sidebar to move it below the navbar */
-.bs-sidenav {
-  padding-top: 100px; /* Or whatever height matches your navbar height */
-}
-
-/* Adjust the sidebar container to give it enough room */
 .bs-sidebar {
-  margin-top: 100px; /* Adjust based on your navbar height */
+  margin-top: 0; /* Remove extra spacing */
 }
+
 
