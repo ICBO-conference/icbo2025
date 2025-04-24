@@ -55,7 +55,7 @@ body {
 }
 
 .bs-sidenav {
-  padding-top: 50px; /* Match your navbar height */
+  padding-top: 20px; /* Match your navbar height */
   margin-top: 0; /* Prevent stacking */
 }
 
