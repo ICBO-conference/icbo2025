@@ -1,14 +1,16 @@
 <br>
-<h1> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO 2025 <small>conference</small></h1>
 
 ## General Information 
 
-The focus of our 2023 conference is <b>[THEME]</b>.
+The International Conference on Biological and Biomedical Ontology (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
+
+The focus of our 2025 conference is <b>[THEME]</b>.
 
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates</b>: [MONTH] [DAYNUMBER]th to [MONTH] [DAYNUMBER]st ([DAYSTRING]-[DAYSTRING])</li> 
+    <li><b>Conference Dates</b>: November 12th to November 15th (11/12/25-11/15/25)</li> 
     <ul>
         <li><b>Workshops/tutorials</b>: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
         <li><b>Main conference</b>: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
@@ -117,11 +119,11 @@ The focus of our 2023 conference is <b>[THEME]</b>.
 
 #### Workshops and Tutorials accepted
 
-<p>Take a look at ICBO 202x conference proposals accepted <a href="../program">here</a> </p>
+<p>Take a look at ICBO 2024 conference proposals accepted <a href="https://ceur-ws.org/Vol-3939/">here</a> </p>
 
 ## Call for ICBO Conference Papers and Abstracts
 
-Submission deadline: Month Day, 202x. Notification: Month Day, 202x</li>
+Submission deadline: Month Day, 2025. Notification: Month Day, 2025</li>
 
 The following paper categories are welcome:
 <ul>
@@ -192,7 +194,7 @@ The following paper categories are welcome:
 ### Papers presentations guidelines 
 <ul>
     <li>
-        <h6>Presentation Logistics both in-person and online</h6>
+        <h6>Online Presentation Logistics</h6>
     </li>
     <li>Prepare your presentation to fit within the allocated time slot.</li>
     <li>Rehearse your presentation to ensure you stay within the time limit.</li>
@@ -205,31 +207,18 @@ The following paper categories are welcome:
     </ul>
     <li>Sessions will follow the conference <a
             href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
-    <li><b>Technical Setup (in-person):</b></li>
-    <ul>
-        <li>Familiarize yourself with the presentation equipment and layout in advance.</li>
-        <li>Test your presentation materials to ensure they work properly.</li>
-    </ul>
-    <li><b>For in-person presentations,</b> we will be utilizing local computers running Windows and
-        Microsoft PowerPoint.</li>
     <ul>
         <li>To ensure a seamless presentation experience, we kindly request the following:</li>
         <ol>
             <li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.
                 <b>OR</b></li>
-            <li>As an additional option, you may also bring your presentation on a flash drive or USB media.
-                During the interval breaks, you can transfer your presentation to the local computer to
-                expedite the process if needed.</li>
         </ol>
-        <li>This enables us to pre-load and test your presentation on the conference system, while also
-            contributing to a seamless transition and preventing any disruptions to the presentation
-            schedule.</li>
     </ul>
 </ul>
 
 ### Virtual presentations guidelines 
 
-<p>Warm greetings to you all as we draw closer to the much-anticipated ICBO 202x conference. In preparation
+<p>Warm greetings to you all as we draw closer to the much-anticipated ICBO 2025 conference. In preparation
     for the event, we would like to furnish you with crucial guidelines and details for your virtual paper
     presentation.</p>
 <ol>
@@ -237,12 +226,12 @@ The following paper categories are welcome:
         <h6>Virtual Presentation Logistics:</h6>
     </li>
     <ul>
-        <li>Your presentation will be conducted in a virtual setting via TOOL.</li>
-        <li><b>The TOOL link for your session will be distributed to you by Month Day.</b></li>
-        <li>We kindly ask that you to:</li>
+        <li>Your presentation will be conducted in a virtual setting via ZOOM.</li>
+        <li><b>The ZOOM link for your session will be distributed to you by Month Day.</b></li>
+        <li>We kindly ask that you:</li>
         <ul>
-            <li>To connect to the TOOL room at least 15 minutes before your Paper Session.</li>
-            <li>To ensure a stable internet connection and are prepared to commence your presentation
+            <li>Connect to the ZOOM room at least 15 minutes before your Paper Session.</li>
+            <li>Ensure a stable internet connection and are prepared to commence your presentation
                 promptly at the start of your session.</li>
         </ul>
     </ul>
@@ -278,9 +267,16 @@ Journal Track submission deadline: [MONTH] [DAY].
         the submission process.</li>
 </ul>
 
-## Program Committee ICBO 202x
+## Program Committee ICBO 2025
 
 <ul>
+
+    <li>Asiyah Lin - National Institutes of Health (NIH)</li>
+    <li>Beera Damayanthi Jesudas - University of Florida</li>
+    <li>Eduardo Felipe - Federal University of Itajubá</li>
+    <li>Finn Wilson - University at Buffalo</li>
+    <li>William (Bill) Duncan - University of Florida</li>
+    
     <li>Adrien Barton - The French National Centre for Scientific Research</li>
     <li>Alan Ruttenberg - The State University of New York at Buffalo </li>
     <li>Alexander D. Diehl - Department of Biomedical Informatics, University at Buffalo </li>
