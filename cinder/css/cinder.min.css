@@ -50,7 +50,7 @@ body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-si
 }
 
 body {
-  padding-top: 300px; /* Increase space for larger navbar */
+  padding-top: 150px; /* Increase space for larger navbar */
   position: relative; /* Ensure the body stays below the fixed navbar */
 }
 
