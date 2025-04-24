@@ -60,5 +60,11 @@ body {
   padding-top: 0; /* Remove any top padding */
 }
 
+/* Add some padding-top to the sidebar to move it below the navbar */
+.bs-sidenav {
+  padding-top: 100px; /* Or whatever height matches your navbar height */
+}
+
+
 
 
