@@ -86,3 +86,24 @@ pre {
 footer > hr {
     width: 35%;
 }
+
+/* Increase navbar height */
+.navbar {
+  min-height: 70px; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Increase size of text in nav links */
+.navbar-nav > li > a {
+  font-size: 18px; 
+  line-height: 50px; /* Controls vertical spacing inside the bar */
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Increase size of icons */
+.navbar-nav .fa {
+  font-size: 20px; /* Adjust as needed */
+  margin-right: 6px; /* Optional: space between icon and text */
+}
