@@ -54,5 +54,11 @@ body {
   position: relative; /* Ensure the body stays below the fixed navbar */
 }
 
+/* Reset margin/padding of the sidebar */
+.bs-sidenav {
+  margin-top: 0; /* Remove any top margin */
+  padding-top: 0; /* Remove any top padding */
+}
+
 
 
