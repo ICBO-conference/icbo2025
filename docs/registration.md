@@ -5,16 +5,14 @@
 
 ### Registration fee information for ICBO 2025 
 
-[DETAILS]
-
 <button type="button" class="btn btn-success btn-primary btn-lg">Register Now for ICBO [2025]</button>	
 
 <div class="alert alert-primary" role="alert">
-The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete this <a href="https://docs.google.com/forms/ZZZ"> FORM</a> to indicate your workshop/tutorial preferences.
+The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete tbd to indicate your workshop/tutorial preferences.
 </div>
 
 <b>* Student fee (discount coupon):</b> To request a student fee discount, please submit a request to 
-    <a href="mailto:[MAIL]?subject=ICBO2025 Student discount coupon" target="_blank">icbo2025{at}[DOMAIN].com</a> <b>by [MONTH] [DAYNUMBER]th</b>, attaching some document that proves your student's relationship with the educational institution. You should ask for that only if you are registered in a degree program (undergraduate or graduate) at an accredited educational institution at the time of your submission.
+    tbd <b>by tbd</b>, attaching some document that proves your student's relationship with the educational institution. You should ask for that only if you are registered in a degree program (undergraduate or graduate) at an accredited educational institution at the time of your submission.
 
 <b>** Different prices for developing countries: </b><i>Less developed countries</i> are defined here as countries with a human development index of &lt;0.8 (see 
     <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index">
@@ -30,6 +28,6 @@ Registration and participation in ICBO 2025 meetings and activities constitutes 
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
+Please direct all further questions to tbd
 
 
