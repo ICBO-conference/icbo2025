@@ -7,46 +7,41 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
 
 ## Theme of Conference 
 
-<i> <b> [THEME] </b> </i>
+<i> <b> tbd </b> </i>
 
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates</b>: November 12th to November 15th (11/12/2025-11/15/2025)</li>  
+    <li><b>Conference Dates: November 12th to November 15th (11/12/2025-11/15/2025)</b></li>  
     <ul>
-        <li><b>Workshops/tutorials</b>: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
-        <li><b>Main conference</b>: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
+        <li><b>Workshops/tutorials</b>: tbd </li>
+        <li><b>Main conference</b>: tbd </li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li>Journal Track submission deadline: [MONTH] [DAYNUMBER]st.</li>
-        <li>Workshops and Tutorials submission deadline: [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024</li>
-        <li>Software demo submission deadline: [MONTH] [DAYNUMBER], 2024. Notification: [MONTH] [DAYNUMBER], 2024</li>
-        <li> <b>ICBO Conference Papers and Abstracts deadline:</b> [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024 (tentative)</li>
+        <li>Journal Track submission deadline: tbd </li>
+        <li>Workshops and Tutorials submission deadline: tbd </li>
+        <li>Software demo submission deadline: tbd </li>
+        <li><b>ICBO Conference Papers and Abstracts deadline: tbd </b></li>
     </ul>
   </ul>
 
 ### Call for Submissions 
 
-Please see [details here](call.md) for further information.
+In development.
 
 ### Keynote Speakers
 
 <ul>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
-    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
+    tbd
 </ul>
 
-[Biografy and Details](keynotes.md)
-
-### Location
+### Setting
 
 The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held virtually over Zoom.</b> 
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
+Please direct all further questions to tbd 
 
 
