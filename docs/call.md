@@ -5,22 +5,22 @@
 
 The International Conference on Biological and Biomedical Ontology (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
 
-The focus of our 2025 conference is <b>[THEME]</b>.
+The focus of our 2025 conference is <b>tbd</b>.
 
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates</b>: November 12th to November 15th (11/12/25-11/15/25)</li> 
+    <li><b>Conference Dates: November 12th to November 15th (11/12/25-11/15/25)</b></li> 
     <ul>
-        <li><b>Workshops/tutorials</b>: [MONTH] [DAYNUMBER]-[DAYNUMBER], 2024</li>
-        <li><b>Main conference</b>: [MONTH] [DAYNUMBER] - [MONTH] [DAYNUMBER], 2024</li>
+        <li><b>Workshops/tutorials</b>: tbd</li>
+        <li><b>Main conference</b>: tbd</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li>Journal Track submission deadline: [MONTH] [DAYNUMBER]st.</li>
-        <li>Workshops and Tutorials submission deadline: [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024</li>
-        <li>Software demo submission deadline: [MONTH] [DAYNUMBER], 2024. Notification: [MONTH] [DAYNUMBER], 2024</li>
-        <li> <b>ICBO Conference Papers and Abstracts deadline:</b> [MONTH] [DAYNUMBER], 2024. Notification [MONTH] [DAYNUMBER], 2024 (tentative)</li>
+        <li>Journal Track submission deadline: tbd</li>
+        <li>Workshops and Tutorials submission deadline: tbd</li>
+        <li>Software demo submission deadline: tbd</li>
+        <li><b>ICBO Conference Papers and Abstracts deadline:tbd</b></li>
     </ul>
   </ul>
 
@@ -40,8 +40,7 @@ The focus of our 2025 conference is <b>[THEME]</b>.
 <ol type="1">
     <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the CEUR
         template, <b>single column</b>.</li>
-    <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are
-        added to the footnote on the lower left of the first page.</li>
+    <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.</li>
     <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a
         Contribution as Open-Access on CEUR-WS.org prepared by the
         corresponding author. Please download one of the ICBO 202x customized form bellow:
@@ -57,8 +56,7 @@ The focus of our 2025 conference is <b>[THEME]</b>.
                 signed author agreement!</li>
         </ol>
     <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print it out, sign it in ink (by hand), then
-            scan or photograph the form and <u>both upload it on easychair and send it to <a
-                    href="mailto:mail@domain?subject=Author Agreement for submission PAPER ">mail{at}domain</a></u>
+            scan or photograph the form and <u>both upload it on easychair and send it to tbd</u>
         </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".
     </li>
     <ul>
@@ -75,14 +73,12 @@ The focus of our 2025 conference is <b>[THEME]</b>.
 ### Call for Workshops, Tutorials and Demos 
 
 <ul>
-    <li><i>Workshops</i> and <i>Tutorials</i> submission deadline Month Day,
-        Year. Notification <b>Month Day</b>, Year.</li>
-    <li><i>Software demo</i> submission deadline: <b>Month Day</b>, Year. Notification: <b>Month Day</b>,
+    <li><i>Workshops</i> and <i>Tutorials</i> submission deadline <b>tbd</b>. Notification <b>tbd</b></li>
+    <li><i>Software demo</i> submission deadline: <b>tbd</b>. Notification: <b>Month Day</b>,
         Year.
     </li>
-    <li><b>Submission link</b>: <a href="http://link.example..." target="_blank">http://link.example...</a>
-        -
-        submission will use the <i>Google Form</i>. </li>
+    <li><b>Submission link</b>: tbd</a>
+        -submission will use <i>tbd</i>. </li>
     <p><b>Workshops and tutorials</b> could be Half or Full day (3 and 6 hours respectively)</p>
 </ul>
 
@@ -123,7 +119,7 @@ The focus of our 2025 conference is <b>[THEME]</b>.
 
 ## Call for ICBO Conference Papers and Abstracts
 
-Submission deadline: Month Day, 2025. Notification: Month Day, 2025</li>
+Submission deadline: <b>tbd</b>, 2025. Notification: <b>tbd</b>, 2025
 
 The following paper categories are welcome:
 <ul>
@@ -131,16 +127,14 @@ The following paper categories are welcome:
     <li>Short papers: up to 7 pages (Including references).</li>
     <li>Poster Abstracts: 1 page extended abstract format, with limited references.</li>
     <li><b>For each paper/poster accepted, at least one author must register until Month Day as presenter fee.</b></li>
-    <li>Details on: <a href="https://easychair.org/cfp/icboYEAR"
-            target="_blank">https://easychair.org/cfp/icboYEAR</a></li>
-    <li>Submission link: <a href="https://easychair.org/conferences/?conf=icboYEAR"
-            target="_blank">https://easychair.org/conferences/?conf=icboYEAR</a></li>
+    <li>Details on: tbd</li>
+    <li>Submission link: tbd</li>
 </ul>
 
 #### Topics of Interest 
 
-<p>We are particularly interested in topics related to "THEME OF THIS CONFERENCE", but other areas of
-    interest for ICBO 202x include, but are not limited to: </p>
+<p>We are particularly interested in topics related to "tbd", but other areas of
+    interest for ICBO 2025 include, but are not limited to: </p>
 <ul>
     <li>Big data, data science, data mining, machine learning, artificial intelligence,
         decision support
@@ -180,9 +174,8 @@ The following paper categories are welcome:
     <li>Posters should be built in A0 paper size, vertically (portrait) orientation, paper
         or fabric material.</li>
 
-    <li>Download the <b>guidelines and instructions</b> for the poster <a
-            href="[URL]/exampleGuidelines.pdf" download>(pdf)</a>.</li>
-    <li>Download the poster template <a href="[URL]/examplePoster.pptx" download>(pptx)</a>.
+    <li>Download the <b>guidelines and instructions</b> for the poster tbd.</li>
+    <li>Download the poster template tbd.
     </li>
     <li>As part of the conference program, <span style="color: red"><b>each poster presenter MUST give a
                 brief flash talk of approximately 2 minutes</b></span> during the designated session.</li>
@@ -246,19 +239,19 @@ The following paper categories are welcome:
             and will not replace your live virtual presentation.</li>
         <li>The video should not exceed 1GB in size.</li>
         <li><span style="color: red"><b>YOU MUST upload this video </span></b> <a
-                href=" https://forms.gle/example" target="_blank">here</a> at least 72 hours
+                href="https://forms.gle/example" target="_blank">here</a> at least 72 hours
             before your session.</li>
     </ul>
 </ol>
 
 ## Journal of Biomedical Semantics ICBO Thematic Series Option
 
-Journal Track submission deadline: [MONTH] [DAY].
+Journal Track submission deadline: <b>tbd</b>.
 <ul>
     <li>In partnership with the Journal of Biomedical Semantics, manuscripts submitted to
         the ICBO Thematic Series of this journal will be published immediately after acceptance and presented in the
         main ICBO conference following acceptance.</li>
-    <li>For this track, we suggest submission by [MONTH] [DAY] at the latest for full
+    <li>For this track, we suggest submission by <b>tbd</b> at the latest for full
         consideration for the conference.</li>
     <li>Later submission is possible, but the authors bear the risk that the review will not
         be available in time for conference presentation.</li>
@@ -270,82 +263,12 @@ Journal Track submission deadline: [MONTH] [DAY].
 ## Program Committee ICBO 2025
 
 <ul>
-
-    <li>Asiyah Lin - National Institutes of Health (NIH)</li>
-    <li>Beera Damayanthi Jesudas - University of Florida</li>
-    <li>Eduardo Felipe - Federal University of Itajubá</li>
-    <li>Finn Wilson - University at Buffalo</li>
-    <li>William (Bill) Duncan - University of Florida</li>
-    
-    <li>Adrien Barton - The French National Centre for Scientific Research</li>
-    <li>Alan Ruttenberg - The State University of New York at Buffalo </li>
-    <li>Alexander D. Diehl - Department of Biomedical Informatics, University at Buffalo </li>
-    <!-- <li>Alexandre Rademaker - IBM Research and EMAp/FGV </li> -->
-    <!-- <li>Amanda Hicks - University of Florida </li> -->
-    <li>Amanda Damasceno De Souza - Universidade FUMEC </li>
-    <li>Andrey Soares - University of Colorado </li>
-    <li>Asiyah Lin - National Institutes of Health (NIH) </li>
-    <li>Barry Smith - The State University of New York at Buffalo </li>
-    <li>Bjoern Peters - La Jolla Institute for Allergy and Immunology </li>
-    <!-- <li>Chris Mungall - Biosystems Data Science Berkeley Lab </li> -->
-    <li>Carlos H. Marcondes - Universidade Federal Fluminense </li>
-    <li>Chris Stoeckert - University of Pennsylvania </li>
-    <li>Christiano P. Pessanha - Universidade Federal Fluminense</li>
-    <li>Claudenir Fonseca - Free University of Bolzano </li>
-    <li>Darren Natale - The Georgetown Faculty </li>
-    <!-- <li>Clever Farias - University of São Paulo </li> -->
-    <!-- <li>Cristine Griffo - Free University of Bozen-Bolzano </li> -->
-    <li>Eduardo Felipe - Universidade Federal de Itajubá </li>
-    <!-- <li>Fernanda Baião - Pontifícia Universidade Católica do Rio de Janeiro </li> -->
-    <li>Fernanda Farinelli - Universidade de Brasilia </li>
-    <li>Fernando Cruz - Universidade de Brasilia </li>
-    <li>Flavio S Correa Da Silva - Universidade de São Paulo </li>
-    <li>Fred Freitas - Universidade Federal de Pernambuco </li>
-    <li>Fumiaki Toyoshima - IRIT </li>
-    <li>Gabriela Henning - INTEC (CONICET-UNL) </li>
-    <li>Guylerme Figueiredo - Petrobrás S.A.</li>
-    <!-- <li>Giancarlo Guizzardi - University of Twente </li> -->
-    <!-- <li>Jane Lomax - SciBite </li> -->
-    <li>Jeanne Louize Emygdio - Pontifícia Universidade Católica de Minas Gerais</li>
-    <li>Jeff Otte - University at Buffalo</li>
-    <li>Jie Zheng - University of Pennsylvania </li>
-    <li>João Lima - Senado Federal</li>
-    <li>João Paulo A. Almeida - Universidade Federal do Espírito Santo </li>
-    <li>John Beverley - The State University of New York at Buffalo </li>
-    <!-- <li>Jonathan Bona - University of Arkansas for Medical Sciences </li> -->
-    <li>Jose M Parente De Oliveira - Instituto Tecnológico de Aeronáutica </li>
-    <li>Lais Salvador - Universidade Federal da Bahia </li>
-    <li>Leo Obrst - MITRE </li>
-    <li>Luan Garcia - Universidade Federal do Rio Grande do Sul </li>
-    <!-- <li>Lawrence Hunter - University of Colorado Anschutz Medical Campus </li> -->
-    <li>Luis M. Machado - Centre for Interdisciplinary Studies, University of Coimbra </li>
-    <li>Luiz Olavo Bonino Da Silva Santos - University of Twente </li>
-    <!-- <li>Maria Laura Caliusco - Universidad Tecnológica Nacional/Facultad Regional Santa Fe </li> -->
-    <li>Mara Abel - Universidade Federal do Rio Grande do Sul </li>
-    <li>Marcio Bezerra Da Silva - University of Brazilia </li>
-    <li>Maria Das Graças da Silva Teixeira - Universidade Federal do Espírito Santo </li>
-    <!-- <li>Mark Jensen - The State University of New York at Buffalo </li> -->
-    <!-- <li>Mathias Brochhausen - University of Arkansas for Medical Sciences </li> -->
-    <li>Mauricio Almeida - Universidade Federal de Minas Gerais </li>
-    <!-- <li>Melanie Courtot - University of Toronto </li> -->
-    <!-- <li>Pankaj Jaiswal - Oregon State University </li> -->
-    <li>Phillip Lord - Newcastle University </li>
-    <li>Pierre Grenon - National Center for Ontological Research </li>
-    <li>Rafael Peñaloza - University of Milano-Bicocca </li>
-    <li>Randi Vita - La Jolla Institute for Allergy &amp; Immunology </li>
-    <li>Renata Guizzardi - University of Twente </li>
-    <li>Sana Debbech - IRT Railenium</li>
-    <li>Sarah Alghamdi - King Abdullah University of Science and Technology (KAUST)</li>
-    <li>Silvio Gonnet - Universidad Tecnológica Nacional/Facultad Regional Santa Fe </li>
-    <!-- <li>Sivaram Arabandi - Ontopro LLC and Optum </li> -->
-    <li>William Duncan - University of Florida </li>
-    <!-- <li>William Hogan - University of Florida </li> -->
-    <li>Yongqun He - University of Michigan </li>
+   tbd
 </ul>
 
 
 ### Contact Information 
 
-Please direct all further questions to <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> or <a href="mailto:[EMAIL]?subject=Conference-Information">[EMAIL]</a> 
+Please direct all further questions to tbd
 
 
