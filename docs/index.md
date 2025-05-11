@@ -15,17 +15,21 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     <li><b>Conference Dates:</b></li>  
     <ul>
         <li><b>Workshops/tutorials</b>: tbd </li>
-        <li><b>Main conference</b>November 3rd to November 9th (11/3/2025-11/9/2025)</li>
+        <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
         <li><b>ICBO-EAST</b>: tbd</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li><b>Workshops and Tutorials submission deadline</b>: June 1st (6/1/2025), <b>acceptance</b>: July 15th (7/15/2025) </li>
-        <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025), <b>acceptance</b>: October 1st (10/1/2025) </li>
-        <li><b>Main Conference submission deadlin</b>: August 17th (8/17/2025), <b>acceptance</b>: September 15th (9/15/2025)</li>
-        <li>Software demo submission deadline: tbd </li>
-        <li><b>ICBO Conference Papers and Abstracts deadline: tbd </b></li>
+        <li><b>Workshops and Tutorials submission deadline</b>: June 1st (6/1/2025) 
+           <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
+        <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
+          <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
+        <li><b>Main Conference submission deadlin</b>: August 17th (8/17/2025) 
+          <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
+        <li><b>Software demo submission deadline</b>: tbd </li>
+        <li><b>ICBO Conference Papers and Abstracts deadline</b>: tbd </li>
     </ul>
+  </ul>
 
 ### Call for Submissions 
 
