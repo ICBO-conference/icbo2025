@@ -10,17 +10,22 @@ The focus of our 2025 conference is <b>tbd</b>.
 ### Important Dates 
 
   <ul>
-    <li><b>Conference Dates: November 12th to November 15th (11/12/25-11/15/25)</b></li> 
+    <li><b>Conference Dates:</b></li>  
     <ul>
-        <li><b>Workshops/tutorials</b>: tbd</li>
-        <li><b>Main conference</b>: tbd</li>
+        <li><b>Workshops/tutorials</b>: tbd </li>
+        <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
+        <li><b>ICBO-EAST</b>: tbd</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li>Journal Track submission deadline: tbd</li>
-        <li>Workshops and Tutorials submission deadline: tbd</li>
-        <li>Software demo submission deadline: tbd</li>
-        <li><b>ICBO Conference Papers and Abstracts deadline:tbd</b></li>
+        <li><b>Workshops and Tutorials submission deadline</b>: June 1st (6/1/2025) 
+           <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
+        <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
+          <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
+        <li><b>Main Conference submission deadlin</b>: August 17th (8/17/2025) 
+          <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
+        <li><b>Software demo submission deadline</b>: tbd </li>
+        <li><b>ICBO Conference Papers and Abstracts deadline</b>: tbd </li>
     </ul>
   </ul>
 
@@ -73,7 +78,7 @@ The focus of our 2025 conference is <b>tbd</b>.
 ### Call for Workshops, Tutorials and Demos 
 
 <ul>
-    <li><i>Workshops</i> and <i>Tutorials</i> submission deadline <b>tbd</b>. Notification <b>tbd</b></li>
+    <li><i>Workshops</i> and <i>Tutorials</i> submission deadline <b>June 1st (6/1/2025)</b>. Notification <b>July 15th (7/15/2025)</b></li>
     <li><i>Software demo</i> submission deadline: <b>tbd</b>. Notification: <b>Month Day</b>,
         Year.
     </li>
@@ -133,39 +138,28 @@ The following paper categories are welcome:
 
 #### Topics of Interest 
 
-<p>We are particularly interested in topics related to "tbd", but other areas of
+<p>We are particularly interested in topics related to the theme of the conference, "Biomedical Ontologies in Action: Powering Responsible AI and Global Health and Wellness Insights", but other areas of
     interest for ICBO 2025 include, but are not limited to: </p>
 <ul>
-    <li>Big data, data science, data mining, machine learning, artificial intelligence,
-        decision support
-        systems, Digital twins</li>
+    <li>Novel biomedical ontologies and extensions of existing ontologies</li>
+    <li>Applications of bio-ontologies in management of Big Data, data science, data mining, machine learning, artificial intelligence, decision support systems</li>
     <li>Graph database, knowledge graphs</li>
-    <li>Natural Language Processing (NLP), computational linguistics, linguistic ontologies
-        applied to text
-        processing</li>
+    <li>Ontology tools: visualization, building, reasoning, evaluation, discovery of knowledge, particularly tools that build FAIR-ontology in design</li>
+    <li>Natural Language Processing (NLP) and ontologies, text mining</li>
     <li>Data integration, interoperability</li>
-    <li>Semantic Web: Modeling and Information retrieval ontology-based,Linked open data
-        (LOD) applications
-    </li>
-    <li>Knowledge organization, Conceptual Modeling</li>
+    <li>Semantic Web: Modeling and Information retrieval ontology-based, Linked open data (LOD) applications</li>
     <li>Biocuration</li>
-    <li>Domain ontologies (Health, Smart Cities, Government, Education and others)</li>
-    <li>Genetics, phenotypes, and diseases</li>
-    <li>COVID-19</li>
-    <li>Social determinants of health (SDOH)</li>
-    <li>Electronic health records</li>
-    <li>Industrial applications</li>
+    <li>Ontologies in genetics, phenotypes, and diseases</li>
+    <li>Ontology-based standards,Ontology design patterns</li>
+    <li>Health Informatics and the role of ontologies</li>
+    <li>Industrial applications of ontologies</li>
     <li>Plant and agricultural applications</li>
-    <li>Climate change</li>
-    <li>Ontology for e-science, life sciences, e-business, multimedia and cultural heritage
-    </li>
-    <li>Ontology Engineering: Methodologies, techniques and practices, composition,
-        modularity, evaluation
-        and validation, patterns and anti-patterns</li>
+    <li>Ontology Engineering: Methodologies, techniques and practices, composition, modularity, evaluation, and validation</li>
     <li>Ontology governance</li>
-    <li>Ontologies and the FAIR data principles</li>
-    <li>Ontology tools: visualization, building, reasoning, evaluation, discovery of
-        knowledge</li>
+    <li>Ontologies and the FAIR data principles
+    </li>
+    <li>Food related ***</li>
+    <li>Environment related ***</li>
 </ul>
 
 ### Poster preparation guidelines
@@ -246,7 +240,7 @@ The following paper categories are welcome:
 
 ## Journal of Biomedical Semantics ICBO Thematic Series Option
 
-Journal Track submission deadline: <b>tbd</b>.
+Journal Track submission deadline: <b>July 31st (7/31/2025)</b>.
 <ul>
     <li>In partnership with the Journal of Biomedical Semantics, manuscripts submitted to
         the ICBO Thematic Series of this journal will be published immediately after acceptance and presented in the
@@ -263,12 +257,13 @@ Journal Track submission deadline: <b>tbd</b>.
 ## Program Committee ICBO 2025
 
 <ul>
-   tbd
+   <h4><b>Program Committee Coordination</b></h4>
+    <p>Alex Diehl (University at Buffalo)</p>
 </ul>
 
 
 ### Contact Information 
 
-Please direct all further questions to tbd
+Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
 
 
