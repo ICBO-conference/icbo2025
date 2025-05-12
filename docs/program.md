@@ -3,11 +3,12 @@
 
 ### About Program
 
-<ul>
-    <li><b>Novemeber 12th to November 15th (11/12/2025-11/15/2025)</b></li>
+  <ul>
+    <li><b>Conference Dates:</b></li>  
     <ul>
-        <li>Workshops and tutorials: tbd</li>
-        <li>Main conference: tbd</li>
+        <li><b>Workshops/tutorials</b>: tbd </li>
+        <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
+        <li><b>ICBO-EAST</b>: tbd</li>
     </ul>
 </ul>
 
@@ -47,6 +48,6 @@ tbd
 
 ### Contact Information 
 
-Please direct all further questions to tbd
+Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
 
 
