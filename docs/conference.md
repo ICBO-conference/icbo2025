@@ -32,40 +32,40 @@ The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be 
 
 <p>Below is the list of the General Committee of the event. </p>
   
-    <h4><b>Conference Chairs</b></h4>
-    <p>Asiyah Yu Lin (Axle Research and Technology)</p>
-    <p>Matthew Lange (IC-FOODS)</p>
+  <h4><b>Conference Chairs</b></h4>
+  <p>Asiyah Yu Lin (Axle Research and Technology)</p>
+  <p>Matthew Lange (IC-FOODS)</p>
 
-    <h4><b>Advisory Board</b></h4>
-    <p>Bjoern Peters (La Jolla Institute)</p>
-    <p>Chris Mungall (Lawrence Berkeley National Laboratory)</p>
-    <p>Barry Smith (University at Buffalo, NCOR)</p>
-    <p>Suzanna Lewis</p>
+  <h4><b>Advisory Board</b></h4>
+  <p>Bjoern Peters (La Jolla Institute)</p>
+  <p>Chris Mungall (Lawrence Berkeley National Laboratory)</p>
+  <p>Barry Smith (University at Buffalo, NCOR)</p>
+  <p>Suzanna Lewis</p>
 
-    <h4><b>Main Conference Board</b></h4>
-    <p>tbd</p>
+  <h4><b>Main Conference Board</b></h4>
+  <p>tbd</p>
 
-    <h4><b>ICBO-EAST Satellite Board</b></h4>
-    <p>Yongqun "Oliver" He (University of Michigan)</p>
-    <p>Xiaolin Yang (IMEC)</p>
-    <p>Hiroshi Masuya (RIKEN)</p>
-    <p>Yuki Yamagata (RIKEN)</p>
-    <p>Barry Hardy (Edelweiss Connect)</p>
-    <p>Anuwat Pengput (University at Buffalo)</p>
-    <p>Azza Althagafi (Taif University)</p>
-    <p>Olga Giraldo (DKFZ)</p>
+  <h4><b>ICBO-EAST Satellite Board</b></h4>
+  <p>Yongqun "Oliver" He (University of Michigan)</p>
+  <p>Xiaolin Yang (IMEC)</p>
+  <p>Hiroshi Masuya (RIKEN)</p>
+  <p>Yuki Yamagata (RIKEN)</p>
+  <p>Barry Hardy (Edelweiss Connect)</p>
+  <p>Anuwat Pengput (University at Buffalo)</p>
+  <p>Azza Althagafi (Taif University)</p>
+  <p>Olga Giraldo (DKFZ)</p>
 
-    <h4><b>Workshops and Tutorials Coordination</b></h4>
-    <p>Anna Maria Masci (University of Texas)</p>
+  <h4><b>Workshops and Tutorials Coordination</b></h4>
+  <p>Anna Maria Masci (University of Texas)</p>
 
-    <h4><b>Online Logistic Support</b></h4>
-    <p>tbd</p>
+  <h4><b>Online Logistic Support</b></h4>
+  <p>tbd</p>
 
-    <h4><b>Program Committee Coordination</b></h4>
-    <p>Alex Diehl (University at Buffalo)</p>
+  <h4><b>Program Committee Coordination</b></h4>
+  <p>Alex Diehl (University at Buffalo)</p>
 
-    <h4><b>Journal Track and Proceedings Publication</b></h4>
-    <p>tbd</p>
+  <h4><b>Journal Track and Proceedings Publication</b></h4>
+  <p>tbd</p>
 
   <h4><b>Website Coordination </b></h4>
   <p>Finn Wilson (University at Buffalo)</p>
@@ -73,7 +73,7 @@ The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be 
   <p>William (Bill) Duncan (University of Florida)</p>
   <p>Eduardo Felipe (Federal University of Itajubá)</p>
 
-  <h4><b>Volunteers:</b></h4>
+  <h4><b>Volunteers</b></h4>
   <p>tbd</p> 
 
 ### Previous ICBO Conferences
