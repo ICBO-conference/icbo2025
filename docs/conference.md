@@ -9,15 +9,16 @@ At the conference participants will present their work on applied aspects of ont
 
 ### Theme of Conference 
 
-[<i> <b> tbd </b> </i>]
+<i> <b> Biomedical Ontologies in Action: Powering Responsible AI and Global Health and Wellness Insights </b> </i>
 
 ### Conference Date 
 
-<ul>
-    <li><b>November 12th to November 15th (11/12/2025-11/15/2025)</b></li>
+  <ul>
+    <li><b>Conference Dates:</b></li>  
     <ul>
-        <li>Workshops and tutorials: tbd</li>
-        <li>Main conference: tbd</li>
+        <li><b>Workshops/tutorials</b>: tbd </li>
+        <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
+        <li><b>ICBO-EAST</b>: tbd</li>
     </ul>
 </ul>
 
@@ -29,9 +30,42 @@ The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be 
 
 ### Organization Committee
 
-<p>Below is the list of the General Committee of the event, being the responsibility of the general coordination to align the needs and integration among all members. </p>
+<p>Below is the list of the General Committee of the event. </p>
   
-  tbd
+    <h4><b>Conference Chairs</b></h4>
+    <p>Asiyah Yu Lin (Axle Research and Technology)</p>
+    <p>Matthew Lange (IC-FOODS)</p>
+
+    <h4><b>Advisory Board</b></h4>
+    <p>Bjoern Peters (La Jolla Institute)</p>
+    <p>Chris Mungall (Lawrence Berkeley National Laboratory)</p>
+    <p>Barry Smith (University at Buffalo, NCOR)</p>
+    <p>Suzanna Lewis</p>
+
+    <h4><b>Main Conference Board</b></h4>
+    <p>tbd</p>
+
+    <h4><b>ICBO-EAST Satellite Board</b></h4>
+    <p>Yongqun "Oliver" He (University of Michigan)</p>
+    <p>Xiaolin Yang (IMEC)</p>
+    <p>Hiroshi Masuya (RIKEN)</p>
+    <p>Yuki Yamagata (RIKEN)</p>
+    <p>Barry Hardy (Edelweiss Connect)</p>
+    <p>Anuwat Pengput (University at Buffalo)</p>
+    <p>Azza Althagafi (Taif University)</p>
+    <p>Olga Giraldo (DKFZ)</p>
+
+    <h4><b>Workshops and Tutorials Coordination</b></h4>
+    <p>Anna Maria Masci (University of Texas)</p>
+
+    <h4><b>Online Logistic Support</b></h4>
+    <p>tbd</p>
+
+    <h4><b>Program Committee Coordination</b></h4>
+    <p>Alex Diehl (University at Buffalo)</p>
+
+    <h4><b>Journal Track and Proceedings Publication</b></h4>
+    <p>tbd</p>
 
   <h4><b>Website Coordination </b></h4>
   <p>Finn Wilson (University at Buffalo)</p>
@@ -85,6 +119,6 @@ The Proceedings of this conference can be access in: tbd
 
 ### Contact Information 
 
-Please direct all further questions to tbd
+Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
 
 
