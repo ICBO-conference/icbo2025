@@ -9,7 +9,7 @@ At the conference participants will present their work on applied aspects of ont
 
 ### Theme of Conference 
 
-<i> <b> Biomedical Ontologies in Action: Powering Responsible AI and Global Health and Wellness Insights </b> </i>
+<i> <b>Biological and Biomedical Ontologies in Action for Health, Science, and Sustainability</b> </i>
 
 ### Conference Date 
 
@@ -26,7 +26,7 @@ At the conference participants will present their work on applied aspects of ont
 
 Virtual Conference
 
-The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held virtually over Zoom.</b>
+The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b>
 
 ### Organization Committee
 
@@ -63,15 +63,22 @@ The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be 
 
   <h4><b>Program Committee Coordination</b></h4>
   <p>Alex Diehl (University at Buffalo)</p>
+  <p>William Duncan (University of Florida)</p>
+   <p>Xiaolin Yang (IMEC)</p>
 
   <h4><b>Journal Track and Proceedings Publication</b></h4>
-  <p>tbd</p>
+  <p>Asiyah Yu Lin (Axle Research and Technology)</p>
+  <p>Hande McGinty (Kansas State University)</p>
+  <p>John Beverley (University at Buffalo)</p>
+  <p>Yuki Yamagata (RIKEN)</p>
+  <p>Muhammad "Tuan" Amith (University of Texas Medical Branch)</p>
 
   <h4><b>Website Coordination </b></h4>
   <p>Finn Wilson (University at Buffalo)</p>
   <p>B. Damayanthi Jesudas (University of Florida)</p>
   <p>William (Bill) Duncan (University of Florida)</p>
   <p>Eduardo Felipe (Federal University of Itajubá)</p>
+  <p>Anthony HUffman (University of Michigan)</p>
 
   <h4><b>Volunteers</b></h4>
   <p>tbd</p> 
