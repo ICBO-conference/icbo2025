@@ -5,7 +5,7 @@
 
 The International Conference on Biological and Biomedical Ontology (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
 
-The focus of our 2025 conference is <b>tbd</b>.
+The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in Action for Health, Science, and Sustainability</b>.
 
 ### Important Dates 
 
@@ -18,12 +18,14 @@ The focus of our 2025 conference is <b>tbd</b>.
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li><b>Workshops and Tutorials submission deadline</b>: June 1st (6/1/2025) 
+        <li><b>Workshops and Tutorial Proposal submission deadline</b>: June 30th (6/30/2025) 
            <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
         <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
-        <li><b>Main Conference submission deadlin</b>: August 17th (8/17/2025) 
+        <li><b>Main Conference submission deadline</b>: August 17th (8/17/2025) 
           <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
+        <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
+          <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
         <li><b>Software demo submission deadline</b>: tbd </li>
         <li><b>ICBO Conference Papers and Abstracts deadline</b>: tbd </li>
     </ul>
@@ -78,7 +80,7 @@ The focus of our 2025 conference is <b>tbd</b>.
 ### Call for Workshops, Tutorials and Demos 
 
 <ul>
-    <li><i>Workshops</i> and <i>Tutorials</i> submission deadline <b>June 1st (6/1/2025)</b>. Notification <b>July 15th (7/15/2025)</b></li>
+    <li><i>Workshops</i> and <i>Tutorials</i> Proposal submission deadline <b>June 30th (6/30/2025)</b>. Notification <b>July 15th (7/15/2025)</b></li>
     <li><i>Software demo</i> submission deadline: <b>tbd</b>. Notification: <b>Month Day</b>,
         Year.
     </li>
@@ -124,7 +126,7 @@ The focus of our 2025 conference is <b>tbd</b>.
 
 ## Call for ICBO Conference Papers and Abstracts
 
-Submission deadline: <b>tbd</b>, 2025. Notification: <b>tbd</b>, 2025
+Submission deadline: <b>August 17th</b>, 2025. Notification: <b>September 15th</b>, 2025
 
 The following paper categories are welcome:
 <ul>
@@ -138,28 +140,33 @@ The following paper categories are welcome:
 
 #### Topics of Interest 
 
-<p>We are particularly interested in topics related to the theme of the conference, "Biomedical Ontologies in Action: Powering Responsible AI and Global Health and Wellness Insights", but other areas of
+<p>We are particularly interested in topics related to the theme of the conference, "Biological and Biomedical Ontologies in Action for Health, Science, and Sustainability", but other areas of
     interest for ICBO 2025 include, but are not limited to: </p>
+<p>Methodologies and Tools</p>
 <ul>
-    <li>Novel biomedical ontologies and extensions of existing ontologies</li>
-    <li>Applications of bio-ontologies in management of Big Data, data science, data mining, machine learning, artificial intelligence, decision support systems</li>
-    <li>Graph database, knowledge graphs</li>
-    <li>Ontology tools: visualization, building, reasoning, evaluation, discovery of knowledge, particularly tools that build FAIR-ontology in design</li>
-    <li>Natural Language Processing (NLP) and ontologies, text mining</li>
-    <li>Data integration, interoperability</li>
-    <li>Semantic Web: Modeling and Information retrieval ontology-based, Linked open data (LOD) applications</li>
-    <li>Biocuration</li>
-    <li>Ontologies in genetics, phenotypes, and diseases</li>
-    <li>Ontology-based standards,Ontology design patterns</li>
-    <li>Health Informatics and the role of ontologies</li>
-    <li>Industrial applications of ontologies</li>
-    <li>Plant and agricultural applications</li>
-    <li>Ontology Engineering: Methodologies, techniques and practices, composition, modularity, evaluation, and validation</li>
-    <li>Ontology governance</li>
-    <li>Ontologies and the FAIR data principles
-    </li>
-    <li>Food related ***</li>
-    <li>Environment related ***</li>
+  <li>Novel biomedical ontologies and extensions of existing ontologies, as well as graph databases and knowledge graphs</li>
+  <li>Ontology Engineering: Methodologies, techniques and practices, composition, modularity, evaluation, and validation</li>
+  <li>Ontology standards, design patterns, mapping and alignment</li>
+  <li>Ontology tools: visualization, building, reasoning, evaluation, knowledge discovery</li>
+  <li>Ontology governance, sustainability, and FAIR data principles</li>
+  <li>Applications of bio-ontologies in data management and biocuration, data integration and interoperability, machine learning, artificial intelligence, and decision support systems</li>
+  <li>Natural Language Processing (NLP) and ontologies, text mining, specifically LLM and its applications in ontology development</li>
+  <li>Semantic Web and SemWeb technology: ontology-based Modeling and Information retrieval, Linked open data (LOD) applications</li>
+</ul>
+<p>Scientific Domains (all biomedicine, biological, and life sciences related domains are welcome)</p>
+<ul>
+  <li>Health Informatics and the role of ontologies</li>
+  <li>Public and population health and global health</li>
+  <li>Mental health and wellness</li>
+  <li>Traditional medicine (e.g. Chinese medicine), integrative, and alternative medicine</li>
+  <li>Genetics, biochemistry, phenotypes, and diseases</li>
+  <li>Oral and dental health</li>
+  <li>Plant, veterinary, and agricultural applications</li>
+  <li>Food and Nutrition related</li>
+  <li>Environmental related</li>
+  <li>Human physical activity, kinesiology, and human performance</li>
+  <li>Industrial applications of ontology (e.g. pharmaceutical and food industries)</li>
+  <li>Bioethics and legal health</li>
 </ul>
 
 ### Poster preparation guidelines
@@ -259,6 +266,8 @@ Journal Track submission deadline: <b>July 31st (7/31/2025)</b>.
 <ul>
    <h4><b>Program Committee Coordination</b></h4>
     <p>Alex Diehl (University at Buffalo)</p>
+    <p>William Duncan (University of Florida)</p>
+    <p>Xiaolin Yang (IMEC)</p>
 </ul>
 
 
