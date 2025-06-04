@@ -7,7 +7,7 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
 
 ## Theme of Conference 
 
-<i> <b> Biomedical Ontologies in Action: Powering Responsible AI and Global Health and Wellness Insights </b> </i>
+<i> <b>Biological and Biomedical Ontologies in Action for Health, Science, and Sustainability</b> </i>
 
 ### Important Dates 
 
@@ -20,12 +20,14 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li><b>Workshops and Tutorials submission deadline</b>: June 1st (6/1/2025) 
+        <li><b>Workshops and Tutorial Proposal submission deadline</b>: June 30th (6/30/2025) 
            <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
         <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
-        <li><b>Main Conference submission deadlin</b>: August 17th (8/17/2025) 
+        <li><b>Main Conference submission deadline</b>: August 17th (8/17/2025) 
           <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
+        <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
+          <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
         <li><b>Software demo submission deadline</b>: tbd </li>
         <li><b>ICBO Conference Papers and Abstracts deadline</b>: tbd </li>
     </ul>
@@ -43,7 +45,7 @@ In development.
 
 ### Setting
 
-The 16th International Conference of Biomedical Ontology (ICBO 2024) <b>will be held virtually over Zoom.</b> 
+The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b> 
 
 ### Contact Information 
 
