@@ -182,6 +182,6 @@ The following paper categories are welcome:
 
 ### Contact Information 
 
-Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
+Please direct all further questions to Asiya Yu Lin (ontology.world@gmail.com)
 
 
