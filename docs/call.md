@@ -1,9 +1,16 @@
 <br>
-<h1> ICBO 2025 <small>conference</small></h1>
+<h1> ICBO 2025: 16th International Conference on Biological and Biomedical Ontology <small>conference</small></h1>
 
 ## General Information 
 
 The International Conference on Biological and Biomedical Ontology (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
+
+As the biomedical sciences continue to generate and rely on complex, large-scale data, ontologies remain essential for enabling semantic clarity, data integration, and interoperability. In recent years, the growing role of AI and data-driven research has further increased the demand for robust, FAIR, and sustainable ontology infrastructures.
+
+ICBO 2025 invites contributions that explore both foundational and applied aspects of biomedical ontologies, with a special focus on long-term sustainability, governance, tooling, and the evolving role of ontologies in AI-enabled biomedicine.
+
+ICBO 2025 will be held online as a full virtual event. 
+
 
 The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in Action for Health, Science, and Sustainability</b>.
 
@@ -12,9 +19,7 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
   <ul>
     <li><b>Conference Dates:</b></li>  
     <ul>
-        <li><b>Workshops/tutorials</b>: tbd </li>
         <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
-        <li><b>ICBO-EAST</b>: tbd</li>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
@@ -26,103 +31,51 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
           <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
         <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
           <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
-        <li><b>Software demo submission deadline</b>: tbd </li>
-        <li><b>ICBO Conference Papers and Abstracts deadline</b>: tbd </li>
     </ul>
   </ul>
 
 ### ICBO Conference Proceeding Publication Requirements
 
-<p>All conference submissions accepted will be published in the <a href="http://ceur-ws.org/"
-        target="_blank">CEUR
-        Workshop Proceedings</a> as part of the new <a href="http://ceur-ws.org/iaoa.html"
-        target="_blank">IAOA series</a>.
-</p>
-<p>An example from a past conference can be seen <a href="https://ceur-ws.org/Vol-3073/"
-        target="_blank">here</a></p>
+All conference submissions accepted will be published in the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings</a> as part of the new <a href="http://ceur-ws.org/iaoa.html" target="_blank">IAOA series</a>. 
+An example from a past conference can be seen <a href="https://ceur-ws.org/Vol-3603/" target="_blank">here</a>.
 
-<p>In order for this to happen, the following requirements must be satisfied.</p>
+In order for this to happen, the following requirements must be satisfied:
 
-<!-- <h4>Submission Format (Workshops, Tutorials, Papers and Abstracts)</h4> -->
-<ol type="1">
-    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the CEUR
-        template, <b>single column</b>.</li>
+<ol type="1">            
+    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the <a href="../papers/CEUR-Template-1col.docx" target="_blank"> CEUR-Template-1col.docx</a> file, <b>single column</b>.</li>
+    <li>The template in OverLeaf (LaTEx) version, is <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank"> here</a>. 
     <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.</li>
-    <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a
-        Contribution as Open-Access on CEUR-WS.org prepared by the
-        corresponding author. Please download one of the ICBO 202x customized form bellow:
-        <ol type="a">
-            <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12"
-                    target="_blank">AUTHOR-AGREEMENT (NTP)</a>: Authors shall use this form if they included
-                no copyrighted third party material in their paper text (or accompanying sources, datasets).
-                This is the right variant in most cases.</li>
-            <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12"
-                    target="_blank">AUTHOR-AGREEMENT (TP)</a>: Authors shall use this form if they did
-                include copyrighted third party material in their paper or accompanying material. They must
-                then also attach a copy of the permission by the third party to use this material in the
-                signed author agreement!</li>
+    <li>Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2024 with the conference name, date, and place. You only need to fill in the EMAIL and ORCID information for each author.</li>
+    <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a Contribution as Open-Access on CEUR-WS.org prepared by the corresponding author. Please download one of the ICBO 2024 customized form bellow:
+        <ol type="a"> 
+        <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (NTP)</a>: Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.</li>
+        <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (TP)</a>: Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!</li>
         </ol>
-    <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print it out, sign it in ink (by hand), then
-            scan or photograph the form and <u>both upload it on easychair and send it to tbd</u>
-        </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".
-    </li>
-    <ul>
-        <li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an
-            alternative method to provide a signature if you are unable to print the form, as shown here: <a
-                href="https://ceur-ws.org/agreement-paper1.jpg"
-                target="_blank">https://ceur-ws.org/agreement-paper1.jpg</a>
-        </li>
-    </ul>
-    <li>Update your camera-ready paper on easychair.</li>
+        <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print
+    it out, sign it in ink (by hand), then scan or photograph the form
+    and <u>both upload it on</u> <a
+    href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F"
+    target="_blank">official administrative website</a> <u>and send it
+    to:</u>  <a
+    href="mailto:icbo-2024@googlegroups.com?subject=Author
+    Agreement for submission PAPER ">icbo-2024@googlegroups.com
+    </a>
+        </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".</li>
+        <ul><li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown here: <a href="http://ceur-ws.org/agreement-paper1.jpg"
+            target="_blank">http://ceur-ws.org/agreement-paper1.jpg</a>
+        </li></ul>
+    <li>Update your camera-ready paper on <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F" target="_blank">official administrative website </a>.</li>
 </ol>
 
-## Workshops, Tutorials and Demos
-### Call for Workshops, Tutorials and Demos 
+## Workshops, Tutorials, and Demos
+
+### Call for Workshops, Tutorials, and Demos 
 
 <ul>
-    <li><i>Workshops</i> and <i>Tutorials</i> Proposal submission deadline <b>June 30th (6/30/2025)</b>. Notification <b>July 15th (7/15/2025)</b></li>
-    <li><i>Software demo</i> submission deadline: <b>tbd</b>. Notification: <b>Month Day</b>,
-        Year.
-    </li>
-    <li><b>Submission link</b>: tbd</a>
-        -submission will use <i>tbd</i>. </li>
-    <p><b>Workshops and tutorials</b> could be Half or Full day (3 and 6 hours respectively)</p>
-</ul>
-
-#### Workshops
-<p>We are specifically looking for following topics for <b>workshops</b>:</p>
-<ul>
-    <li>Natural Language Processing (NLP)</li>
-    <li>Ontology aware machine learning or AI</li>
-    <li>Social Determinants of Health (SDOH)</li>
-    <li>Fast Healthcare Interoperability Resources (FHIR)</li>
-    <li>Infectious and immune-mediated disease</li>
-    <li>FAIR ontology harmonization</li>
-    <li>Ontology Governance and Interoperability</li>
-    <li>Other topics are welcome</li>
-</ul>
-
-#### Tutorials
-<p>We are specifically looking for following topics for <b>tutorials</b>:</p>
-<ul>
-    <li>Introductory Domain Ontology Building (using top-level ontology) tutorial</li>
-    <li>Ontology Building with OBO Foundry tutorial</li>
-    <li>Ontology Governance and Interoperability</li>
-    <li>Fast Healthcare Interoperability Resources (FHIR)</li>
-    <li>Other topics are welcome</li>
-</ul>
-
-#### Software demo
-<p>Specifically looking for demos on ontology supported data curation, ontology supported
-    semantic search UI/UX design.</p>
-<ul>
-    <li>15-30 minute demos</li>
-    <li>Other topics are welcome</li>
-</ul>
-
-#### Workshops and Tutorials accepted
-
-<p>Take a look at ICBO 2024 conference proposals accepted <a href="https://ceur-ws.org/Vol-3939/">here</a> </p>
+    <li><i>Workshop</i> submission deadline <b>June 30th</b> 2025. Notification <b>July 15th</b> 2024.</li>
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https://cmt3.research.microsoft.com/ICBO2024/</a> </li>
+    <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
+</ul> 
 
 ## Call for ICBO Conference Papers and Abstracts
 
@@ -140,8 +93,7 @@ The following paper categories are welcome:
 
 #### Topics of Interest 
 
-<p>We are particularly interested in topics related to the theme of the conference, "Biological and Biomedical Ontologies in Action for Health, Science, and Sustainability", but other areas of
-    interest for ICBO 2025 include, but are not limited to: </p>
+<p>We are interested in all topics related to ontologies and knowledge representation in biomedicine, biology, and life sciences. Topics include but are not limited to:</p>
 <p>Methodologies and Tools</p>
 <ul>
   <li>Novel biomedical ontologies and extensions of existing ontologies, as well as graph databases and knowledge graphs</li>
@@ -169,58 +121,12 @@ The following paper categories are welcome:
   <li>Bioethics and legal health</li>
 </ul>
 
-### Poster preparation guidelines
-<ul>
-    <li><b>Posters session will be just in-person.</b></li>
-    <li>Posters should be built in A0 paper size, vertically (portrait) orientation, paper
-        or fabric material.</li>
-
-    <li>Download the <b>guidelines and instructions</b> for the poster tbd.</li>
-    <li>Download the poster template tbd.
-    </li>
-    <li>As part of the conference program, <span style="color: red"><b>each poster presenter MUST give a
-                brief flash talk of approximately 2 minutes</b></span> during the designated session.</li>
-    <li>You can provide only one slide to display the title of your poster, the names of authors and
-        coauthors, and the affiliations.</li>
-    <li><b>YOU MUST upload this slide</b> <a href="https://forms.gle/example" target="_blank">here</a> until August 24.</li>
-</ul>
-
-### Papers presentations guidelines 
+### Virtual Paper presentations guidelines 
 <ul>
     <li>
-        <h6>Online Presentation Logistics</h6>
+        <h6>Virtual Presentation Logistics</h6>
     </li>
-    <li>Prepare your presentation to fit within the allocated time slot.</li>
-    <li>Rehearse your presentation to ensure you stay within the time limit.</li>
-    <li>Presentation Time:</li>
-    <ul>
-        <li><b><i>Full Papers:</i></b> Your presentation is allocated a total of 25 minutes, which includes
-            an additional 5 minutes designated for Q&A.</li>
-        <li><b><i>Short Papers:</i></b> You have a total of 15 minutes for your presentation, with an
-            additional 5 minutes allotted for the Q&A segment.</li>
-    </ul>
-    <li>Sessions will follow the conference <a
-            href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
-    <ul>
-        <li>To ensure a seamless presentation experience, we kindly request the following:</li>
-        <ol>
-            <li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.
-                <b>OR</b></li>
-        </ol>
-    </ul>
-</ul>
-
-### Virtual presentations guidelines 
-
-<p>Warm greetings to you all as we draw closer to the much-anticipated ICBO 2025 conference. In preparation
-    for the event, we would like to furnish you with crucial guidelines and details for your virtual paper
-    presentation.</p>
-<ol>
-    <li>
-        <h6>Virtual Presentation Logistics:</h6>
-    </li>
-    <ul>
-        <li>Your presentation will be conducted in a virtual setting via ZOOM.</li>
+   <li>Your presentation will be conducted in a virtual setting via ZOOM.</li>
         <li><b>The ZOOM link for your session will be distributed to you by Month Day.</b></li>
         <li>We kindly ask that you:</li>
         <ul>
@@ -242,24 +148,28 @@ The following paper categories are welcome:
         <li><span style="color: red"><b>YOU MUST upload this video </span></b> <a
                 href="https://forms.gle/example" target="_blank">here</a> at least 72 hours
             before your session.</li>
+    <li>Prepare your presentation to fit within the allocated time slot.</li>
+    <li>Rehearse your presentation to ensure you stay within the time limit.</li>
+    <li>Presentation Time:</li>
+    <ul>
+        <li><b><i>Full Papers:</i></b> Your presentation is allocated a total of 25 minutes, which includes
+            an additional 5 minutes designated for Q&A.</li>
+        <li><b><i>Short Papers:</i></b> You have a total of 15 minutes for your presentation, with an
+            additional 5 minutes allotted for the Q&A segment.</li>
     </ul>
+    <li>Sessions will follow the conference <a
+            href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
+    <ul>
+        <li>To ensure a seamless presentation experience, we kindly request the following:</li>
+        <ol>
+            <li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.</li>
+        </ol>
+    </ul>
+</ul>
 </ol>
 
-## Journal of Biomedical Semantics ICBO Thematic Series Option
-
-Journal Track submission deadline: <b>July 31st (7/31/2025)</b>.
-<ul>
-    <li>In partnership with the Journal of Biomedical Semantics, manuscripts submitted to
-        the ICBO Thematic Series of this journal will be published immediately after acceptance and presented in the
-        main ICBO conference following acceptance.</li>
-    <li>For this track, we suggest submission by <b>tbd</b> at the latest for full
-        consideration for the conference.</li>
-    <li>Later submission is possible, but the authors bear the risk that the review will not
-        be available in time for conference presentation.</li>
-    <li>Journal track manuscripts are submitted directly to the Journal of Biomedical
-        Semantics following the journal submission guidelines. Authors must select the ICBO thematic series during
-        the submission process.</li>
-</ul>
+## Microsoft CMT Acknowledge
+<p>The <a href="https://cmt3.research.microsoft.com/Conference/Recent">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</p>
 
 ## Program Committee ICBO 2025
 
