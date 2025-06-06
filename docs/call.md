@@ -42,11 +42,11 @@ An example from a past conference can be seen <a href="https://ceur-ws.org/Vol-3
 In order for this to happen, the following requirements must be satisfied:
 
 <ol type="1">            
-    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the <a href="../papers/CEUR-Template-1col.docx" target="_blank"> CEUR-Template-1col.docx</a> file, <b>single column</b>.</li>
-    <li>The template in OverLeaf (LaTEx) version, is <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank"> here</a>. 
+    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the <a href="../docs/CEUR-Template-1col.docx" target="_blank"> CEUR-Template-1col.docx</a> file, <b>single column</b>.</li>
+    <li>The template in OverLeaf (LaTEx) version, is <a href="" target="_blank"> tbd</a>. 
     <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.</li>
-    <li>Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2024 with the conference name, date, and place. You only need to fill in the EMAIL and ORCID information for each author.</li>
-    <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a Contribution as Open-Access on CEUR-WS.org prepared by the corresponding author. Please download one of the ICBO 2024 customized form bellow:
+    <li>Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2025 with the conference name and date. You only need to fill in the EMAIL and ORCID information for each author.</li>
+    <li>All papers for ICBO MUST have an accompanying signed <b>Author Agreement</b> to Publish a Contribution as Open-Access on CEUR-WS.org prepared by the corresponding author. Please download one of the ICBO 2025 customized form bellow:
         <ol type="a"> 
         <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (NTP)</a>: Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.</li>
         <li><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12" target="_blank">AUTHOR-AGREEMENT (TP)</a>: Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!</li>
@@ -54,17 +54,16 @@ In order for this to happen, the following requirements must be satisfied:
         <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print
     it out, sign it in ink (by hand), then scan or photograph the form
     and <u>both upload it on</u> <a
-    href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F"
+    href="https://cmt3.research.microsoft.com/Conference/Recent"
     target="_blank">official administrative website</a> <u>and send it
     to:</u>  <a
-    href="mailto:icbo-2024@googlegroups.com?subject=Author
-    Agreement for submission PAPER ">icbo-2024@googlegroups.com
+    href="mailto:">
     </a>
         </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".</li>
         <ul><li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown here: <a href="http://ceur-ws.org/agreement-paper1.jpg"
             target="_blank">http://ceur-ws.org/agreement-paper1.jpg</a>
         </li></ul>
-    <li>Update your camera-ready paper on <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F" target="_blank">official administrative website </a>.</li>
+    <li>Update your camera-ready paper on the <a href="https://cmt3.research.microsoft.com/Conference/Recent"_blank">official administrative website </a>.</li>
 </ol>
 
 ## Call for ICBO Conference Papers
@@ -89,7 +88,7 @@ The following paper categories are welcome:
     <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
 </ul> 
 
-#### Topics of Interest 
+## Topics of Interest 
 
 <p>We are interested in all topics related to ontologies and knowledge representation in biomedicine, biology, and life sciences. Topics include but are not limited to:</p>
 <p>Methodologies and Tools</p>
@@ -119,13 +118,13 @@ The following paper categories are welcome:
   <li>Bioethics and legal health</li>
 </ul>
 
-### Virtual Paper presentations guidelines 
+## Virtual Paper presentations guidelines 
 <ul>
     <li>
         Virtual Presentation Logistics
       <ul>
    <li>Your presentation will be conducted in a virtual setting via ZOOM.</li>
-        <li><b>The ZOOM link for your session will be distributed to you by Month Day.</b></li>
+        <li><b>The ZOOM link for your session will be distributed to you by tbd.</b></li>
         <li>We kindly ask that you:
         <ul>
             <li>Connect to the ZOOM room at least 15 minutes before your Paper Session.</li>
@@ -159,9 +158,7 @@ The following paper categories are welcome:
     <li>Sessions will follow the conference <a
             href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
         <li>To ensure a seamless presentation experience, we kindly request the following:
-        <ol>
             <li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.</li>
-        </ol>
     </li>
 </ul>
 
