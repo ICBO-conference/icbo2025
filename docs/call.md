@@ -67,17 +67,7 @@ In order for this to happen, the following requirements must be satisfied:
     <li>Update your camera-ready paper on <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICBO2024%2F" target="_blank">official administrative website </a>.</li>
 </ol>
 
-## Workshops, Tutorials, and Demos
-
-### Call for Workshops, Tutorials, and Demos 
-
-<ul>
-    <li><i>Workshop</i> submission deadline <b>June 30th</b> 2025. Notification <b>July 15th</b> 2024.</li>
-    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2024/">https://cmt3.research.microsoft.com/ICBO2024/</a> </li>
-    <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
-</ul> 
-
-## Call for ICBO Conference Papers and Abstracts
+## Call for ICBO Conference Papers
 
 Submission deadline: <b>August 17th</b>, 2025. Notification: <b>September 15th</b>, 2025
 
@@ -85,11 +75,19 @@ The following paper categories are welcome:
 <ul>
     <li>Full length papers: 8-12 pages (Including references).</li>
     <li>Short papers: up to 7 pages (Including references).</li>
-    <li>Poster Abstracts: 1 page extended abstract format, with limited references.</li>
-    <li><b>For each paper/poster accepted, at least one author must register until Month Day as presenter fee.</b></li>
-    <li>Details on: tbd</li>
-    <li>Submission link: tbd</li>
+    <li><b>For each paper accepted, at least one author must register.</b></li>
+    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
 </ul>
+
+## Workshops, Tutorials, and Demos
+
+### Call for Workshops, Tutorials, and Demos 
+
+<ul>
+    <li><i>Workshop</i> submission deadline <b>June 30th</b> 2025. Notification <b>July 15th</b> 2024.</li>
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
+    <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
+</ul> 
 
 #### Topics of Interest 
 
@@ -124,7 +122,7 @@ The following paper categories are welcome:
 ### Virtual Paper presentations guidelines 
 <ul>
     <li>
-        <h6>Virtual Presentation Logistics</h6>
+        Virtual Presentation Logistics
       <ul>
    <li>Your presentation will be conducted in a virtual setting via ZOOM.</li>
         <li><b>The ZOOM link for your session will be distributed to you by Month Day.</b></li>
@@ -138,7 +136,7 @@ The following paper categories are welcome:
       </ul>
     </li>
     <li>
-        <h6>Upload a Backup Presentation Video (Mandatory Requirement):</h6>
+      Upload a Backup Presentation Video (Mandatory Requirement):
     <ul>
         <li><b>We require all presenters to submit a mandatory backup video.</b></li>
         <li>This backup video serves as a safety net in case of any unforeseen local technical issues during the live session.</li>
@@ -167,7 +165,7 @@ The following paper categories are welcome:
     </li>
 </ul>
 
-## Microsoft CMT Acknowledge
+## Microsoft CMT Acknowledgement
 <p>The <a href="https://cmt3.research.microsoft.com/Conference/Recent">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</p>
 
 ## Program Committee ICBO 2025
