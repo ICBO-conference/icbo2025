@@ -88,6 +88,12 @@ The following paper categories are welcome:
     <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
 </ul> 
 
+#### Software demo
+<p>Please submit any software application using ontologies.</p>
+<ul>
+    <li>Software demonstrations are 15-30 minute long.</li>
+</ul>
+
 ## Topics of Interest 
 
 <p>We are interested in all topics related to ontologies and knowledge representation in biomedicine, biology, and life sciences. Topics include but are not limited to:</p>
@@ -158,7 +164,7 @@ The following paper categories are welcome:
     <li>Sessions will follow the conference <a
             href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
         <li>To ensure a seamless presentation experience, we kindly request the following:
-            <li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.</li>
+            <ul><li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.</li> </ul>
     </li>
 </ul>
 
