@@ -42,7 +42,7 @@ An example from a past conference can be seen <a href="https://ceur-ws.org/Vol-3
 In order for this to happen, the following requirements must be satisfied:
 
 <ol type="1">            
-    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the <a href="CEUR-Template-1col.docx" target="_blank"> CEUR-Template-1col.docx</a> file, <b>single column</b>.</li>
+    <li>All submissions should be in Adobe Portable Document Format (PDF) and should follow the <a href="/icbo2025/CEUR-Template-1col.docx" target="_blank"> CEUR-Template-1col.docx</a> file, <b>single column</b>.</li>
     <li>The template in OverLeaf (LaTEx) version, is <a href="" target="_blank"> tbd</a>. 
     <li>Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.</li>
     <li>Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2025 with the conference name and date. You only need to fill in the EMAIL and ORCID information for each author.</li>
