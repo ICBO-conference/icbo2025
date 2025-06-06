@@ -148,7 +148,7 @@ The following paper categories are welcome:
         <li>It's important to emphasize that the video backup is solely intended as a contingency measure and will not replace your live virtual presentation.</li>
         <li>The video should not exceed 1GB in size.</li>
         <li><b><span style="color: red">YOU MUST upload this video </span></b> <a
-                href="https://forms.gle/example" target="_blank">here</a> at least 72 hours
+                href="[https://forms.gle/example](https://drive.google.com/drive/folders/1DvY015uTHkJcpyLztUFdROE6hsc-1X--?usp=sharing)" target="_blank">here</a> at least 72 hours
             before your session.</li>
     </ul>
     </li>
@@ -161,8 +161,7 @@ The following paper categories are welcome:
             additional 5 minutes allotted for the Q&A segment.</li>
     </ul>
     </li>
-    <li>Sessions will follow the conference <a
-            href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
+    <li>Sessions will follow the conference agenda in sequence.</li>
         <li>To ensure a seamless presentation experience, we kindly request the following:
             <ul><li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.</li> </ul>
     </li>
