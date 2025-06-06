@@ -125,48 +125,47 @@ The following paper categories are welcome:
 <ul>
     <li>
         <h6>Virtual Presentation Logistics</h6>
-    </li>
+      <ul>
    <li>Your presentation will be conducted in a virtual setting via ZOOM.</li>
         <li><b>The ZOOM link for your session will be distributed to you by Month Day.</b></li>
-        <li>We kindly ask that you:</li>
+        <li>We kindly ask that you:
         <ul>
             <li>Connect to the ZOOM room at least 15 minutes before your Paper Session.</li>
             <li>Ensure a stable internet connection and are prepared to commence your presentation
                 promptly at the start of your session.</li>
         </ul>
-    </ul>
+      </li>
+      </ul>
+    </li>
     <li>
         <h6>Upload a Backup Presentation Video (Mandatory Requirement):</h6>
-    </li>
     <ul>
         <li><b>We require all presenters to submit a mandatory backup video.</b></li>
-        <li>This backup video serves as a safety net in case of any unforeseen local technical issues during
-            the live session.</li>
-        <li>It's important to emphasize that the video backup is solely intended as a contingency measure
-            and will not replace your live virtual presentation.</li>
+        <li>This backup video serves as a safety net in case of any unforeseen local technical issues during the live session.</li>
+        <li>It's important to emphasize that the video backup is solely intended as a contingency measure and will not replace your live virtual presentation.</li>
         <li>The video should not exceed 1GB in size.</li>
-        <li><span style="color: red"><b>YOU MUST upload this video </span></b> <a
+        <li><b><span style="color: red">YOU MUST upload this video </span></b> <a
                 href="https://forms.gle/example" target="_blank">here</a> at least 72 hours
             before your session.</li>
+    </ul>
+    </li>
     <li>Prepare your presentation to fit within the allocated time slot.</li>
     <li>Rehearse your presentation to ensure you stay within the time limit.</li>
-    <li>Presentation Time:</li>
+    <li>Presentation Time:
     <ul>
-        <li><b><i>Full Papers:</i></b> Your presentation is allocated a total of 25 minutes, which includes
-            an additional 5 minutes designated for Q&A.</li>
+        <li><b><i>Full Papers:</i></b> Your presentation is allocated a total of 25 minutes, which includes an additional 5 minutes designated for Q&A.</li>
         <li><b><i>Short Papers:</i></b> You have a total of 15 minutes for your presentation, with an
             additional 5 minutes allotted for the Q&A segment.</li>
     </ul>
+    </li>
     <li>Sessions will follow the conference <a
             href="./program.html#schedule" target="_blank">agenda</a> in sequence.</li>
-    <ul>
-        <li>To ensure a seamless presentation experience, we kindly request the following:</li>
+        <li>To ensure a seamless presentation experience, we kindly request the following:
         <ol>
             <li>Kindly send us your presentation (PPTX) at least 24 hours before your scheduled session.</li>
         </ol>
-    </ul>
+    </li>
 </ul>
-</ol>
 
 ## Microsoft CMT Acknowledge
 <p>The <a href="https://cmt3.research.microsoft.com/Conference/Recent">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</p>
