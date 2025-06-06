@@ -55,11 +55,14 @@ The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be 
   <p>Azza Althagafi (Taif University)</p>
   <p>Olga Giraldo (DKFZ)</p>
 
+  <h4><b>ICBO-ITALY Satellite Board</b></h4>
+  <p>Matthew Lange (IC-FOODS)</p>
+
   <h4><b>Workshops and Tutorials Coordination</b></h4>
   <p>Anna Maria Masci (University of Texas)</p>
 
   <h4><b>Online Logistic Support</b></h4>
-  <p>tbd</p>
+  <p>Matthew Lange (IC-FOODS)</p>
 
   <h4><b>Program Committee Coordination</b></h4>
   <p>Alex Diehl (University at Buffalo)</p>
@@ -78,7 +81,7 @@ The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be 
   <p>B. Damayanthi Jesudas (University of Florida)</p>
   <p>William (Bill) Duncan (University of Florida)</p>
   <p>Eduardo Felipe (Federal University of Itajubá)</p>
-  <p>Anthony HUffman (University of Michigan)</p>
+  <p>Anthony Huffman (University of Michigan)</p>
 
   <h4><b>Volunteers</b></h4>
   <p>tbd</p> 
