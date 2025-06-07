@@ -49,6 +49,6 @@ The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be 
 
 ### Contact Information 
 
-Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
+Please direct all further questions to Asiya Yu Lin (ontology.world@gmail.com)
 
 
