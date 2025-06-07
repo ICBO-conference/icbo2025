@@ -72,6 +72,6 @@ The Proceedings of this conference can be access in: tbd
 
 ### Contact Information 
 
-Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
+Please direct all further questions to Asiya Yu Lin (ontology.world@gmail.com)
 
 
