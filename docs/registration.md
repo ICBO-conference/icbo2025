@@ -28,6 +28,6 @@ Registration and participation in ICBO 2025 meetings and activities constitutes 
 
 ### Contact Information 
 
-Please direct all further questions to Asiya Yu Lin (linikujp@gmail.com)
+Please direct all further questions to Asiya Yu Lin (ontology.world@gmail.com)
 
 
