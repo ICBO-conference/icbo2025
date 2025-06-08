@@ -17,8 +17,8 @@ Mattew Lange (IC-FOODS.org)
   <p>Yongqun "Oliver" He (University of Michigan)</p>
   <p>Asiyah Yu Lin (OntoData Research and Solutions, LLC., Maryland, US)
   <p>Xiaolin Yang (IMEC)</p>
-  <p>Hiroshi Masuya (RIKEN)</p>
-  <p>Yuki Yamagata (RIKEN)</p>
+  <p>Hiroshi Masuya (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
+  <p>Yuki Yamagata (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
   <p>Jiang an "Hardy" Xie (Chongqing University, Chongqing, China)</p>
   <p>Anuwat Pengput (Sirindhorn College of Public Health, Khon Kaen, Thailand)</p>
 
@@ -41,7 +41,7 @@ Mattew Lange (IC-FOODS.org)
   <p>Asiyah Yu Lin (OntoData Research and Solutions, LLC.)</p>
   <p>Hande McGinty (Kansas State University)</p>
   <p>John Beverley (University at Buffalo, Buffalo, New York, USA)</p>
-  <p>Yuki Yamagata (RIKEN)</p>
+  <p>Yuki Yamagata (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
   <p>Muhammad "Tuan" Amith (University of Texas Medical Branch)</p>
 
   <h4><b>Website Coordination </b></h4>
