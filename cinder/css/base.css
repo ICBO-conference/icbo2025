@@ -6,6 +6,17 @@ body {
     padding-top: 70px;
 }
 
+.navbar .fa-github,
+.navbar .fa-arrow-left,
+.navbar .fa-arrow-right,
+.navbar .fa-search {
+    font-size: 1.3em; /* Change this value as needed */
+}
+
+.navbar-nav > li > a {
+    font-size: 1.1em; /* Adjust as needed */
+}
+
 p > img {
     max-width: 100%;
     height: auto;
