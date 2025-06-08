@@ -19,6 +19,17 @@ body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-si
   font-size: 24px !important; /* Increase icon size */
 }
 
+.navbar .fa-github,
+.navbar .fa-arrow-left,
+.navbar .fa-arrow-right,
+.navbar .fa-search {
+    font-size: 1.3em; /* Change this value as needed */
+}
+
+.navbar-nav > li > a {
+    font-size: 1.1em; /* Adjust as needed */
+}
+
 /* Optional: Adjust active navbar item styles */
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active:hover > a {
