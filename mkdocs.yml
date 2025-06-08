@@ -12,6 +12,9 @@ theme:
   colorscheme: github
   highlightjs: true
 
+extra_css:
+  - css/custom.css
+
 nav:
   - Home: index.md
   - Conference: conference.md
