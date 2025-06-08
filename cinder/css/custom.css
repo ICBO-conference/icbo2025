@@ -1,17 +1,11 @@
-/* Shrink spacing between navbar items */
-.navbar-nav > li {
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-/* Optionally reduce font size slightly to fit more */
+/* Shrink padding on top-level nav items */
 .navbar-nav > li > a {
-  font-size: 0.9em;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 0.95em; /* Optional: slightly smaller text */
 }
 
-/* Prevent the navbar from wrapping */
+/* Prevent nav items from wrapping IF your layout supports flex (safe fallback) */
 .navbar-nav {
   flex-wrap: nowrap;
-  white-space: nowrap;
-  overflow-x: auto;
 }
