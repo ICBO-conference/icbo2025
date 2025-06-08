@@ -1,0 +1,17 @@
+/* Shrink spacing between navbar items */
+.navbar-nav > li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* Optionally reduce font size slightly to fit more */
+.navbar-nav > li > a {
+  font-size: 0.9em;
+}
+
+/* Prevent the navbar from wrapping */
+.navbar-nav {
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  overflow-x: auto;
+}
