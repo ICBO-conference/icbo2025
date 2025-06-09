@@ -16,7 +16,7 @@ Mattew Lange (IC-FOODS.org)
   <h4><b>ICBO-EAST Satellite Board</b></h4>
   <p>Yongqun "Oliver" He (University of Michigan)</p>
   <p>Asiyah Yu Lin (OntoData Research and Solutions, LLC., Maryland, US)
-  <p>Xiaolin Yang (IMEC)</p>
+  <p>Xiaolin Yang (Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China)</p>
   <p>Hiroshi Masuya (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
   <p>Yuki Yamagata (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
   <p>Jiang an "Hardy" Xie (Chongqing University, Chongqing, China)</p>
@@ -35,7 +35,7 @@ Mattew Lange (IC-FOODS.org)
   <h4><b>Program Committee Coordination</b></h4>
   <p>Alex Diehl (University at Buffalo, Buffalo, New York, USA)</p>
   <p>William Duncan (University of Florida, Florida, USA)</p>
-   <p>Xiaolin Yang (IMEC)</p>
+   <p>Xiaolin Yang (Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China)</p>
 
   <h4><b>Journal Track and Proceedings Publication</b></h4>
   <p>Asiyah Yu Lin (OntoData Research and Solutions, LLC.)</p>
