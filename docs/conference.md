@@ -17,8 +17,9 @@ At the conference participants will present their work on applied aspects of ont
     <li><b>Conference Dates:</b></li>  
     <ul>
         <li><b>Workshops/tutorials</b>: tbd </li>
-        <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
-        <li><b>ICBO-EAST Satellite</b>: tbd</li>
+        <li><b>Main conference</b>: November 7th to November 9th (11/7/2025-11/9/2025)</li>
+        <li><b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>: November 1st (11/1/2025)</li>
+            <ul><li>13:00 - 17:30 JST</li></ul>
     </ul>
 </ul>
 
