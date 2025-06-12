@@ -26,7 +26,7 @@ Mattew Lange (IC-FOODS.org)
   <p>Matthew Lange (IC-FOODS)</p>
 
   <h4><b>Workshops and Tutorials Coordination</b></h4>
-  <p>Anna Maria Masci (University of Texas)</p>
+  <p>Anna Maria Masci (University of Texas MD Anderson Cancer Center, Houston, Texas, USA)</p>
   <p>Trish Whetzel (University of North Carolina at Chapin Hill)</p>
 
   <h4><b>Online Logistic Support</b></h4>
