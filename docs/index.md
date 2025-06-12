@@ -33,9 +33,19 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     </ul>
   </ul>
 
-### Call for Submissions 
+### Call for ICBO Conference Papers
 
-In development.
+Submission deadline: <b>August 17th</b>, 2025. Notification: <b>September 15th</b>, 2025
+
+The following paper categories are welcome:
+<ul>
+    <li>Full length papers: 8-12 pages (Including references).</li>
+    <li>Short papers: up to 7 pages (Including references).</li>
+    <li><b>For each paper accepted, at least one author must register.</b></li>
+    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
+</ul>
+
+More information can be found <a href="https://icbo-conference.github.io/icbo2025/call/">here</a>
 
 ### Keynote Speakers
 
