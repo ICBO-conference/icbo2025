@@ -15,8 +15,9 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     <li><b>Conference Dates:</b></li>  
     <ul>
         <li><b>Workshops/tutorials</b>: tbd </li>
-        <li><b>Main conference</b>: November 3rd to November 9th (11/3/2025-11/9/2025)</li>
-        <li><b>ICBO-EAST</b>: tbd</li>
+        <li><b>Main conference</b>: November 7th to November 9th (11/7/2025-11/9/2025)</li>
+        <li><b>ICBO-EAST (Joint with SWO)</b>: November 1st (11/1/2025)</li>
+            <ul><li>13:00 - 17:30 JST</li></ul>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
