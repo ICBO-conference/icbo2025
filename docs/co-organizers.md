@@ -20,7 +20,7 @@ Mattew Lange (IC-FOODS.org)
   <p>Hiroshi Masuya (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
   <p>Yuki Yamagata (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
   <p>Jiang an "Hardy" Xie (Chongqing University, Chongqing, China)</p>
-  <p>Anuwat Pengput (Sirindhorn College of Public Health, Khon Kaen, Thailand)</p>
+  <p>Anuwat Pengput (Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand)</p>
 
   <h4><b>ICBO-ITALY Satellite Board</b></h4>
   <p>Matthew Lange (IC-FOODS)</p>
