@@ -50,6 +50,7 @@ Mattew Lange (IC-FOODS.org)
   <p>William (Bill) Duncan (University of Florida, Florida, USA)</p>
   <p>Eduardo Felipe (Federal University of Itajubá)</p>
   <p>Anthony Huffman (University of Michigan, Michigan, USA)</p>
+  <p>Olga Mashkova (King Abdullah University of Science and Technology, Thuwal, Saudi Arabia)</p>
 
   <h4><b>Volunteers</b></h4>
   <p>tbd</p> 
