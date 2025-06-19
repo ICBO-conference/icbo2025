@@ -71,7 +71,7 @@ In order for this to happen, the following requirements must be satisfied:
 
 ## Call for ICBO Conference Papers
 
-Submission deadline: <b>August 17th</b>, 2025. Notification: <b>September 15th</b>, 2025
+<i>conference paper</i> submission deadline: <b>August 17th</b>, 2025. Notification: <b>September 15th</b>, 2025
 
 The following paper categories are welcome:
 <ul>
@@ -81,15 +81,17 @@ The following paper categories are welcome:
     <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
 </ul>
 
-## Workshops, Tutorials, and Demos
+## Call for Direct-to-Journal Track Papers
 
-### Call for Workshops, Tutorials, and Demos 
+<i>Direct-to-journal track</i> submission deadline: <b>July 31st</b>, 2025. Notification: <b>October 1st</b>, 2025
+    <li><b>Submission link</b>: <a href="https://jbiomedsem.biomedcentral.com/articles/collections/icboseries">https://jbiomedsem.biomedcentral.com/articles/collections/icboseries</a></li>
+</ul>
 
-<ul>
-    <li><i>Workshop</i> submission deadline <b>June 30th</b> 2025. Notification <b>July 15th</b> 2024.</li>
+## Call for Workshops, Tutorials, and Demos 
+
+<i>Workshop</i> submission deadline <b>June 30th</b> 2025. Notification <b>July 15th</b> 2024.
     <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
     <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
-</ul> 
 
 #### Software demo
 <p>Please submit any software application using ontologies.</p>
