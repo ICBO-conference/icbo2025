@@ -29,8 +29,6 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
           <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
         <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
           <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
-        <li><b>Software demo submission deadline</b>: tbd </li>
-        <li><b>ICBO Conference Papers and Abstracts deadline</b>: tbd </li>
     </ul>
   </ul>
 
