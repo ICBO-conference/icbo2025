@@ -84,6 +84,10 @@ The following paper categories are welcome:
 ## Call for Direct-to-Journal Track Papers
 
 <i>Direct-to-journal track</i> submission deadline: <b>July 31st</b>, 2025. Notification: <b>October 1st</b>, 2025
+    <li>In collaboration with the Journal of Biomedical Semantics (JBMS)</li>
+    <li>Papers submitted to the International Conference on Biomedical Ontologies track at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance.</li>
+    <li>The new ICBO Thematic Series at the JBMS is soliciting submissions of novel (not previously published nor concurrently submitted) research papers in the areas of ontology design, development, evaluation and use, ontology interoperability, knowledge graphs, ontology-driven intelligent systems, ontologies for explainable AI, and the application of ontologies to biological and biomedical problems, across the full range of life sciences. In addition, we would like to invite contributions showcasing methods for ontology-based research, including statistical methods, tool support for ontologies and semantic technologies including for the annotation of data, visualisation, analysis, and related applications, and contributions addressing the challenges associated with working with multiple ontologies at the same time, including ontology alignment and matching. Submissions are welcome from a broad range of approaches to ontology building and use.</li>
+    <li>More information can be found <a href="https://jbiomedsem.biomedcentral.com/articles/collections/icboseries">here</a></li>
     <li><b>Submission link</b>: <a href="https://jbiomedsem.biomedcentral.com/articles/collections/icboseries">https://jbiomedsem.biomedcentral.com/articles/collections/icboseries</a></li>
 </ul>
 
