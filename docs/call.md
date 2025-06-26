@@ -26,7 +26,7 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li><b>Workshops and Tutorial Proposal submission deadline</b>: June 30th (6/30/2025) 
+        <li><b>Workshops and Tutorial Proposal submission deadline</b>: <span style="color: red; text-decoration: line-through;">June 30th (6/30/2025)</span> July 7 (7/7/2025)
            <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
         <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
@@ -57,16 +57,16 @@ In order for this to happen, the following requirements must be satisfied:
         <li>Fill in the fields on the AUTHOR-AGREEMENT form, <b>print
     it out, sign it in ink (by hand), then scan or photograph the form
     and <u>both upload it on</u> <a
-    href="https://cmt3.research.microsoft.com/Conference/Recent"
+    href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index"
     target="_blank">official administrative website</a> <u>and send it
-    to:</u>  <a
+    to: ontology.world@gmail.com</u>  <a
     href="mailto:">
     </a>
         </b> with a subject heading that reads "Author Agreement for submission PAPER [<i>PAPER-ID</i>]".</li>
         <ul><li>Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown here: <a href="http://ceur-ws.org/agreement-paper1.jpg"
             target="_blank">http://ceur-ws.org/agreement-paper1.jpg</a>
         </li></ul>
-    <li>Update your camera-ready paper on the <a href="https://cmt3.research.microsoft.com/Conference/Recent"_blank">official administrative website </a>.</li>
+    <li>Update your camera-ready paper on the <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index"_blank">official administrative website </a>.</li>
 </ol>
 
 ## Call for ICBO Conference Papers
@@ -78,7 +78,7 @@ The following paper categories are welcome:
     <li>Full length papers: 8-12 pages (Including references).</li>
     <li>Short papers: up to 7 pages (Including references).</li>
     <li><b>For each paper accepted, at least one author must register.</b></li>
-    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
+    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create</a> </li>
 </ul>
 
 ## Call for Direct-to-Journal Track Papers
@@ -94,8 +94,12 @@ The following paper categories are welcome:
 ## Call for Workshops, Tutorials, and Demos 
 
 <i>Workshop</i> submission deadline <b>June 30th</b> 2025. Notification <b>July 15th</b> 2024.
-    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create</a> </li>
     <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
+
+## Call for ICBO EAST
+<i>ICBO East</i> submission deadline <b>August 24th</b> 2025. Notification <b>September 17th</b> 2025.
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create</a> </li>
 
 #### Software demo
 <p>Please submit any software application using ontologies.</p>
