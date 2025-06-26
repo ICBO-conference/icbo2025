@@ -21,7 +21,7 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li><b>Workshops and Tutorial Proposal submission deadline</b>: June 30th (6/30/2025) 
+        <li><b>Workshops and Tutorial Proposal submission deadline</b>: <span style="color: red; text-decoration: line-through;">June 30th (6/30/2025)</span> July 7th (7/7/2025) 
            <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
         <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
@@ -41,7 +41,7 @@ The following paper categories are welcome:
     <li>Full length papers: 8-12 pages (Including references).</li>
     <li>Short papers: up to 7 pages (Including references).</li>
     <li><b>For each paper accepted, at least one author must register.</b></li>
-    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/Conference/Recent">https://cmt3.research.microsoft.com/Conference/Recent</a> </li>
+    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create</a> </li>
 </ul>
 
 More information can be found <a href="https://icbo-conference.github.io/icbo2025/call/">here</a>
