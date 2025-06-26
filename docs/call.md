@@ -26,7 +26,7 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
-        <li><b>Workshops and Tutorial Proposal submission deadline</b>: <span style="color: red; text-decoration: line-through;">June 30th (6/30/2025)</span> July 7 (7/7/2025)
+        <li><b>Workshops and Tutorial Proposal submission deadline</b>: <span style="color: red; text-decoration: line-through;">June 30th (6/30/2025)</span> July 7th (7/7/2025)
            <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
         <li><b>Direct-to-Journal Track submission deadline</b>: July 31st (7/31/2025) 
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
