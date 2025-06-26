@@ -99,7 +99,7 @@ The following paper categories are welcome:
 
 ## Call for ICBO EAST
 <i>ICBO East</i> submission deadline <b>August 24th</b> 2025. Notification <b>September 17th</b> 2025.
-    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create</a> </li>
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create</a> </li>
 
 #### Software demo
 <p>Please submit any software application using ontologies.</p>
