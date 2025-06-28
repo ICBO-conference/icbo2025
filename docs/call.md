@@ -78,7 +78,7 @@ The following paper categories are welcome:
     <li>Full length papers: 8-12 pages (Including references).</li>
     <li>Short papers: up to 7 pages (Including references).</li>
     <li><b>For each paper accepted, at least one author must register.</b></li>
-    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create</a> </li>
+    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
 </ul>
 
 ## Call for Direct-to-Journal Track Papers
@@ -99,7 +99,7 @@ The following paper categories are welcome:
 
 ## Call for ICBO EAST
 <i>ICBO East</i> submission deadline <b>August 24th</b> 2025. Notification <b>September 17th</b> 2025.
-    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create</a> </li>
+    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
 
 #### Software demo
 <p>Please submit any software application using ontologies.</p>
