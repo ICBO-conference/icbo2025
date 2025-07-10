@@ -1,7 +1,7 @@
 <br>
 <h1> ICBO [YEAR] <small>conference</small></h1>
 
-## [NUMBER]th International Conference on Biomedical Ontology 
+## [NUMBER]th International Conference on Biological and Biomedical Ontology 
 
 ## Keynotes
 
