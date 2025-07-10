@@ -27,7 +27,7 @@ At the conference participants will present their work on applied aspects of ont
 
 Virtual Conference
 
-The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b>
+The 16th International Conference on Biological and Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b>
 
 
 ### Previous ICBO Conferences
