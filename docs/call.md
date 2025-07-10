@@ -93,7 +93,7 @@ The following paper categories are welcome:
 
 ## Call for Workshops, Tutorials, and Demos 
 
-<i>Workshop</i> submission deadline <span style="color: red; text-decoration: line-through;">June 30th (6/30/2025)</span> <b>July 7</b> 2o25. Notification <b>July 15th</b> 2024.
+<i>Workshop</i> submission deadline <span style="color: red; text-decoration: line-through;">June 30th (6/30/2025)</span> <b>July 7</b> 2025. Notification <b>July 15th</b> 2024.
     <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/3/Submission/Create</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
     <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
 
