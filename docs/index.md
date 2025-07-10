@@ -64,7 +64,7 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
 
 ### Setting
 
-The 16th International Conference of Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b> 
+The 16th International Conference on Biological and Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b> 
 
 ### Contact Information 
 
