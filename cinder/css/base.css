@@ -288,8 +288,3 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 .admonition.danger > .admonition-title {
     color: #d9534f;
 }
-
-/* Custom nav spacing */
-.navbar-nav > li {
-    margin-left: 15px; /* adjust spacing as needed */
-}
