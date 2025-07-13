@@ -15,6 +15,7 @@ theme:
 nav:
   - Home: index.md
   - Conference: conference.md
+  - ICBO-EAST: east.md
   - Program: program.md
   - Call for Submissions: call.md
   - Registration: registration.md
