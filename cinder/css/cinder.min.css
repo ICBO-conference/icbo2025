@@ -8,11 +8,8 @@ body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-si
 }
 
 .navbar-default .navbar-nav > li > a {
-  font-size: 18px !important;  /* Increase text size */
-  padding-top: 12px !important; /* Adjust vertical padding for text */
-  padding-bottom: 12px !important; /* Adjust vertical padding for text */
-  padding-left: 7px !important;  /* reduce horizontal space */
-  padding-right: 7px !important;
+  font-size: 18px !important;
+  padding: 12px 6px !important;  /* top/bottom 12px, left/right 6px */
 }
 
 /* Optional: Adjust active navbar item styles */
@@ -22,27 +19,23 @@ body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-si
   font-weight: bold !important; /* Make text bold for active state */
 }
 
-.navbar .navbar-header, .navbar-collapse {
-    padding-left: 6px; /* Adjust as needed */
-    padding-right: 6px; /* Adjust as needed */
-}
-
-.navbar .navbar-nav > li > a {
-    padding-left: 10px; /* Ensure links have enough padding on the left */
-    padding-right: 10px; /* Ensure links have enough padding on the right */
-}
-
 .navbar .navbar-toggle {
     padding-left: 5px;  /* Reduce the padding if needed */
     padding-right: 5px; /* Reduce the padding if needed */
 }
 
 .navbar {
-  padding-left: 10px;  /* Ensure navbar has enough padding on the left */
-  padding-right: 10px; /* Ensure navbar has enough padding on the right */
+  padding-left: 0;
+  padding-right: 0;
 }
 
-.container {
+.navbar .navbar-header,
+.navbar .navbar-collapse {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navbar .container {
   padding-left: 0; /* Remove default padding */
   padding-right: 0; /* Remove default padding */
 }
@@ -59,6 +52,13 @@ body {
 
 .bs-sidebar {
   margin-top: 0; /* Remove extra spacing */
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav > li > a {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+  }
 }
 
 
