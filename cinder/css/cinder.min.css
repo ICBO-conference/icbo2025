@@ -9,7 +9,7 @@ body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-si
 
 .navbar-default .navbar-nav > li > a {
   font-size: 18px !important;
-  padding: 12px 0px !important;  /* top/bottom 12px, left/right 6px */
+  padding: 12px 4px !important;  /* top/bottom 12px, left/right 6px */
 }
 
 /* Optional: Adjust active navbar item styles */
@@ -56,8 +56,8 @@ body {
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav > li > a {
-    padding-left: 4px !important;
-    padding-right: 4px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
   }
 }
 
