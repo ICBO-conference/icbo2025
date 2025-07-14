@@ -109,7 +109,7 @@ We welcome papers related to ontology development and application in biomedical 
   <li>Submission Site: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
 </ul>
 
-#### Software demo
+## Software demo
 <p>Please submit any software application using ontologies.</p>
 <ul>
     <li>Software demonstrations are 15-30 minute long.</li>
