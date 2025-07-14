@@ -22,7 +22,7 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
         <li><b>Workshops/tutorials</b>: tbd </li>
         <li><b>Main conference</b>: November 7th to November 9th (11/7/2025-11/9/2025)</li>
         <li><b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>: November 1st (11/1/2025)</li>
-            <ul><li>13:00 - 17:30 JST</li></ul>
+            <ul><li><span style="color: red; text-decoration: line-through;">13:00</span>10:00 - 17:30 JST</li></ul>
     </ul>
     <li><b>Submission Dates</b>:</li> 
     <ul>
@@ -98,8 +98,16 @@ The following paper categories are welcome:
     <li><b>Workshops</b> can be half or full day (3 or 6 hours) virtual or onsite.</p> </li>
 
 ## Call for ICBO EAST
-<i>ICBO East</i> submission deadline <b>August 24th</b> 2025. Notification <b>September 17th</b> 2025.
-    <li><b>Submission link</b>: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/1/Submission/Create</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
+
+We invite submissions for approximately eight presentations for the ICBO-EAST track (in English, focused on life science topics).
+
+We welcome papers related to ontology development and application in biomedical and life science domains covered by ICBO.
+
+<ul>
+  <li>Paper Submission Deadline: August 24, 2025</li>
+  <li>Notification of Acceptance: September 17, 2025</li>
+  <li>Submission Site: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
+</ul>
 
 #### Software demo
 <p>Please submit any software application using ontologies.</p>
