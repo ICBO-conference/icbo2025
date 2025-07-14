@@ -19,7 +19,7 @@ At the conference participants will present their work on applied aspects of ont
         <li><b>Workshops/tutorials</b>: tbd </li>
         <li><b>Main conference</b>: November 7th to November 9th (11/7/2025-11/9/2025)</li>
         <li><b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>: November 1st (11/1/2025)</li>
-            <ul><li>13:00 - 17:30 JST</li></ul>
+            <ul><li><span style="color: red; text-decoration: line-through;">13:00</span>10:00 - 17:30 JST</li></ul>
     </ul>
 </ul>
 
@@ -28,6 +28,8 @@ At the conference participants will present their work on applied aspects of ont
 Virtual Conference
 
 The 16th International Conference on Biological and Biomedical Ontology (ICBO 2025) <b>will be held virtually over Zoom.</b>
+
+Hybrid participation may be available for the Japan-based SWO session at the ISWC 2025 venue in Nara for <a href="https://icbo-conference.github.io/icbo2025/east/">ICBO-EAST</a>
 
 
 ### Previous ICBO Conferences
