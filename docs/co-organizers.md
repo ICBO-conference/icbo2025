@@ -14,7 +14,7 @@ Mattew Lange (IC-FOODS.org)
 # Main Conference Board</b></h4>
  
   <h4><b>ICBO-EAST Satellite Board</b></h4>
-  <p>Yongqun "Oliver" He (University of Michigan)</p>
+  <p>Yongqun "Oliver" He (University of Michigan, Michigan, US)</p>
   <p>Asiyah Yu Lin (OntoData Research and Solutions, LLC., Maryland, US)
   <p>Xiaolin Yang (Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China)</p>
   <p>Hiroshi Masuya (RIKEN BioResource Research Center, Ibaraki, Japan)</p>
