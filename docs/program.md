@@ -21,9 +21,13 @@
 
 ### Workshops
 
-<ul>
- tbd
-</ul>
+<li>Accelerating Ontology Curation with Agentic AI and GitHub</li>
+<li>Annotating Data with Ontologies: LinkML Can Help</li>
+<li>Workshop on the Core Ontology for Biology and Biomedicine</li>
+<li>Workshop for PhD Students & Early Career Researchers</li>
+<li>Food, Waste, and Sustainability: Synergizing Ontology Efforts</li>
+<li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</li>
+<li>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</li>
 
 ### Tutorials
 
