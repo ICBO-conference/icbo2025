@@ -2247,6 +2247,11 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
     right: 0;
     left: auto;
 }
+@media (min-width: 768px) {
+  .navbar-right {
+    font-size: 8px; /* Adjust size as needed */
+  }
+}
 }.btn-group, .btn-group-vertical {
     position: relative;
     display: inline-block;
