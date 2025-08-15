@@ -25,8 +25,8 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
            <ul><li><b>acceptance</b>: July 15th (7/15/2025)</li></ul>
         <li><b>Direct-to-Journal Track submission deadline</b>: <span style="color: red; text-decoration: line-through;">July 31st (7/31/2025)</span> <span style="color: red; text-decoration: line-through;">August 10th (8/10/2025)</span> August 15th (8/15/2025) 
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
-        <li><b>Main Conference submission deadline</b>: August 17th (8/17/2025) 
-          <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
+        <li><b>Main Conference submission deadline</b>: <span style="color: red; text-decoration: line-through;">August 17th (8/17/2025)</span> August 31 (8/31/2025)
+          <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
         <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
           <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
     </ul>
@@ -34,7 +34,7 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
 
 ### Call for ICBO Conference Papers
 
-Submission deadline: <b>August 17th</b>, 2025. Notification: <b>September 15th</b>, 2025
+Submission deadline: <b>August 31th</b>, 2025. Notification: <b>October 1st</b>, 2025
 
 The following paper categories are welcome:
 <ul>
@@ -48,7 +48,7 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
 
 ### Call for Direct-to-Journal Track Papers
 
-<i>Direct-to-journal track</i> submission deadline: <span style="color: red; text-decoration: line-through;">July 31st (7/31/2025)</span> <span style="color: red; text-decoration: line-through;">August 10th (8/10/2025)</span> <b>August 15th (8/15/2025)</b>. Notification: <b>October 1st</b>, 2025
+<i>Direct-to-journal track</i> submission deadline: <b>August 15th (8/15/2025)</b>. Notification: <b>October 1st</b>, 2025
     <li>In collaboration with the Journal of Biomedical Semantics (JBMS)</li>
     <li>Papers submitted to the International Conference on Biological and Biomedical Ontology track at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance.</li>
     <li>The new ICBO Thematic Series at the JBMS is soliciting submissions of novel (not previously published nor concurrently submitted) research papers in the areas of ontology design, development, evaluation and use, ontology interoperability, knowledge graphs, ontology-driven intelligent systems, ontologies for explainable AI, and the application of ontologies to biological and biomedical problems, across the full range of life sciences. In addition, we would like to invite contributions showcasing methods for ontology-based research, including statistical methods, tool support for ontologies and semantic technologies including for the annotation of data, visualisation, analysis, and related applications, and contributions addressing the challenges associated with working with multiple ontologies at the same time, including ontology alignment and matching. Submissions are welcome from a broad range of approaches to ontology building and use.</li>
