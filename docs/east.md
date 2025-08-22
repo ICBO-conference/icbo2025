@@ -53,6 +53,7 @@ To be announced (TBD)
   <ul>
     <li>ICBO-EAST in China (in Chinese, OntoChina session)</li>
     <li>SIG SWO in Japan (in Japanese, covering various applied topics)</li>
+    <li>ICBO-EAST in Thailand (in Thai, local session)</li>
     <li>Each session will feature around eight 20-minute presentations</li>
   </ul>
 </ul>
