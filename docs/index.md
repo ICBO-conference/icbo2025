@@ -15,7 +15,7 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     <li><b>Conference Dates:</b></li>  
     <ul>
         <li><b>Workshops/tutorials</b>: tbd </li>
-        <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
+        <li><b>Main conference</b>:  November 9th to November 11th (11/9/2025-11/11/2025)</li>
         <li><b>ICBO-EAST Satelite meeting in Japan</b>: November 1st (11/1/2025)</li>
             <ul><li>10:00 - 17:30 JST</li></ul>
     </ul>
@@ -27,8 +27,8 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
         <li><b>Main Conference submission deadline</b>: <span style="color: red; text-decoration: line-through;">August 17th (8/17/2025)</span> August 31st (8/31/2025)
           <ul><li><b>acceptance</b>: October 1st (10/1/2025)</li></ul>
-        <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
-          <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
+        <li><b>East Satellite submission deadline</b>: <span style="color: red; text-decoration: line-through;">August 24th (8/24/2025)</span> September 7th (9/7/2025)
+          <ul><li><b>acceptance</b>: September 30th (9/30/2025)</li></ul>
     </ul>
   </ul>
 
