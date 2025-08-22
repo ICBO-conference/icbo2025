@@ -88,4 +88,4 @@ To be announced (TBD)
 <li>The Japanese Society for Artificial Intelligence (JSAI): <a href="https://www.ai-gakkai.or.jp/en/">https://www.ai-gakkai.or.jp/en/</a></li>
 
 ### Contact Information 
-Please direct all further questions to Asiya Yu Lin (ontology.world@gmail.com)
+Please direct all further questions to Asiyah Yu Lin (ontology.world@gmail.com)
