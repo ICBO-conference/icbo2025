@@ -70,6 +70,6 @@ Hybrid participation may be available for the Japan-based SWO session at the ISW
 
 ### Contact Information 
 
-Please direct all further questions to Asiya Yu Lin (ontology.world@gmail.com)
+Please direct all further questions to Asiyah Yu Lin (ontology.world@gmail.com)
 
 
