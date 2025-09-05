@@ -31,7 +31,7 @@ We invite submissions for approximately eight presentations for the ICBO-EAST tr
 We welcome papers related to ontology development and application in biomedical and life science domains covered by ICBO.
 
 <ul>
-  <li>Paper Submission Deadline:<span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 17, 2025 </li>
+  <li>Paper Submission Deadline:<span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 7, 2025 </li>
   <li>Notification of Acceptance: September 30, 2025</li>
   <li>Submission Site: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
 </ul>
