@@ -5,7 +5,7 @@
 
 ### Registration fee information for ICBO 2025 
 
-<button type="button" class="btn btn-success btn-primary btn-lg">Register Now for ICBO [2025]</button>	
+<button type="button" class="btn btn-success btn-primary btn-lg">Registration opens soon -- please Check back in October!</button>	
 
 <div class="alert alert-primary" role="alert">
 The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete tbd to indicate your workshop/tutorial preferences.
