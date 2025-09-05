@@ -22,7 +22,7 @@ ICBO-EAST aims to foster deeper collaboration across global and local biomedical
 
 ### Important Dates
 <li>Meeting date: Saturday, November 1, 2025, 10:00 AM - 17:30 PM JST (i.e., 9:00 AM - 4:30 PM Beijing Time)</li>
-<li>Paper submission deadline (ICBO-EAST track): <span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 17, 2025 </li>
+<li>Paper submission deadline (ICBO-EAST track): <span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 7, 2025 </li>
 <li>Notification of acceptance: September 30, 2025</li>
 
 ### Call for Papers - ICBO-EAST Track
