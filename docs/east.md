@@ -2,9 +2,9 @@
 
 # ICBO-EAST 2025
 
-ICBO-EAST 2025 will be held as a satellite meeting of the <b><a href="https://icbo-conference.github.io/icbo2025/">16th International Conference on Biological and Biomedical Ontology</a> (ICBO 2025</b>, November 9-11, 2025) in the East Asian time zone. This event is organized in collaboration with the <b>Special Interest Group of Semantic Web Ontology (SIGSWO)</b> of the <b><a href="https://www.ai-gakkai.or.jp/en/">Japanese Society for Artificial Intelligence</a> (JSAI)</b> and <b>OntoChina</b>, in conjunction with the main ICBO organizing committee.
+ICBO-EAST 2025 will be held as a satellite meeting of the <b><a href="https://icbo-conference.github.io/icbo2025/">16th International Conference on Biological and Biomedical Ontology</a> (ICBO 2025</b>) in the East Asian time zone. This event is organized in collaboration with the <b>Special Interest Group of Semantic Web Ontology (SIGSWO)</b> of the <b><a href="https://www.ai-gakkai.or.jp/en/">Japanese Society for Artificial Intelligence</a> (JSAI)</b> and <b>OntoChina</b>, in conjunction with the main ICBO organizing committee.
 
-ICBO-EAST 2025 will be hosted in person in Nara, Japan, at the same venue as <b><a href="https://iswc2025.semanticweb.org/">The 24th-International Semantic Web Conference</a> (ISWC 2025)</b> (November 2-6, 2025), allowing participants to benefit from both communities.
+ICBO-EAST 2025 will be hosted in person in Nara, Japan, at the same venue as <b><a href="https://iswc2025.semanticweb.org/">The 24th-International Semantic Web Conference</a> (ISWC 2025)</b>, allowing participants to benefit from both communities.
 
 The meeting will feature a two-part one day schedule designed to enhance accessibility and regional engagement:
 <ul>
