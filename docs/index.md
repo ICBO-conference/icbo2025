@@ -41,7 +41,7 @@ The following paper categories are welcome:
     <li>Full length papers: 8-12 pages (Including references).</li>
     <li>Short papers: up to 7 pages (Including references).</li>
     <li><b>For each paper accepted, at least one author must register.</b></li>
-    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/Create</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
+    <li><b>Submission link:</b> <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
 </ul>
 
 More information can be found <a href="https://icbo-conference.github.io/icbo2025/call/">here</a>
