@@ -22,7 +22,39 @@
 ### Workshops
 
 <li>Accelerating Ontology Curation with Agentic AI and GitHub</li>
+  <ul>
+    <li>Organizers</li>
+      <ul>
+        <li>Sabrina Toro (University of North Carolina at Chapel Hill) <b>sabrina@tislab.org</b></li>
+        <li>Justin Reese (Lawrence Berkeley National Laboratory)</li>
+        <li>Nicolas Matentzoglu (Semanticly)</li>
+        <li>Melissa Haendel (University of North Carolina at Chapel Hill)</li>
+        <li>J Harry Caufield (Lawrence Berkeley National Laboratory)</li>
+        <li>Chris Mungall (Lawrence Berkeley National Laboratory)</li>
+      </ul>
+    <li>Date of Workshop</li>
+      <ul><li><b>November 18</b></li></ul>
+    <li>Time and Timezone of Workshop</li>
+      <ul>
+        <li>7am-10am PT</li>
+        <li>10am-1pm ET</li>
+        <li>3pm-6pm United Kingdom</li>
+        <li>4pm-7pm Central Europe</li>
+      </ul>
+  </ul>
 <li>Annotating Data with Ontologies: LinkML Can Help</li>
+  <li>Organizers</li>
+    <ul>
+      <li>Sierra Moxon (Lawrence Berkeley National Laboratory) <b>smoxon@lbl.gov</b></li>
+      <li>Kevin Schaper (Translational and Integrative Sciences Lab, University of North Carolina)</li>
+      <li>Matt Brush (Translational and Integrative Sciences Lab, University of North Carolina)</li>
+      <li>Chris Mungall (Lawrence Berkeley National Laboratory)</li>
+      <li>Melissa Haendel (Translational and Integrative Sciences Lab, University of North Carolina</li>
+    </ul>
+  <li>Date of Workshop<li>
+    <ul><li><b>November 5</b></li></ul>
+  <li>Time and Timezone of Workshop</li>
+    <ul><li>8am PT</li></ul>
 <li>Workshop on the Core Ontology for Biology and Biomedicine</li>
 <li>Workshop for PhD Students & Early Career Researchers</li>
 <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts</li>
@@ -35,7 +67,7 @@
     <li>Date of Workshop</li>
       <ul><li><b>November 14</b></li></ul>
     <li>Time and Timezone of Workshop</li>
-      <ul><li>4-7pm CET</li></ul>
+      <ul><li>4pm-7pm CET</li></ul>
   </ul>
 <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</li>
 <li>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</li>
