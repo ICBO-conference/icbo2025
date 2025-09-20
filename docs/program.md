@@ -26,6 +26,17 @@
 <li>Workshop on the Core Ontology for Biology and Biomedicine</li>
 <li>Workshop for PhD Students & Early Career Researchers</li>
 <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts</li>
+  <ul>
+    <li>Organizers</li>
+      <ul>
+        <li>Giorgio Ubbiali (OTH Brixen College) <b>ga.ubbiali@gmail.com</b></li>
+        <li>Ludger Jansen (PTH Brixen College)</li>
+      </ul>
+    <li>Date of Workshop</li>
+      <ul><li><b>November 14</b></li></ul>
+    <li>Time and Timezone of Workshop</li>
+      <ul><li>4-7pm CET</li></ul>
+  </ul>
 <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</li>
 <li>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</li>
 
