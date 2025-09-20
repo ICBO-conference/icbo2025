@@ -21,7 +21,7 @@
 
 ### Workshops
 
-<li>Accelerating Ontology Curation with Agentic AI and GitHub</li>
+<li><u>Accelerating Ontology Curation with Agentic AI and GitHub</u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -42,7 +42,7 @@
         <li>4pm-7pm Central Europe</li>
       </ul>
   </ul>
-<li>Annotating Data with Ontologies: LinkML Can Help</li>
+<li><u>Annotating Data with Ontologies: LinkML Can Help</u></li>
   <ul>
   <li>Organizers</li>
     <ul>
@@ -57,9 +57,26 @@
   <li>Time and Timezone of Workshop</li>
     <ul><li>8am PT</li></ul>
   </ul>
-<li>Workshop on the Core Ontology for Biology and Biomedicine</li>
-<li>Workshop for PhD Students & Early Career Researchers</li>
-<li>Food, Waste, and Sustainability: Synergizing Ontology Efforts</li>
+<li><u>Workshop on the Core Ontology for Biology and Biomedicine</u></li>
+  <ul>
+    <li>Organizers</li>
+      <ul>
+        <li>Sebastian Duesing (La Jolla Institute for Immunology) <b>sduesing@lji.org</b></li>
+        <li>Bjoern Peters (La Jolla Institute for Immunology)</li>
+        <li>James Overton (Knocean, Inc.)</li>
+        <li>Randi Vita (La Jolla Institute for Immunology)</li>
+        <li>Chris Mungall (Lawrence Berkeley National Laboratory)</li>
+      </ul>
+  </ul>
+<li><u>Workshop for PhD Students & Early Career Researchers</u></li>
+  <ul>
+    <li>Organizers</li>
+      <ul>
+        <li>Olga Mashkova (King Abdullah University of Science and Technology) <b>olga.mashkova@kaust.edu.sa</b></li>
+        <li>Anthony Huffman (University of Michigan) <b>huffmaar@umich.edu</b></li>
+      </ul>
+  </ul>
+<li><u>Food, Waste, and Sustainability: Synergizing Ontology Efforts</u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -71,8 +88,24 @@
     <li>Time and Timezone of Workshop</li>
       <ul><li>4pm-7pm CET</li></ul>
   </ul>
-<li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</li>
-<li>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</li>
+<li><u>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</u></li>
+  <ul>
+    <li>Organizers</li>
+      <ul>
+        <li>Junguk Hur (University of North Dakota) <b>jung.hur@und.edu</b></li>
+        <li>Yongqun He (University of Michigan)</li>
+        <li> Cui Tao (Mayo Clinic)</li>
+      </ul>
+  </ul>
+<li><u>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</u></li>
+  <ul>
+    <li>Organizers</li>
+      <ul>
+        <li>Alexander Diehl (University at Buffalo) <b>addiehl@buffalo.edu</b></li>
+        <li>Yongqun He (University of Michigan)</li>
+        <li>David Osumi-Sutherland (Wellcome Trust Sanger Institute)</li>
+      </ul>
+  </ul>
 
 ### Tutorials
 
