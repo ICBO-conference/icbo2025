@@ -43,6 +43,7 @@
       </ul>
   </ul>
 <li>Annotating Data with Ontologies: LinkML Can Help</li>
+  <ul>
   <li>Organizers</li>
     <ul>
       <li>Sierra Moxon (Lawrence Berkeley National Laboratory) <b>smoxon@lbl.gov</b></li>
@@ -55,6 +56,7 @@
     <ul><li><b>November 5</b></li></ul>
   <li>Time and Timezone of Workshop</li>
     <ul><li>8am PT</li></ul>
+  </ul>
 <li>Workshop on the Core Ontology for Biology and Biomedicine</li>
 <li>Workshop for PhD Students & Early Career Researchers</li>
 <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts</li>
