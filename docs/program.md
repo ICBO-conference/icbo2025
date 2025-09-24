@@ -8,9 +8,10 @@
     <ul>
         <li><b>Workshops/tutorials</b>: (see Program page for more detail) </li>
           <ul>
+            <li>Annotating Data with Ontologies: LinkML Can Help: (11/5/2025)</li>
+            <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop: (11/7/2025)</li>
             <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts: (11/14/2025)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
-            <li>Annotating Data with Ontologies: LinkML Can Help: (11/5/2025)</li>
           </ul>
         <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
         <li><b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>: November 1st (11/1/2025)</li>
@@ -88,7 +89,7 @@
         <li>Anthony Huffman (University of Michigan) <b>huffmaar@umich.edu</b></li>
       </ul>
     <li>Abstract</li>
-      <ul><span stul="font-size: smaller;"><li>This interactive panel discussion brings together senior researchers to share insights and advice with early-career colleagues working in biomedical ontologies and knowledge representation. Panelists will reflect on key career decisions, essential skills beyond technical expertise, and strategies for resilience in research. The discussion will explore the evolving role of artificial intelligence and large language models (LLMs) in ontology development, addressing how these technologies can drive real-world impact, support industry, and tackle global challenges such as public health and climate change. The panel will also consider how to foster community governance, and uphold ethical responsibility in ontology-driven applications. The session aims to inspire the next generation of researchers while promoting dialogue on the future of ontologies for health, science, and sustainability.</li></span></ul>
+      <ul><span style="font-size: smaller;"><li>This interactive panel discussion brings together senior researchers to share insights and advice with early-career colleagues working in biomedical ontologies and knowledge representation. Panelists will reflect on key career decisions, essential skills beyond technical expertise, and strategies for resilience in research. The discussion will explore the evolving role of artificial intelligence and large language models (LLMs) in ontology development, addressing how these technologies can drive real-world impact, support industry, and tackle global challenges such as public health and climate change. The panel will also consider how to foster community governance, and uphold ethical responsibility in ontology-driven applications. The session aims to inspire the next generation of researchers while promoting dialogue on the future of ontologies for health, science, and sustainability.</li></span></ul>
   </ul>
 <li><u><a href="https://sites.google.com/view/fws2025workshop/home-page">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a></u></li>
   <ul>
