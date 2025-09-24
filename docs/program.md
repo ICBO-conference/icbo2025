@@ -46,6 +46,9 @@
         <li>3pm-6pm United Kingdom</li>
         <li>4pm-7pm Central Europe</li>
       </ul>
+    <li>Abstract</li>
+      <ul><li>To date, food and plastic waste deriving from human consumption and other supply chain activities pose serious challenges to human health and the resilience and sustainability of food systems. Ontologies play an essential role in enhancing interconnections among datasets, data sources, and people, proving to be critical means to deal with complex health and sustainability issues, such as food and plastic waste. If originally, ontology efforts mainly centered on developing resources addressing health and related features, recently, attention has also been dedicated to sustainability issues. It is imperative to enhance interconnectedness among these ontologies and related applications. In particular, it will be important to communicate across different ontology communities to adequately capture the intrinsic connections between health and sustainability. This workshop aims to promote discussions in this direction, focusing on waste as a starting use case. First, we will explore the current conceptualization of waste, especially food and plastic waste in food systems. Then, we will move to discuss the corresponding existing ontologies and models. Finally, we will engage with subject matter experts, conversating on how to synergize sustainability and health ontologies across ontology communities for food systems waste.</li></ul>
+    </li>
   </ul>
 <li><u>Annotating Data with Ontologies: LinkML Can Help</u></li>
   <ul>
@@ -81,7 +84,7 @@
         <li>Anthony Huffman (University of Michigan) <b>huffmaar@umich.edu</b></li>
       </ul>
   </ul>
-<li><u>Food, Waste, and Sustainability: Synergizing Ontology Efforts</u></li>
+<li><u><a href="https://sites.google.com/view/fws2025workshop/home-page">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
