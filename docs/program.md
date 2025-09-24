@@ -93,7 +93,7 @@
     <li>Time and Timezone of Workshop</li>
       <ul><li>4pm-7pm CET</li></ul>
   </ul>
-<li><u>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</u></li>
+<li><u><a href="https://vdos-workshop.github.io/vdos2025/">14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</a></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -101,6 +101,10 @@
         <li>Yongqun He (University of Michigan)</li>
         <li> Cui Tao (Mayo Clinic)</li>
       </ul>
+    <li>Date of Workshop</li>
+      <ul><li><b>November 7</b></li></ul>
+    <li>Time and Timezone of Workshop</li>
+      <ul><li>tbd</li></ul>
   </ul>
 <li><u>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</u></li>
   <ul>
