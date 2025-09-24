@@ -16,9 +16,10 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
     <ul>
         <li><b>Workshops/tutorials</b>: (see Program page for more detail) </li>
           <ul>
+            <li>Annotating Data with Ontologies: LinkML Can Help: (11/5/2025)</li>
+            <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop: (11/7/2025)</li>
             <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts: (11/14/2025)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
-            <li>Annotating Data with Ontologies: LinkML Can Help: (11/5/2025)</li>
           </ul>
         <li><b>Main conference</b>:  November 9th to November 11th (11/9/2025-11/11/2025)</li>
         <li><b>ICBO-EAST Satelite meeting in Japan</b>: November 1st (11/1/2025)</li>
