@@ -5,22 +5,18 @@
 
 ### Registration fee information for ICBO 2025 
 
-<button type="button" class="btn btn-success btn-primary btn-lg">Registration opens soon -- please Check back in October!</button>	
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=header" class="btn btn-success btn-primary btn-lg" role="button" target="_blank">
+  Free Registration Now Open
+</a>
+
 
 <div class="alert alert-primary" role="alert">
-The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete tbd to indicate your workshop/tutorial preferences.
+The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete the registration form to indicate your workshop/tutorial preferences.
 </div>
-
-<b>* Student fee (discount coupon):</b> To request a student fee discount, please submit a request to 
-    tbd <b>by tbd</b>, attaching some document that proves your student's relationship with the educational institution. You should ask for that only if you are registered in a degree program (undergraduate or graduate) at an accredited educational institution at the time of your submission.
-
-<b>** Different prices for developing countries: </b><i>Less developed countries</i> are defined here as countries with a human development index of &lt;0.8 (see 
-    <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index">
-    List of countries by Human Development Index</a>).
 
 ### Virtual Attendance fees
 
-ICBO 2025 virtual attendance is charged due to costs to provide the infrastructure necessary for this kind of participation. If you plan to attend, you are required to fill out this registration form in order to receive the meeting Zoom link.
+ICBO 2025 virtual attendance is free. If you plan to attend, you are required to fill out this registration form in order to receive the meeting Zoom link.
 
 ## Consent to Use Photographic Images
 
