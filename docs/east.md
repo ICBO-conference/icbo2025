@@ -23,7 +23,7 @@ ICBO-EAST aims to foster deeper collaboration across global and local biomedical
 ### Important Dates
 <li>Meeting date: Saturday, November 1, 2025, 10:00 AM - 17:30 PM JST (i.e., 9:00 AM - 4:30 PM Beijing Time)</li>
 <li>Paper submission deadline (ICBO-EAST track): <span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 7, 2025 </li>
-<li>Notification of acceptance: September 30, 2025</li>
+<li>Notification of acceptance: October 15, 2025</li>
 
 ### Call for Papers - ICBO-EAST Track
 We invite submissions for approximately eight presentations for the ICBO-EAST track (in English, focused on life science topics).
@@ -32,7 +32,7 @@ We welcome papers related to ontology development and application in biomedical 
 
 <ul>
   <li>Paper Submission Deadline:<span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 7, 2025 </li>
-  <li>Notification of Acceptance: September 30, 2025</li>
+  <li>Notification of Acceptance: October 15, 2025</li>
   <li>Submission Site: <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/">https://cmt3.research.microsoft.com/ICBO2025/Track/2/Submission/</a> <i>If this link does not work for you, try the following link: <a href="https://cmt3.research.microsoft.com/ICBO2025/Submission/Index">https://cmt3.research.microsoft.com/ICBO2025/Submission/Index</a></i></li>
 </ul>
 
