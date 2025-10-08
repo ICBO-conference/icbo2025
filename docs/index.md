@@ -35,6 +35,8 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
           <ul><li><b>acceptance</b>: October 15th (10/1/2025)</li></ul>
         <li><b>East Satellite submission deadline</b>: <span style="color: red; text-decoration: line-through;">August 24th (8/24/2025)</span> September 7th (9/7/2025)
           <ul><li><b>acceptance</b>: September 30th (9/30/2025)</li></ul>
+        <li><b>Short Talks submission deadline</b>: October 24th (10/24/2025)
+          <ul><li><b>acceptance</b>: October 31st (10/31/2025)</li></ul>
     </ul>
   </ul>
 
@@ -61,6 +63,11 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
     <li>More information can be found <a href="https://jbiomedsem.biomedcentral.com/articles/collections/icboseries">here</a></li>
     <li><b>Submission link</b>: <a href="https://jbiomedsem.biomedcentral.com/articles/collections/icboseries">https://jbiomedsem.biomedcentral.com/articles/collections/icboseries</a></li>
 </ul>
+
+## Call for Short Talks
+
+<i>Short talks</i> submission deadline: <b>October 24th (10/24/2025)</b>. Notification: <b>October 31st</b>, 2025
+  <li>We are now accepting submissions for short talks at ICBO 2025. These will be virtual, 10-15 minute talks. They are intended to encourage cooperation on projects with the ICBO community and to provide an opportunity to receive feedback. The talks allow presenters to show off ongoing work which might not yet be ready for a full publication. Submissions should be in the form of abstracts and can be submitted using the link <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/6/Submission/Create">here</a></li>
 
 ### Keynote Speakers
 
