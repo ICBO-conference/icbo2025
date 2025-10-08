@@ -102,7 +102,7 @@ The following paper categories are welcome:
 ## Call for Short Talks
 
 <i>Short talks</i> submission deadline: <b>October 24th (10/24/2025)</b>. Notification: <b>October 31st</b>, 2025
-  <li>We are now accepting submissions for short talks at ICBO 2025. These will be virtual, 10-15 minute talks. They are intended to encourage cooperation on projects with the ICBO community and to provide an opportunity to receive feedback. The talks allow presenters to show off ongoing work which might not yet be ready for a full publication. Submissions should be in the form of abstracts and can be submitted using the link <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/6/Submission/Create">here</a></li>. Short talk submissions are open from now until October 24th. Acceptance notifications will be made by October 31st.</li>
+  <li>We are now accepting submissions for short talks at ICBO 2025. These will be virtual, 10-15 minute talks. They are intended to encourage cooperation on projects with the ICBO community and to provide an opportunity to receive feedback. The talks allow presenters to show off ongoing work which might not yet be ready for a full publication. Submissions should be in the form of abstracts and can be submitted using the link <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/6/Submission/Create">here</a></li>
 
 ## Call for Workshops, Tutorials, and Demos 
 
