@@ -20,6 +20,7 @@ At the conference participants will present their work on applied aspects of ont
           <ul>
             <li>Annotating Data with Ontologies: LinkML Can Help: (11/5/2025)</li>
             <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop: (11/7/2025)</li>
+            <li>Workshop for PhD Students & Early Career Researchers: (11/10/2025)</li>
             <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts: (11/14/2025)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
