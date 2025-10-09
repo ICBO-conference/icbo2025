@@ -10,6 +10,7 @@
           <ul>
             <li>Annotating Data with Ontologies: LinkML Can Help: (11/5/2025)</li>
             <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop: (11/7/2025)</li>
+            <li>Workshop for PhD Students & Early Career Researchers: (11/10/2025)</li>
             <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts: (11/14/2025)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
@@ -68,7 +69,7 @@
   <li>Abstract</li>
     <ul><span style="font-size: smaller;"><li>This tutorial introduces LinkML (Linked Data Modeling Language), an open framework that simplifies the process of authoring, validating, and sharing data. LinkML offers an approachable syntax that is not tied to any one technical architecture, and can be integrated seamlessly with many existing frameworks. A low barrier to entry enables people from different backgrounds and varying levels of technical expertise to collaborate, forming a shared understanding of the underlying data semantics and contributing to data annotation and ontology integration.</li></span></ul>
   </ul>
-<li><u>Workshop on the Core Ontology for Biology and Biomedicine</u></li>
+<span style="color: red; text-decoration: line-through;"><li><u>Workshop on the Core Ontology for Biology and Biomedicine</u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -80,7 +81,7 @@
       </ul>
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>The Core Ontology for Biology and Biomedicine (COB) is a BFO-compatible upper-level ontology used by the Open Biomedical Ontologies (OBO) Foundry. COB provides a direct parent for the top-level classes in every OBO ontology, and so OBO ontologies that use COB are interoperable. Therefore, COB adoption makes interoperability measurable within the OBO Foundry, a critical step towards the Foundry's goal of ensuring the testability of all its principles. After a robust development push following the 2024 COB Workshop at the La Jolla Institute for Immunology, the COB development team is focused on making COB adoption faster, easier, and more rewarding. The purpose of this workshop is to engage and train others to adopt COB in their own ontologies and participate in future COB development.</li></span></ul>
-  </ul>
+  </ul></span>
 <li><u>Workshop for PhD Students & Early Career Researchers</u></li>
   <ul>
     <li>Organizers</li>
@@ -88,6 +89,10 @@
         <li>Olga Mashkova (King Abdullah University of Science and Technology) <b>olga.mashkova@kaust.edu.sa</b></li>
         <li>Anthony Huffman (University of Michigan) <b>huffmaar@umich.edu</b></li>
       </ul>
+    <li>Date of Workshop</li>
+      <ul><li><b>November 10</b></li></ul>
+    <li>Time and Timezone of Workshop</li>
+      <ul><li>9am-11am ET</li></ul>
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>This interactive panel discussion brings together senior researchers to share insights and advice with early-career colleagues working in biomedical ontologies and knowledge representation. Panelists will reflect on key career decisions, essential skills beyond technical expertise, and strategies for resilience in research. The discussion will explore the evolving role of artificial intelligence and large language models (LLMs) in ontology development, addressing how these technologies can drive real-world impact, support industry, and tackle global challenges such as public health and climate change. The panel will also consider how to foster community governance, and uphold ethical responsibility in ontology-driven applications. The session aims to inspire the next generation of researchers while promoting dialogue on the future of ontologies for health, science, and sustainability.</li></span></ul>
   </ul>
