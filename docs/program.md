@@ -69,18 +69,18 @@
   <li>Abstract</li>
     <ul><span style="font-size: smaller;"><li>This tutorial introduces LinkML (Linked Data Modeling Language), an open framework that simplifies the process of authoring, validating, and sharing data. LinkML offers an approachable syntax that is not tied to any one technical architecture, and can be integrated seamlessly with many existing frameworks. A low barrier to entry enables people from different backgrounds and varying levels of technical expertise to collaborate, forming a shared understanding of the underlying data semantics and contributing to data annotation and ontology integration.</li></span></ul>
   </ul>
-<li><u><span style="color: red; text-decoration: line-through;">Workshop on the Core Ontology for Biology and Biomedicine</span></u></li>
+<li><u>Workshop on the Core Ontology for Biology and Biomedicine</u></li>
   <ul>
-    <li><span style="color: red; text-decoration: line-through;">Organizers</span></li>
+    <li>Organizers</li>
       <ul>
-        <li><span style="color: red; text-decoration: line-through;">Sebastian Duesing (La Jolla Institute for Immunology) <b>sduesing@lji.org</b></span></li>
-        <li><span style="color: red; text-decoration: line-through;">Bjoern Peters (La Jolla Institute for Immunology)</span></li>
-        <li><span style="color: red; text-decoration: line-through;">James Overton (Knocean, Inc.)</span></li>
-        <li><span style="color: red; text-decoration: line-through;">Randi Vita (La Jolla Institute for Immunology)</span></li>
-        <li><span style="color: red; text-decoration: line-through;">Chris Mungall (Lawrence Berkeley National Laboratory)</span></li>
+        <li>Sebastian Duesing (La Jolla Institute for Immunology) <b>sduesing@lji.org</b></li>
+        <li>Bjoern Peters (La Jolla Institute for Immunology)</li>
+        <li>James Overton (Knocean, Inc.)</li>
+        <li>Randi Vita (La Jolla Institute for Immunology)</li>
+        <li>Chris Mungall (Lawrence Berkeley National Laboratory)</li>
       </ul>
-    <li><span style="color: red; text-decoration: line-through;">Abstract</span></li>
-      <ul><span style="color: red; text-decoration: line-through;"><span style="font-size: smaller;"><li>The Core Ontology for Biology and Biomedicine (COB) is a BFO-compatible upper-level ontology used by the Open Biomedical Ontologies (OBO) Foundry. COB provides a direct parent for the top-level classes in every OBO ontology, and so OBO ontologies that use COB are interoperable. Therefore, COB adoption makes interoperability measurable within the OBO Foundry, a critical step towards the Foundry's goal of ensuring the testability of all its principles. After a robust development push following the 2024 COB Workshop at the La Jolla Institute for Immunology, the COB development team is focused on making COB adoption faster, easier, and more rewarding. The purpose of this workshop is to engage and train others to adopt COB in their own ontologies and participate in future COB development.</li></span></span></ul>
+    <li>Abstract</li>
+      <ul><span style="font-size: smaller;"><li>The Core Ontology for Biology and Biomedicine (COB) is a BFO-compatible upper-level ontology used by the Open Biomedical Ontologies (OBO) Foundry. COB provides a direct parent for the top-level classes in every OBO ontology, and so OBO ontologies that use COB are interoperable. Therefore, COB adoption makes interoperability measurable within the OBO Foundry, a critical step towards the Foundry's goal of ensuring the testability of all its principles. After a robust development push following the 2024 COB Workshop at the La Jolla Institute for Immunology, the COB development team is focused on making COB adoption faster, easier, and more rewarding. The purpose of this workshop is to engage and train others to adopt COB in their own ontologies and participate in future COB development.</li></span></ul>
   </ul>
 <li><u>Workshop for PhD Students & Early Career Researchers</u></li>
   <ul>
