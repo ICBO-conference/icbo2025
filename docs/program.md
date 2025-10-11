@@ -23,7 +23,7 @@
 ### Schedule
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
 
-<h3>Saturday, November 1, 2025 (*Friday, October 31 outside Asia)</h3>
+<h2>Saturday, November 1, 2025 (*Friday, October 31 outside Asia)</h2>
   <pre style="background-color: lightgrey; ">
     10:00 - 17:30 JST <b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>
   </pre>
@@ -63,7 +63,7 @@
 
 <h3>Tuesday, November 18, 2025</h3>
   <pre style="background-color: lightgrey; ">
-    10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm Central Europe) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
+    10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
             
 ### Keynotes Speakers
