@@ -74,7 +74,7 @@
 
 ### Workshops Details
 
-<li><u><b>Accelerating Ontology Curation with Agentic AI and GitHub</b>b></u></li>
+<li><u><b>Accelerating Ontology Curation with Agentic AI and GitHub</b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -98,7 +98,7 @@
       <ul><span style="font-size: smaller;"><li>Artificial Intelligence (AI) technology is having a tremendous impact on science and society. This can be readily observed in fields such as software engineering, where developers are increasingly using AI tools and even ‘vibe coding’ entire projects. However, much of this impact has yet to filter down to curation and ontology development. Many ontology developers report that they are either distrustful of AI, or they don’t know where to start. Additionally, ontology developers may think that parts of their workflow are too complex to use in AI.<br/>In fact, AI is particularly well suited to many complex aspects of ontology development, and if used correctly, can be deployed with high reliability, while giving the human experts full control over tasks. Some ontologies, such as Mondo, Uberon, and the GO, have already successfully incorporated ontology agents into their GitHub-based workflows.<br/>In this tutorial, we will give a practical hands-on guide to ontology developers, showing how to use the latest powerful agent-based AI to support and accelerate their work. At the end of the tutorial, participants will be able to use an AI coding agent as a part of their day-to-day workflow.</li></span></ul>
     </li>
   </ul>
-<li><u><b>Annotating Data with Ontologies: LinkML Can Help</b>b></u></li>
+<li><u><b>Annotating Data with Ontologies: LinkML Can Help</b></u></li>
   <ul>
   <li>Organizers</li>
     <ul>
@@ -128,7 +128,7 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>The Core Ontology for Biology and Biomedicine (COB) is a BFO-compatible upper-level ontology used by the Open Biomedical Ontologies (OBO) Foundry. COB provides a direct parent for the top-level classes in every OBO ontology, and so OBO ontologies that use COB are interoperable. Therefore, COB adoption makes interoperability measurable within the OBO Foundry, a critical step towards the Foundry's goal of ensuring the testability of all its principles. After a robust development push following the 2024 COB Workshop at the La Jolla Institute for Immunology, the COB development team is focused on making COB adoption faster, easier, and more rewarding. The purpose of this workshop is to engage and train others to adopt COB in their own ontologies and participate in future COB development.</li></span></ul>
   </ul>
-<li><u><b>Workshop for PhD Students & Early Career Researchers</b>b></u></li>
+<li><u><b>Workshop for PhD Students & Early Career Researchers</b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -156,7 +156,7 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>To date, food and plastic waste deriving from human consumption and other supply chain activities pose serious challenges to human health and the resilience and sustainability of food systems. Ontologies play an essential role in enhancing interconnections among datasets, data sources, and people, proving to be critical means to deal with complex health and sustainability issues, such as food and plastic waste. If originally, ontology efforts mainly centered on developing resources addressing health and related features, recently, attention has also been dedicated to sustainability issues. It is imperative to enhance interconnectedness among these ontologies and related applications. In particular, it will be important to communicate across different ontology communities to adequately capture the intrinsic connections between health and sustainability. This workshop aims to promote discussions in this direction, focusing on waste as a starting use case. First, we will explore the current conceptualization of waste, especially food and plastic waste in food systems. Then, we will move to discuss the corresponding existing ontologies and models. Finally, we will engage with subject matter experts, conversating on how to synergize sustainability and health ontologies across ontology communities for food systems waste.</li></span></ul>
   </ul>
-<li><u><b><a href="https://vdos-workshop.github.io/vdos2025/">14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</a></b>b></u></li>
+<li><u><b><a href="https://vdos-workshop.github.io/vdos2025/">14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</a></b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
@@ -171,7 +171,7 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>We propose the 14th Vaccine and Drug Ontology Studies (VDOS) workshop at the 16th International Conference on Biomedical Ontology (ICBO 2025). This year, we extend our focus to encompass artificial intelligence's transformative role in drug and vaccine ontology research. The workshop aims to explore innovative solutions and challenges in representing and analyzing drugs and vaccines, covering administration, immune responses, adverse events, and more. Key topics include the ontological representation of drugs and vaccines, real-world application challenges, drug components, administration, immune responses, drug interactions, and adverse events in clinical and research settings. A special emphasis will be placed on how AI can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation. Despite progress, challenges remain in fully representing and utilizing ontologies for research and clinical issues, such as detailed representation of administration and adverse events, drug interactions, and analysis of immune responses. The workshop will bring together experts from clinical, research, and pharma-biotech sectors to discuss solutions to these challenges, aiming to foster advancements in drug development, administration, and the integration of AI in ontological research. Our goal is to contribute to public health improvement by enhancing the understanding and application of drug and vaccine ontologies.</li></span></ul>
   </ul>
-<li><u><b>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</b>b></u></li>
+<li><u><b>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
