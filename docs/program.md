@@ -23,7 +23,7 @@
 ### Schedule
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
 
-<h4>Saturday, November 1, 2025 (*Friday, October 31 outside Asia)</h4>
+<h4>Saturday, November 1, 2025 (JST* Friday Oct. 30, 2025 in EST)</h4>
   <pre style="background-color: lightgrey; ">
     10:00 - 17:30 JST <b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>
   </pre>
