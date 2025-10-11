@@ -72,13 +72,13 @@
     tbd
 </ul>
 
-### Workshops
+### Workshops Details
 
-<li><u>Accelerating Ontology Curation with Agentic AI and GitHub</u></li>
+<li><u><b>Accelerating Ontology Curation with Agentic AI and GitHub</b>b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
-        <li>Sabrina Toro (University of North Carolina at Chapel Hill) <b>sabrina@tislab.org</b></li>
+        <li>Sabrina Toro (University of North Carolina at Chapel Hill) </li>
         <li>Justin Reese (Lawrence Berkeley National Laboratory)</li>
         <li>Nicolas Matentzoglu (Semanticly)</li>
         <li>Melissa Haendel (University of North Carolina at Chapel Hill)</li>
@@ -98,11 +98,11 @@
       <ul><span style="font-size: smaller;"><li>Artificial Intelligence (AI) technology is having a tremendous impact on science and society. This can be readily observed in fields such as software engineering, where developers are increasingly using AI tools and even ‘vibe coding’ entire projects. However, much of this impact has yet to filter down to curation and ontology development. Many ontology developers report that they are either distrustful of AI, or they don’t know where to start. Additionally, ontology developers may think that parts of their workflow are too complex to use in AI.<br/>In fact, AI is particularly well suited to many complex aspects of ontology development, and if used correctly, can be deployed with high reliability, while giving the human experts full control over tasks. Some ontologies, such as Mondo, Uberon, and the GO, have already successfully incorporated ontology agents into their GitHub-based workflows.<br/>In this tutorial, we will give a practical hands-on guide to ontology developers, showing how to use the latest powerful agent-based AI to support and accelerate their work. At the end of the tutorial, participants will be able to use an AI coding agent as a part of their day-to-day workflow.</li></span></ul>
     </li>
   </ul>
-<li><u>Annotating Data with Ontologies: LinkML Can Help</u></li>
+<li><u><b>Annotating Data with Ontologies: LinkML Can Help</b>b></u></li>
   <ul>
   <li>Organizers</li>
     <ul>
-      <li>Sierra Moxon (Lawrence Berkeley National Laboratory) <b>smoxon@lbl.gov</b></li>
+      <li>Sierra Moxon (Lawrence Berkeley National Laboratory) </li>
       <li>Kevin Schaper (Translational and Integrative Sciences Lab, University of North Carolina)</li>
       <li>Matt Brush (Translational and Integrative Sciences Lab, University of North Carolina)</li>
       <li>Chris Mungall (Lawrence Berkeley National Laboratory)</li>
@@ -115,11 +115,11 @@
   <li>Abstract</li>
     <ul><span style="font-size: smaller;"><li>This tutorial introduces LinkML (Linked Data Modeling Language), an open framework that simplifies the process of authoring, validating, and sharing data. LinkML offers an approachable syntax that is not tied to any one technical architecture, and can be integrated seamlessly with many existing frameworks. A low barrier to entry enables people from different backgrounds and varying levels of technical expertise to collaborate, forming a shared understanding of the underlying data semantics and contributing to data annotation and ontology integration.</li></span></ul>
   </ul>
-<li><u>Workshop on the Core Ontology for Biology and Biomedicine</u></li>
+<li><u><b>Workshop on the Core Ontology for Biology and Biomedicine</b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
-        <li>Sebastian Duesing (La Jolla Institute for Immunology) <b>sduesing@lji.org</b></li>
+        <li>Sebastian Duesing (La Jolla Institute for Immunology) </li>
         <li>Bjoern Peters (La Jolla Institute for Immunology)</li>
         <li>James Overton (Knocean, Inc.)</li>
         <li>Randi Vita (La Jolla Institute for Immunology)</li>
@@ -128,12 +128,12 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>The Core Ontology for Biology and Biomedicine (COB) is a BFO-compatible upper-level ontology used by the Open Biomedical Ontologies (OBO) Foundry. COB provides a direct parent for the top-level classes in every OBO ontology, and so OBO ontologies that use COB are interoperable. Therefore, COB adoption makes interoperability measurable within the OBO Foundry, a critical step towards the Foundry's goal of ensuring the testability of all its principles. After a robust development push following the 2024 COB Workshop at the La Jolla Institute for Immunology, the COB development team is focused on making COB adoption faster, easier, and more rewarding. The purpose of this workshop is to engage and train others to adopt COB in their own ontologies and participate in future COB development.</li></span></ul>
   </ul>
-<li><u>Workshop for PhD Students & Early Career Researchers</u></li>
+<li><u><b>Workshop for PhD Students & Early Career Researchers</b>b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
-        <li>Olga Mashkova (King Abdullah University of Science and Technology) <b>olga.mashkova@kaust.edu.sa</b></li>
-        <li>Anthony Huffman (University of Michigan) <b>huffmaar@umich.edu</b></li>
+        <li>Olga Mashkova (King Abdullah University of Science and Technology) </li>
+        <li>Anthony Huffman (University of Michigan) </li>
       </ul>
     <li>Date of Workshop</li>
       <ul><li><b>November 10</b></li></ul>
@@ -142,11 +142,11 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>This interactive panel discussion brings together senior researchers to share insights and advice with early-career colleagues working in biomedical ontologies and knowledge representation. Panelists will reflect on key career decisions, essential skills beyond technical expertise, and strategies for resilience in research. The discussion will explore the evolving role of artificial intelligence and large language models (LLMs) in ontology development, addressing how these technologies can drive real-world impact, support industry, and tackle global challenges such as public health and climate change. The panel will also consider how to foster community governance, and uphold ethical responsibility in ontology-driven applications. The session aims to inspire the next generation of researchers while promoting dialogue on the future of ontologies for health, science, and sustainability.</li></span></ul>
   </ul>
-<li><u><a href="https://sites.google.com/view/fws2025workshop/home-page">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a></u></li>
+<li><u><b><a href="https://sites.google.com/view/fws2025workshop/home-page">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a></b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
-        <li>Giorgio Ubbiali (OTH Brixen College) <b>ga.ubbiali@gmail.com</b></li>
+        <li>Giorgio Ubbiali (OTH Brixen College) </li>
         <li>Ludger Jansen (PTH Brixen College)</li>
       </ul>
     <li>Date of Workshop</li>
@@ -156,11 +156,11 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>To date, food and plastic waste deriving from human consumption and other supply chain activities pose serious challenges to human health and the resilience and sustainability of food systems. Ontologies play an essential role in enhancing interconnections among datasets, data sources, and people, proving to be critical means to deal with complex health and sustainability issues, such as food and plastic waste. If originally, ontology efforts mainly centered on developing resources addressing health and related features, recently, attention has also been dedicated to sustainability issues. It is imperative to enhance interconnectedness among these ontologies and related applications. In particular, it will be important to communicate across different ontology communities to adequately capture the intrinsic connections between health and sustainability. This workshop aims to promote discussions in this direction, focusing on waste as a starting use case. First, we will explore the current conceptualization of waste, especially food and plastic waste in food systems. Then, we will move to discuss the corresponding existing ontologies and models. Finally, we will engage with subject matter experts, conversating on how to synergize sustainability and health ontologies across ontology communities for food systems waste.</li></span></ul>
   </ul>
-<li><u><a href="https://vdos-workshop.github.io/vdos2025/">14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</a></u></li>
+<li><u><b><a href="https://vdos-workshop.github.io/vdos2025/">14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</a></b>b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
-        <li>Junguk Hur (University of North Dakota) <b>jung.hur@und.edu</b></li>
+        <li>Junguk Hur (University of North Dakota) </li>
         <li>Yongqun He (University of Michigan)</li>
         <li> Cui Tao (Mayo Clinic)</li>
       </ul>
@@ -171,11 +171,11 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>We propose the 14th Vaccine and Drug Ontology Studies (VDOS) workshop at the 16th International Conference on Biomedical Ontology (ICBO 2025). This year, we extend our focus to encompass artificial intelligence's transformative role in drug and vaccine ontology research. The workshop aims to explore innovative solutions and challenges in representing and analyzing drugs and vaccines, covering administration, immune responses, adverse events, and more. Key topics include the ontological representation of drugs and vaccines, real-world application challenges, drug components, administration, immune responses, drug interactions, and adverse events in clinical and research settings. A special emphasis will be placed on how AI can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation. Despite progress, challenges remain in fully representing and utilizing ontologies for research and clinical issues, such as detailed representation of administration and adverse events, drug interactions, and analysis of immune responses. The workshop will bring together experts from clinical, research, and pharma-biotech sectors to discuss solutions to these challenges, aiming to foster advancements in drug development, administration, and the integration of AI in ontological research. Our goal is to contribute to public health improvement by enhancing the understanding and application of drug and vaccine ontologies.</li></span></ul>
   </ul>
-<li><u>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</u></li>
+<li><u><b>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</b>b></u></li>
   <ul>
     <li>Organizers</li>
       <ul>
-        <li>Alexander Diehl (University at Buffalo) <b>addiehl@buffalo.edu</b></li>
+        <li>Alexander Diehl (University at Buffalo) </li>
         <li>Yongqun He (University of Michigan)</li>
         <li>David Osumi-Sutherland (Wellcome Trust Sanger Institute)</li>
       </ul>
@@ -184,28 +184,6 @@
 
 <p>Ontologies are increasingly used for integrating and analyzing these diverse data types. The Cell Ontology and Cell Line Ontology have long served as reference ontologies for cell type information, and additional ontologies such as the Gene Ontology, Protein Ontology, and the Ontology for Biomedical Investigation are important for representing experimental data about cell types, the methods used to produce that data, and for performing data analyses on cell type data. There is a continuing need for improved automated analysis techniques to link data about cells with appropriate ontologies.</p></li></span></ul>
   </ul>
-
-### Tutorials
-
-<ul>
-   tbd
-</ul>
-
-### Software Demo
-
-<h4>tbd</h4>
-Presenter: tbd
-Tool link: tbd
-
-## General Schedule
-
-
-## Schedule Details
-
-<p>We are pleased to provide you with the detailed schedule for each session, including the respective papers that will be presented. Please find the following information outlining the sequence of sessions and the corresponding paper presentations.</p>                 
-
-tbd
-
 
 ### Contact Information 
 
