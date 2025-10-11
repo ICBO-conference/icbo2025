@@ -25,9 +25,7 @@
 
 <h3>Saturday, November 1, 2025</h3>
   <pre style="background-color: lightgrey; ">
-  <code>
     10:00 - 17:30 JST (08:00am PT) <b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>
-  </code>
   </pre>
             
 <h3>Wednesday, November 5, 2025</h3>
@@ -46,9 +44,7 @@
 
 <h3>Sunday, November 9, 2025</h3>
   <pre style="background-color: lightgrey; ">
-  <code>
     <b>ICBO 2025 Main Conference Day 1 (*presentation times tbd)</b>
-  </code>
   </pre>
 
 <h3>Monday, November 10, 2025</h3>
