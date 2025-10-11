@@ -20,6 +20,70 @@
     </ul>
 </ul>
 
+### Schedule
+            <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
+
+            <h3>Saturday, November 1, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    10:00 - 17:30 JST (08:00am PT) <b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>
+                </code>
+            </pre>
+            
+            <h3>Wednesday, November 5, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    11:00am ET (08:00am PT) <b>Annotating Data with Ontologies: LinkML Can Help</b>
+                </code>
+            </pre>
+
+            <h3>Friday, November 7, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    tbd <b>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</b>
+                </code>
+            </pre>
+
+            <h3>Sunday, November 9, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    <b>ICBO 2025 Main Conference Day 1 (*presentation times tbd)</b>
+                </code>
+            </pre>
+
+            <h3>Monday, November 10, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    <b>ICBO 2025 Main Conference Day 2 (*presentation times tbd)</b>
+                </code>
+            </pre>
+            <pre style="background-color: rgb(236, 234, 234); "> 
+                <code>
+                    09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
+                </code> 
+            </pre>
+
+            <h3>Tuesday, November 11, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    <b>ICBO 2025 Main Conference Day 3 (*presentation times tbd)</b>
+                </code>
+            </pre>
+
+            <h3>Friday, November 14, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
+                </code>
+            </pre>
+
+            <h3>Tuesday, November 18, 2025</h3>
+            <pre style="background-color: lightgrey; ">
+                <code>
+                    10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm Central Europe) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
+                </code>
+            </pre>
+            
 ### Keynotes Speakers
 
 <ul>
