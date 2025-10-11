@@ -28,7 +28,7 @@
     10:00 - 17:30 JST <b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>
   </pre>
             
-<h3>Wednesday, November 5, 2025</h3>
+<h5>Wednesday, November 5, 2025</h5>
   <pre style="background-color: lightgrey; ">
     11:00am ET (08:00am PT) <b>Annotating Data with Ontologies: LinkML Can Help</b>
   </pre>
