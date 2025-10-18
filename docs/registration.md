@@ -3,7 +3,7 @@
 
 ## Conference 2025 Registration 
 
-### Registration fee information for ICBO 2025 
+### Registration for ICBO main conference, workshops, and ICBO EAST 2025
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=header" class="btn btn-success btn-primary btn-lg" role="button" target="_blank">
   Free Registration Now Open (via Google Form)
@@ -19,7 +19,7 @@ If you are unable to use the above Google Forms registration button, we have pre
 
 ### Virtual Attendance fees
 
-ICBO 2025 virtual attendance is free. If you plan to attend, you are required to fill out this registration form in order to receive the meeting Zoom link.
+ICBO 2025 virtual attendance is free. If you plan to attend, you are required to fill out the registration form in order to receive the meeting link.
 
 ## Consent to Use Photographic Images
 
