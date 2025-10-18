@@ -14,7 +14,7 @@ The number of seats for workshops and tutorials is limited due to the capacity o
 </p>
 
 <b>
-If you are unable to use the above Google Forms registration button, we have prepared an alternative <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANCwqLNUQjdLNTA1RDBCRjNHNUM3RUZWWUU5M1k2Ui4u">Microsoft Form</a> you may fill out. <b>Only use the Microsoft Form if you cannot use the above registration button.</b>
+If you are unable to use the above Google Forms registration button, we have prepared an alternative <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANCwqLNUQjdLNTA1RDBCRjNHNUM3RUZWWUU5M1k2Ui4u">Microsoft Form</a> you may fill out. <font color="red">Only use the Microsoft Form if you cannot use the above registration button.</font>
 </b>
 
 ### Virtual Attendance fees
