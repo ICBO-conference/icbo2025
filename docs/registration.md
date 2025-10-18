@@ -9,9 +9,12 @@
   Free Registration Now Open
 </a>
 
-
 <div class="alert alert-primary" role="alert">
 The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete <a href="https://forms.gle/cytfYwWsRQG4XEes6">the registration form</a> to indicate your workshop/tutorial preferences.
+</div>
+
+<div class="alert alert-primary" role="alert">
+If you are unable to use the above Google Forms registration button, we have prepared an alternative <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANCwqLNUQjdLNTA1RDBCRjNHNUM3RUZWWUU5M1k2Ui4u">Microsoft Form</a> you may fill out. <b>Only use the Microsoft Form if you cannot use the above registration button.</b>
 </div>
 
 ### Virtual Attendance fees
