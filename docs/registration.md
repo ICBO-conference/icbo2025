@@ -5,7 +5,7 @@
 
 ### Registration for ICBO main conference, workshops, and ICBO EAST 2025
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=header" class="btn btn-success btn-primary btn-lg" role="button" target="_blank">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=pp_url&entry.614919108=Yes+(default+opt-in)" class="btn btn-success btn-primary btn-lg" role="button" target="_blank">
   Free Registration (via Google Form)
 </a>
 
@@ -14,7 +14,7 @@ The number of seats for workshops and tutorials is limited due to the capacity o
 </p>
 
 <b>
-If you are unable to use the above Google Forms registration button, we have prepared an <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANCwqLNUQjdLNTA1RDBCRjNHNUM3RUZWWUU5M1k2Ui4u">alternative registration via Microsoft Form</a> you may fill out. <font color="red">Only use the Microsoft Form if you cannot use the above registration button.</font>
+If you are unable to use the above Google Forms registration button, we have prepared an <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANCwqLNUQjdLNTA1RDBCRjNHNUM3RUZWWUU5M1k2Ui4u&rc04a3c4fd83546d4a31b2cd3c54a9eaa=%22Yes%22">alternative registration via Microsoft Form</a> you may fill out. <font color="red">Only use the Microsoft Form if you cannot use the above registration button.</font>
 </b>
 
 ### Virtual Attendance fees
