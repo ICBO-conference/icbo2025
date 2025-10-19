@@ -10,7 +10,7 @@
 </a>
 
 <p>
-The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete <a href="https://forms.gle/cytfYwWsRQG4XEes6">the registration form</a> to indicate your workshop/tutorial preferences.
+The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=pp_url&entry.614919108=Yes+(default+opt-in)">the registration form</a> to indicate your workshop/tutorial preferences.
 </p>
 
 <b>
