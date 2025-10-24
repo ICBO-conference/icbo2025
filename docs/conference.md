@@ -45,7 +45,6 @@ Hybrid participation may be available for the Japan-based SWO session at the ISW
 <li>Workshop for PhD Students & Early Career Researchers</li>
 <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts</li>
 <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</li>
-<li>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</li>
 
 
 ### Previous ICBO Conferences
