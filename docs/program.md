@@ -47,7 +47,7 @@
      <br>12:30pm-1:30pm ET <b>lunch break</b>
      <br>1:30pm-2:10pm ET <b>presentation 2</b>
      <br>2:10pm-2:15pm ET <b>break</b>
-     <br>2:15pm-3:00pm ET <b>break</b>
+     <br>2:15pm-3:00pm ET <b>short talks</b>
   </pre>
 
 <h4>Monday, November 10, 2025</h4>
@@ -62,7 +62,7 @@
      <br>12:30pm-1:30pm ET <b>lunch break</b>
      <br>1:30pm-2:10pm ET <b>presentation 4</b>
      <br>2:10pm-2:15pm ET <b>break</b>
-     <br>2:15pm-3:00pm ET <b>break</b>
+     <br>2:15pm-3:00pm ET <b>short talks</b>
   </pre>
 
 <h4>Tuesday, November 11, 2025</h4>
@@ -74,7 +74,7 @@
      <br>12:30pm-1:30pm ET <b>lunch break</b>
      <br>1:30pm-2:10pm ET <b>presentation 6</b>
      <br>2:10pm-2:15pm ET <b>break</b>
-     <br>2:15pm-3:00pm ET <b>break</b>
+     <br>2:15pm-3:00pm ET <b>short talks</b>
   </pre>
 
 <h4>Friday, November 14, 2025</h4>
