@@ -40,10 +40,10 @@
 
 <h4>Sunday, November 9, 2025</h4>
   <pre style="background-color: lightgrey; ">
-    <b>ICBO 2025 Main Conference Day 1 (11am-3pm ET)</b>
+    11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 1</b>
   </pre>
   <pre style="background-color: rgb(236, 234, 234); "> 
-     11am-11:45am ET <b>Keynote or Invited Speaker</b>
+     <br>11am-11:45am ET <b>Keynote or Invited Speaker</b>
      <br>11:45am-11:50am ET <b>break</b>
      <br>11:50am-12:30pm ET <b>presentation 1</b>
      <br>12:30pm-1:30pm ET <b>lunch break</b>
@@ -57,28 +57,28 @@
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
   </pre>
   <pre style="background-color: lightgrey; ">
-    <b>ICBO 2025 Main Conference Day 2 (*presentation times tbd)</b>
+    11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b>
   </pre>
   <pre style="background-color: rgb(236, 234, 234); "> 
-     11am-11:45am ET <b>Keynote or Invited Speaker</b>
+     <br>11am-11:45am ET <b>Keynote or Invited Speaker</b>
      <br>11:45am-11:50am ET <b>break</b>
-     <br>11:50am-12:30pm ET <b>presentation 1</b>
+     <br>11:50am-12:30pm ET <b>presentation 3</b>
      <br>12:30pm-1:30pm ET <b>lunch break</b>
-     <br>1:30pm-2:10pm ET <b>presentation 2</b>
+     <br>1:30pm-2:10pm ET <b>presentation 4</b>
      <br>2:10pm-2:15pm ET <b>break</b>
      <br>2:15pm-3:00pm ET <b>break</b>
   </pre>
 
 <h4>Tuesday, November 11, 2025</h4>
   <pre style="background-color: lightgrey; ">
-    <b>ICBO 2025 Main Conference Day 3 (*presentation times tbd)</b>
+    11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 3</b>
   </pre>
   <pre style="background-color: rgb(236, 234, 234); "> 
-     11am-11:45am ET <b>Keynote or Invited Speaker</b>
+     <br>11am-11:45am ET <b>Keynote or Invited Speaker</b>
      <br>11:45am-11:50am ET <b>break</b>
-     <br>11:50am-12:30pm ET <b>presentation 1</b>
+     <br>11:50am-12:30pm ET <b>presentation 5</b>
      <br>12:30pm-1:30pm ET <b>lunch break</b>
-     <br>1:30pm-2:10pm ET <b>presentation 2</b>
+     <br>1:30pm-2:10pm ET <b>presentation 6</b>
      <br>2:10pm-2:15pm ET <b>break</b>
      <br>2:15pm-3:00pm ET <b>break</b>
   </pre>
