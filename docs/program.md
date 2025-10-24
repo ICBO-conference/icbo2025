@@ -192,19 +192,6 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>We propose the 14th Vaccine and Drug Ontology Studies (VDOS) workshop at the 16th International Conference on Biomedical Ontology (ICBO 2025). This year, we extend our focus to encompass artificial intelligence's transformative role in drug and vaccine ontology research. The workshop aims to explore innovative solutions and challenges in representing and analyzing drugs and vaccines, covering administration, immune responses, adverse events, and more. Key topics include the ontological representation of drugs and vaccines, real-world application challenges, drug components, administration, immune responses, drug interactions, and adverse events in clinical and research settings. A special emphasis will be placed on how AI can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation. Despite progress, challenges remain in fully representing and utilizing ontologies for research and clinical issues, such as detailed representation of administration and adverse events, drug interactions, and analysis of immune responses. The workshop will bring together experts from clinical, research, and pharma-biotech sectors to discuss solutions to these challenges, aiming to foster advancements in drug development, administration, and the integration of AI in ontological research. Our goal is to contribute to public health improvement by enhancing the understanding and application of drug and vaccine ontologies.</li></span></ul>
   </ul>
-<li><u><b>The 9th International CELLS Workshop: Cells in Experimental Life Sciences</b></u></li>
-  <ul>
-    <li>Organizers</li>
-      <ul>
-        <li>Alexander Diehl (University at Buffalo) </li>
-        <li>Yongqun He (University of Michigan)</li>
-        <li>David Osumi-Sutherland (Wellcome Trust Sanger Institute)</li>
-      </ul>
-    <li>Abstract</li>
-      <ul><span style="font-size: smaller;"><li><p>Large projects such as the Human Cell Atlas, the Human BioMolecular Atlas Program, the Single Cell Atlas, and the Allen Brain Map are generating and analyzing huge volumes of cell type-specific gene and protein expression data, and mapping their results to known cell types, often using the Cell Ontology. High throughput methods such as single cell RNA sequencing, special transcriptomics, and flow and mass cytometry produce large amounts of data regarding the role of cell types in health and disease. In many cases, the data point to the need for better ontological representation of existing and new cell types. At the same time, experimental approaches such as microscopy, genomics, and metabolomics are expanding our understanding of cellular functioning in relation to neighboring cells and the whole organism.</p>
-
-<p>Ontologies are increasingly used for integrating and analyzing these diverse data types. The Cell Ontology and Cell Line Ontology have long served as reference ontologies for cell type information, and additional ontologies such as the Gene Ontology, Protein Ontology, and the Ontology for Biomedical Investigation are important for representing experimental data about cell types, the methods used to produce that data, and for performing data analyses on cell type data. There is a continuing need for improved automated analysis techniques to link data about cells with appropriate ontologies.</p></li></span></ul>
-  </ul>
 
 ### Contact Information 
 
