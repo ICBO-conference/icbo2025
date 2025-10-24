@@ -41,7 +41,7 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
           <ul><li><b>acceptance</b>: September 15th (9/15/2025)</li></ul>
         <li><b>East Satellite submission deadline</b>: August 24th (8/24/2025)
           <ul><li><b>acceptance</b>: September 17th (9/17/2025)</li></ul>
-        <li><b>Short Talks submission deadline</b>: October 24th (10/24/2025)
+        <li><b>Short Talks submission deadline</b>: <span style="color: red; text-decoration: line-through;">October 24th (10/24/2025)</span>October 26th (10/26/2025)
           <ul><li><b>acceptance</b>: October 31st (10/31/2025)</li></ul>
     </ul>
   </ul>
