@@ -24,7 +24,7 @@
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
 
 <h4>Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST)</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     <u>10:00am-13:00pm JST <b>ICBO-EAST Online General Session</b></u>
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
     <br>10:05am-10:45am JST <b>Keynote, Dr. Achille Zappa and Dr. Yukie Akune-Taylor</b> Glycoscience data and ontologies for understanding the expanded central dogma
@@ -35,7 +35,7 @@
     <br>12:55pm-13:00pm JST <b>Break</b>
   </pre>
 
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     <br>13:00pm-13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
     <li>12:00pm-12:40pm Beijing Time, 11:00am-11:40am BKK Time</li>
     <br>13:40pm-14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
@@ -47,31 +47,31 @@
      <br><b>Website:</b> <a href="https://www.sigswo.org/papers/67cfp">https://www.sigswo.org/papers/67cfp</a>
    </pre>
 
-   <pre style="background-color: lightgrey; ">
+   <pre style="background-color: lightblue; ">
     <u>13:00pm-16:30pm Beijing Time <b>China on-site session at Harbin Medical University, Harbin, China</b></u>
      <br><b>Local Host/Co-Organizer:</b> Dr. Liang Cheng, Harbin Medical University
      <br><b>Other Co-Organizers:</b> Xiaoling Yang (Chinese Academy of Medical Sciences) and Oliver He (University of Michigan)
      <br><b>Website:</b> <a href="https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html ">https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html </a>
    </pre>
 
-   <pre style="background-color: lightgrey; ">
+   <pre style="background-color: lightblue; ">
     <u>13:00pm-15:30pm BKK Time <b>Thailand online session - OntoThailand 2025</b></u>
      <br><b>Local Host:</b> Dr. Anuwat Pengput, Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand
      <br><b>Website:</b> <a href="https://icbo-conference.github.io/icbo2025/east/">https://icbo-conference.github.io/icbo2025/east/</a>
    </pre>
             
 <h4>Wednesday, November 5, 2025</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     11:00am ET (08:00am PT) <b>Annotating Data with Ontologies: LinkML Can Help</b>
   </pre>
 
 <h4>Friday, November 7, 2025</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     tbd <b>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</b>
   </pre>
 
 <h4>Sunday, November 9, 2025</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
      <br>11am-11:45am ET <b>Keynote or Invited Speaker</b>
      <br>11:45am-11:50am ET <b>Break</b>
@@ -83,10 +83,10 @@
   </pre>
 
 <h4>Monday, November 10, 2025</h4>
-  <pre style="background-color: lightgrey; "> 
+  <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
   </pre>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b></u>
      <br>11am-11:45am ET <b>Keynote or Invited Speaker</b>
      <br>11:45am-11:50am ET <b>Break</b>
@@ -98,7 +98,7 @@
   </pre>
 
 <h4>Tuesday, November 11, 2025</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 3</b></u>
      <br>11am-11:45am ET <b>Keynote or Invited Speaker</b>
      <br>11:45am-11:50am ET <b>Break</b>
@@ -110,12 +110,12 @@
   </pre>
 
 <h4>Friday, November 14, 2025</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
   </pre>
 
 <h4>Tuesday, November 18, 2025</h4>
-  <pre style="background-color: lightgrey; ">
+  <pre style="background-color: lightblue; ">
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
             
