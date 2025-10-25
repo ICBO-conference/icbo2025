@@ -35,9 +35,10 @@
     <br>12:55pm-13:00pm JST <b>Break</b>
   </pre>
 
- <pre style="background-color: lightblue; white-space: pre-wrap; margin: 0;">
+ <pre style="background-color: lightblue; white-space: pre-wrap; line-height: 1.5; margin: 0; padding: 8px;">
 13:00pm–13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
     • (12:00pm–12:40pm Beijing Time, 11:00am–11:40am BKK Time)
+
 13:40pm–14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
 </pre>
 
