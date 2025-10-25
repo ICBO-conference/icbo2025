@@ -79,21 +79,8 @@ Please register via the main <a href="https://icbo-conference.github.io/icbo2025
   <li>Bio: Dr. Bairong Shen is the Director  and Professor of the Institute of System Genetics at West China Hospital of Sichuan University. Currently, he also serves as a visiting professor at the Institute for Systems Biology in Seattle and the University of the Basque Country in Spain. He is the head of the virtual teaching and research laboratory for the "Medical Data Collection and Analysis based on Science, Technology, and Information" course under the "101 Plan" of the Ministry of Education. Since returning to China in 2008, he has led more than 10 national projects and supervised over 100 graduate students. He has published over 300 papers in international interdisciplinary journals and edited more than 10 English and Chinese books in the field of translational informatics. His research interests include the theory of biomarker discovery, biomedical data sharing and security, and intelligent chronic disease management.</li>
 </ul>
 
-### Tentative Program
-<ul>
-  <li>10:00 AM - 12:00 PM JST (9:00 AM - 11:00 AM Beijing Time): ICBO-EAST (in English, focused on life sciences)</li>
-  <li>13:00 PM - 14:00 PM JST (12:00 PM - 13:00 PM Beijing Time): Keynote lecture</li>
-  <ul>
-    <li>Either one 60-minute talk or two 30-minute talks.</li>
-  </ul>
-  <li>14:00 PM - 17:30 PM JST (13:00 PM - 16:30 PM Being Time): Multi-language parallel sessions</li>
-  <ul>
-    <li>ICBO-EAST in China (in Chinese, OntoChina session)</li>
-    <li>SIG SWO in Japan (in Japanese, covering various applied topics)</li>
-    <li>ICBO-EAST in Thailand (in Thai, local session)</li>
-    <li>Each session will feature around eight 20-minute presentations</li>
-  </ul>
-</ul>
+### Program
+See program <a href="https://icbo-conference.github.io/icbo2025/program/">HERE</a>
 
 ### Organizers
 <li><b>ICBO-EAST Organizers</b></li>
@@ -101,7 +88,7 @@ Please register via the main <a href="https://icbo-conference.github.io/icbo2025
   <li>Hiroshi Masuya (RIKEN BioResource Research Center, Ibaraki, Japan</li>
   <li>Yuki Yamagata (RIKEN BioResource Research Center, Ibaraki, Japan</li>
   <li>Xiaolin Yang (Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China)</li>
-  <li>Jiang an "Hardy" Xie (Chongqing University, Chongqing, China)</li>
+  <li>Liang Cheng (Harbin Medical University, Harbin, China)
   <li>Anuwat Pengput (Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand)</li>
   <li>Yongqun "Oliver" He (University of Michigan, Michigan, US)</li>
   <li>Asiyah Yu Lin (OntoData Research and Solutions, LLC., Maryland, US)</li>
