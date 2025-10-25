@@ -15,18 +15,49 @@
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
         <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
-        <li><b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>: November 1st (11/1/2025)</li>
-            <ul><li><span style="color: red; text-decoration: line-through;">13:00</span>10:00 - 17:30 JST</li></ul>
+        <li><b>ICBO-EAST Satelite</b>: November 1st (11/1/2025)</li>
+            <ul><li>online general session: 10:00 - 13:00 JST</li></ul>
     </ul>
 </ul>
 
 ### Schedule
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
 
-<h4>Saturday, November 1, 2025 (JST* Friday Oct. 30, 2025 in EST)</h4>
+<h4>Saturday, November 1, 2025 JST (Oct. 30, 2025 in EST)</h4>
   <pre style="background-color: lightgrey; ">
-    10:00 - 17:30 JST <b>ICBO-EAST (Joint with Semantic Web Ontology Study Group (SWO))</b>
+    <u>10:00am-13:00pm JST <b>ICBO-EAST Online General Session</b></u>
+    <br>10:00am-10:05am JST <b>Opening Remarks</b>
+    <br>10:05am-10:45am JST <b>Keynote, Dr. Achille Zappa and Dr. Yukie Akune-Taylor</b> Glycoscience data and ontologies for understanding the expanded central dogma
+    <br>10:45am-11:10am JST <b>Dr. Fariz Darai</b> Ontology-Driven Prompt Engineering for Text-to-SPARQL: A Case Study on Tuberculosis in Wikidata
+    <br>11:10am-11:50am JST <b>Invited Speaker, Dr. Bairong Shen</b> Disease-Specific Ontology-Driven Intelligent Medicine
+    <br>11:50am-12:15pm JST <b>Dr. Tatsuya Kushida</b> Ontology-driven Exploration of RIKEN Bioresources via ChEBI Roles and Gene Ontology
+    <br>12:15pm-12:55pm JST <b>Keynote, Dr. Jian Du</b> Utilizing Large Language Models to Build Causal Diagrams for Observational Health Research
+    <br>12:55pm-13:00pm JST <b>Break</b>
   </pre>
+
+  <pre style="background-color: lightgrey; ">
+    <br>13:00pm-13:40pm JST (12:00pm-12:40pm Beijing Time, 11:00am-11:40am BKK Time) <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
+    <br>13:40pm-14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
+  </pre>
+
+   <pre style="background-color: lightgrey; ">
+    <u>14:00pm-17:30pm JST <b>Japan on-site session at ISWC venue (Nara Prefectural Convention Center) as a SIG-SWO meeting</b></u>
+     <br>Local Hosts: Takanori Ugai (Fujitsu, Japan), Eiichi Sunagawa (Toshiba, Japan), Shusaku Egami (National Institute of Advanced Industrial Science and Technology, Japan), Tetsuya Mihara (Tsukuba University, Japan), Atsuko Yamaguchi (Tokyo City University, Japan)
+     <br>Website: <a href="https://www.sigswo.org/papers/67cfp">https://www.sigswo.org/papers/67cfp</a>
+   </pre>
+
+   <pre style="background-color: lightgrey; ">
+    <u>13:00pm-16:30pm Beijing Time<b>China on-site session at Harbin Medical University, Harbin, China</b></u>
+     <br>Local Host/Co-Organizer: Dr. Liang Cheng, Harbin Medical University
+     <br>Other Co-Organizers: Xiaoling Yang (Chinese Academy of Medical Sciences) and Oliver He (University of Michigan)
+     <br>Website: <a href="https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html ">https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html </a>
+   </pre>
+
+   <pre style="background-color: lightgrey; ">
+    <u>13:00pm-15:30pm BKK Time<b>Thailand online session - OntoThailand 2025</b></u>
+     <br>Local Host: Dr. Anuwat Pengput, Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand
+     <br>Website: <a href="https://icbo-conference.github.io/icbo2025/east/">https://icbo-conference.github.io/icbo2025/east/</a>
+   </pre>
             
 <h4>Wednesday, November 5, 2025</h4>
   <pre style="background-color: lightgrey; ">
