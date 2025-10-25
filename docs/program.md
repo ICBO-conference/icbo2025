@@ -35,13 +35,11 @@
     <br>12:55pm-13:00pm JST <b>Break</b>
   </pre>
 
-  <pre style="background-color: lightblue; ">
-    <br>13:00pm-13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
-    <ul>
-    <li>(12:00pm-12:40pm Beijing Time, 11:00am-11:40am BKK Time)</li>
-    </ul>
-    <br>13:40pm-14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
-  </pre>
+ <pre style="background-color: lightblue; white-space: pre-wrap; margin: 0;">
+13:00pm–13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
+    • (12:00pm–12:40pm Beijing Time, 11:00am–11:40am BKK Time)
+13:40pm–14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
+</pre>
 
    <pre style="background-color: lightblue; ">
     <u>14:00pm-17:30pm JST <b>Japan on-site session at ISWC venue (Nara Prefectural Convention Center) as a SIG-SWO meeting</b></u>
