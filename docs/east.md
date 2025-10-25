@@ -29,10 +29,10 @@ ICBO-EAST aims to foster deeper collaboration across global and local biomedical
 <li>Meeting date: Saturday, November 1, 2025</li>
 <li>Time:</li> 
 <ul>
-  <li>10:00 - 13:00 JST, online general session (9:00 - 12:00 Beijing Time, 08:00 - 11:00 Bangkok Time)</li>
-  <li>Japan parallel session on-site at ISWC venue, SIG-SWO (14:00-17:30 JST</li>
-  <li>China parallel session on-site at Harbin Medical University (13:00-16:30 Beijing Time)</li>
-  <li>Thailand online session, OntoThailand (13:00-15:30 BKK Time)</li>
+  <li><b>Online General Session</b> (10:00 - 13:00 JST, 9:00 - 12:00 Beijing Time, 08:00 - 11:00 Bangkok Time)</li>
+  <li><b>Japan parallel session</b> on-site at ISWC venue, SIG-SWO (14:00-17:30 JST</li>
+  <li><b>China parallel session</b> on-site at Harbin Medical University (13:00-16:30 Beijing Time)</li>
+  <li><b>Thailand parallel session</b>, online, OntoThailand (13:00-15:30 BKK Time)</li>
 </ul>
 <li>Paper submission deadline (ICBO-EAST track): <span style="color: red; text-decoration: line-through;"> August 24, 2025</span> September 7, 2025 </li>
 <li>Notification of acceptance: October 15, 2025</li>
