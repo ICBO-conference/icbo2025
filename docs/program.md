@@ -57,13 +57,13 @@
 
    <pre style="background-color: lightblue; ">
     <u>13:00pm-15:30pm BKK Time <b>Thailand online session - OntoThailand 2025</b></u>
-     <br><b>Local Host:</b> Dr. Anuwat Pengput, Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand
       <br>13:00pm-13:05pm BKK Time <b>Opening Remarks</b>
       <br>13:05pm-14:00pm BKK Time <b>Keynote Speaker, Dr. Alexander D. Diehl</b> Introduction to Biomedical Ontology (in English)
       <br>14:00pm-14:30pm BKK Time <b>Keynote Speaker, Dr. Supharerk Thawillarp</b> Introduction to Interoperability and Terminology (in Thai)
       <br>14:30pm-14:40pm BKK Time <b>Break</b>
-      <br>14:40am-15:10am BKK Time <b>Invited Speaker, TBD</b> TBD (in Thai)
+      <br>14:40am-15:10am BKK Time <b>Invited Speaker, Wiphawee Laochaturapit, MPH</b> Burden of disease analysis for informing public health policy using data standard (in Thai)
       <br>15:10am-15:30pm BKK Time <b>Discussion and Closing Remarks</b>
+     <br><b>Local Host/Co-Organizer:</b> Dr. Anuwat Pengput, (Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand) and Dr. Chuthamat Sucharit, (Phayakkhaphum Phisai Hospital, Maha Sarakham, Thailand)
      <br><b>Website:</b> <a href="https://icbo-conference.github.io/icbo2025/east/">https://icbo-conference.github.io/icbo2025/east/</a>
    </pre>
             
