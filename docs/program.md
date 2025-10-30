@@ -80,13 +80,21 @@
 <h4>Sunday, November 9, 2025</h4>
   <pre style="background-color: lightblue; ">
     <u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
-     <br>12pm-12:15pm openning 
-         12:15pm - 1pm ET <b>Mark</b>
-     <br>1 pm-1:10 pm ET <b>Break</b>
-     <br>1:10pm-1:40pm ET <b>Presentation 1</b>
-     <br>1:40pm-2:10pm ET <b>Presentation 2</b>
-     <br>2:10pm-2:20pm ET <b>Break</b>
-     <br>2:20pm-4:00pm ET <b>Short Talks 6 </b>
+     <br>12:00pm-12:15pm <b>Opening</b> 
+     <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
+     <br>1:00pm-1:10pm ET <b>Break</b>
+     <br>1:10pm-1:50pm ET <b>Presentation 1</b>
+     <br>1:50pm-2:30pm ET <b>Presentation 2</b>
+     <br>2:30pm-2:40pm ET <b>Break</b>
+     <br>2:40pm-4:00pm ET <b>Short Talks</b>
+        <ul>
+          <li>OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
+          <li>Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
+          <li>Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
+          <li>The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)</li>
+          <li>Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
+          <li>PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
+        </ul>
   </pre>
 
 <h4>Monday, November 10, 2025</h4>
@@ -95,26 +103,40 @@
   </pre>
   <pre style="background-color: lightblue; ">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b></u>
-     <br>11am-11:05am openning
-         11:05-11:30am ET <b>Keynote or Invited Speaker</b>
+     <br>11:00am-11:05am ET <b>Opening</b>
+     <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
      <br>11:30am-11:40am ET <b>Break</b>
      <br>11:40am-12:20pm ET <b>Presentation 3</b>
      <br>12:20pm-12:30pm ET <b>Break</b>
-     <br>12:30pm-1pm ET <b>Presentation 4</b>
-     <br>1pm-1:10pm ET <b>Break</b>
-     <br>1:10pm-3:00pm ET <b>Short Talks 7</b>
+     <br>12:30pm-1:10pm ET <b>Presentation 4</b>
+     <br>1:10pm-1:20pm ET <b>Break</b>
+     <br>1:20pm-3:00pm ET <b>Short Talks</b>
+        <ul>
+          <li>Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: <b>Caroline Eastwood</b>)</li>
+          <li>Ontological modeling of the SEA-CDM and its applications for the vaccine domain (Primary Author: <b>Anthony Huffman</b>)</li>
+          <li>Immunology Ontology: Filling the Gap (Primary Author: <b>Anna Maria Masci</b>)</li>
+          <li>Improvement of vaccine representation in OHDSI Standardized Vocabularies using Vaccine Ontology (Primary Author: <b>Jie Zheng</b>)</li>
+          <li>Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: <b>Corey Cox</b>)</li>
+          <li>An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
+        </ul>
   </pre>
 
 <h4>Tuesday, November 11, 2025</h4>
   <pre style="background-color: lightblue; ">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 3</b></u>
-     <br>11am-11:45am ET <b>Michel Dumontier</b>
-     <br>11:45am-11:50am ET <b>Break</b>
-     <br>11:50am-12:30pm ET <b>Presentation 5</b>
-     <br>12:30pm-1:30pm ET <b>Lunch Break</b>
-     <br>1:30pm-2:10pm ET <b>Presentation 6</b>
-     <br>2:10pm-2:15pm ET <b>Break</b>
-     <br>2:15pm-3:00pm ET <b>Short Talks</b>
+     <br>11:00am-11:05am ET <b>Opening</b>
+     <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
+     <br>11:50am-12:00pm ET <b>Break</b>
+     <br>12:00pm-12:40pm ET <b>Presentation 5</b>
+     <br>12:40pm-1:20pm ET <b>Presentation 6</b>
+     <br>1:20pm-1:30pm ET <b>Break</b>
+     <br>1:30pm-3:00pm ET <b>Short Talks (6)</b>
+        <ul>
+          <li>Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: <b>Ian Braun</b>)</li>
+          <li>Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
+          <li>Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
+          <li>METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
+        </ul>
   </pre>
 
 <h4>Friday, November 14, 2025</h4>
