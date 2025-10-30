@@ -78,7 +78,7 @@
   </pre>
 
 <h4>Sunday, November 9, 2025</h4>
-  <pre style="background-color: lightblue; ">
+  <div style="background-color: lightblue; padding: 10px; white-space: normal; line-height: 1.2;">
     <u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
@@ -95,7 +95,7 @@
           <li style="margin: 0;">Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
           <li style="margin: 0;">PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
         </ul>
-  </pre>
+  </div>
 
 <h4>Monday, November 10, 2025</h4>
   <pre style="background-color: lightblue; "> 
