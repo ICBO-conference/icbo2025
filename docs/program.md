@@ -78,7 +78,7 @@
   </pre>
 
 <h4>Sunday, November 9, 2025</h4>
-  <div style="background-color: lightblue; padding: 10px; white-space: normal; line-height: 1.2;">
+  <pre style="background-color: lightblue; "> 
     <u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
@@ -87,7 +87,7 @@
      <br>1:50pm-2:30pm ET <b>Presentation 2</b>
      <br>2:30pm-2:40pm ET <b>Break</b>
      <br>2:40pm-4:00pm ET <b>Short Talks</b>
-        <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px; list-style-type: disc; line-height: 1.1;">
           <li style="margin: 0;">OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
           <li style="margin: 0;">Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
           <li style="margin: 0;">Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
@@ -95,7 +95,7 @@
           <li style="margin: 0;">Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
           <li style="margin: 0;">PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
         </ul>
-  </div>
+  </pre>
 
 <h4>Monday, November 10, 2025</h4>
   <pre style="background-color: lightblue; "> 
