@@ -78,7 +78,8 @@
   </pre>
 
 <h4>Sunday, November 9, 2025</h4>
-  <pre style="background-color: lightblue; white-space: pre-wrap;">
+  <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
     <u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
@@ -87,45 +88,24 @@
      <br>1:50pm-2:30pm ET <b>Presentation 2</b>
      <br>2:30pm-2:40pm ET <b>Break</b>
      <br>2:40pm-4:00pm ET <b>Short Talks</b>
-      <ul style="margin:0; padding-left:20px; list-style:disc; line-height:1;">
-          <li style="margin: 0; padding:0;">OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
-          <li style="margin: 0; padding:0;">Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
-          <li style="margin: 0; padding:0;">Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
-          <li style="margin: 0; padding:0;">The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)</li>
-          <li style="margin: 0; padding:0;">Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
-          <li style="margin: 0; padding:0;">PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
+  </pre>
+      <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
+          <li>OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
+          <li>Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
+          <li>Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
+          <li>The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)</li>
+          <li>Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
+          <li>PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
         </ul>
   </pre>
-
-<h4>Sunday, November 9, 2025</h4>
-
-<div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
-  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-<u>12:00pm–04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
-<br>12:00pm–12:15pm <b>Opening</b>
-<br>12:15pm–1:00pm ET <b>Speaker: Mark Musen</b>
-<br>1:00pm–1:10pm ET <b>Break</b>
-<br>1:10pm–1:50pm ET <b>Presentation 1</b>
-<br>1:50pm–2:30pm ET <b>Presentation 2</b>
-<br>2:30pm–2:40pm ET <b>Break</b>
-<br>2:40pm–4:00pm ET <b>Short Talks</b>
-  </pre>
-
-  <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-    <li>OntoChimp: A ChatGPT-based document analysis program … (Primary Author: <b>Samuel Smith</b>)</li>
-    <li>Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
-    <li>Logic-based Yin-Yang Ontology … (Primary Author: <b>Yongqun He</b>)</li>
-    <li>The OntoChoice Community … (Primary Author: <b>John Graybeal</b>)</li>
-    <li>Ontology-based Updated Profiling … (Primary Author: <b>Yongqun He</b>)</li>
-    <li>PICO/PECO-Guided … (Primary Author: <b>Junguk Hur</b>)</li>
-  </ul>
-</div>
+  </div>
 
 <h4>Monday, November 10, 2025</h4>
   <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
   </pre>
-  <pre style="background-color: lightblue; ">
+  <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b></u>
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
@@ -135,7 +115,8 @@
      <br>12:30pm-1:10pm ET <b>Presentation 4</b>
      <br>1:10pm-1:20pm ET <b>Break</b>
      <br>1:20pm-3:00pm ET <b>Short Talks</b>
-        <ul>
+  </pre>
+        <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
           <li>Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: <b>Caroline Eastwood</b>)</li>
           <li>Ontological modeling of the SEA-CDM and its applications for the vaccine domain (Primary Author: <b>Anthony Huffman</b>)</li>
           <li>Immunology Ontology: Filling the Gap (Primary Author: <b>Anna Maria Masci</b>)</li>
@@ -144,9 +125,11 @@
           <li>An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
         </ul>
   </pre>
+  </div>
 
 <h4>Tuesday, November 11, 2025</h4>
-  <pre style="background-color: lightblue; ">
+  <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 3</b></u>
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
@@ -155,13 +138,15 @@
      <br>12:40pm-1:20pm ET <b>Presentation 6</b>
      <br>1:20pm-1:30pm ET <b>Break</b>
      <br>1:30pm-3:00pm ET <b>Short Talks (6)</b>
-        <ul>
+  </pre>
+        <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
           <li>Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: <b>Ian Braun</b>)</li>
           <li>Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
           <li>Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
           <li>METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
         </ul>
   </pre>
+  </div>
 
 <h4>Friday, November 14, 2025</h4>
   <pre style="background-color: lightblue; ">
