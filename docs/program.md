@@ -97,6 +97,33 @@
         </ul>
   </pre>
 
+  <h4>Sunday, November 9, 2025</h4>
+
+<div style="background: lightblue; padding: 10px; display: inline-block;">
+  <!-- pre for the schedule text (no list inside) -->
+  <pre style="display: inline-block; margin: 0; white-space: pre-wrap; vertical-align: top;">
+<u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
+<br>12:00pm-12:15pm <b>Opening</b>
+<br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
+<br>1:00pm-1:10pm ET <b>Break</b>
+<br>1:10pm-1:50pm ET <b>Presentation 1</b>
+<br>1:50pm-2:30pm ET <b>Presentation 2</b>
+<br>2:30pm-2:40pm ET <b>Break</b>
+<br>2:40pm-4:00pm ET <b>Short Talks</b>
+  </pre>
+
+  <!-- ul outside pre, tightly styled -->
+  <ul style="display: inline-block; vertical-align: top; margin: 0 0 0 12px; padding-left: 18px; line-height: 1; list-style-position: inside;">
+    <li style="margin: 0; padding: 0;">OntoChimp: ... (Primary Author: <b>Samuel Smith</b>)</li>
+    <li style="margin: 0; padding: 0;">Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
+    <li style="margin: 0; padding: 0;">Logic-based Yin-Yang Ontology ... (Primary Author: <b>Yongqun He</b>)</li>
+    <li style="margin: 0; padding: 0;">The OntoChoice Community ... (Primary Author: <b>John Graybeal</b>)</li>
+    <li style="margin: 0; padding: 0;">Ontology-based Updated Profiling ... (Primary Author: <b>Yongqun He</b>)</li>
+    <li style="margin: 0; padding: 0;">PICO/PECO-Guided ... (Primary Author: <b>Junguk Hur</b>)</li>
+  </ul>
+</div>
+
+
 <h4>Monday, November 10, 2025</h4>
   <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
