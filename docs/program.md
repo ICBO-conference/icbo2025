@@ -99,8 +99,8 @@
 
 <h4>Sunday, November 9, 2025</h4>
 
-<div style="background: lightblue; padding: 10px; width: 100%;">
-  <pre style="background: transparent; display: block; margin: 0; white-space: pre-wrap;">
+<div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
 <u>12:00pm–04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
 <br>12:00pm–12:15pm <b>Opening</b>
 <br>12:15pm–1:00pm ET <b>Speaker: Mark Musen</b>
