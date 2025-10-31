@@ -97,10 +97,9 @@
         </ul>
   </pre>
 
-  <h4>Sunday, November 9, 2025</h4>
+<h4>Sunday, November 9, 2025</h4>
 
-<div style="background: lightblue; padding: 10px; display: inline-block;">
-  <!-- pre for the schedule text (no list inside) -->
+<div style="background: lightblue; padding: 10px; width: 100%;">
   <pre style="display: inline-block; margin: 0; white-space: pre-wrap; vertical-align: top;">
 <u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
 <br>12:00pm-12:15pm <b>Opening</b>
@@ -112,16 +111,16 @@
 <br>2:40pm-4:00pm ET <b>Short Talks</b>
   </pre>
 
-  <!-- ul outside pre, tightly styled -->
-  <ul style="display: inline-block; vertical-align: top; margin: 0 0 0 12px; padding-left: 18px; line-height: 1; list-style-position: inside;">
-    <li style="margin: 0; padding: 0;">OntoChimp: ... (Primary Author: <b>Samuel Smith</b>)</li>
-    <li style="margin: 0; padding: 0;">Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
-    <li style="margin: 0; padding: 0;">Logic-based Yin-Yang Ontology ... (Primary Author: <b>Yongqun He</b>)</li>
-    <li style="margin: 0; padding: 0;">The OntoChoice Community ... (Primary Author: <b>John Graybeal</b>)</li>
-    <li style="margin: 0; padding: 0;">Ontology-based Updated Profiling ... (Primary Author: <b>Yongqun He</b>)</li>
-    <li style="margin: 0; padding: 0;">PICO/PECO-Guided ... (Primary Author: <b>Junguk Hur</b>)</li>
+  <ul style="display: block; margin: 4px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
+    <li>OntoChimp: ... (Primary Author: <b>Samuel Smith</b>)</li>
+    <li>Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
+    <li>Logic-based Yin-Yang Ontology ... (Primary Author: <b>Yongqun He</b>)</li>
+    <li>The OntoChoice Community ... (Primary Author: <b>John Graybeal</b>)</li>
+    <li>Ontology-based Updated Profiling ... (Primary Author: <b>Yongqun He</b>)</li>
+    <li>PICO/PECO-Guided ... (Primary Author: <b>Junguk Hur</b>)</li>
   </ul>
 </div>
+
 
 
 <h4>Monday, November 10, 2025</h4>
