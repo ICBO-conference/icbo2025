@@ -84,8 +84,8 @@
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
      <br>1:00pm-1:10pm ET <b>Break</b>
-     <br>1:10pm-1:50pm ET <b>Presentation 1</b>
-     <br>1:50pm-2:30pm ET <b>Presentation 2</b>
+     <br>1:10pm-1:50pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas, damayanthijb@gmail.com)
+     <br>1:50pm-2:30pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta, niveditadgp@gmail.com)
      <br>2:30pm-2:40pm ET <b>Break</b>
      <br>2:40pm-4:00pm ET <b>Short Talks</b>
   </pre>
@@ -110,9 +110,9 @@
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
      <br>11:30am-11:40am ET <b>Break</b>
-     <br>11:40am-12:20pm ET <b>Presentation 3</b>
+     <br>11:40am-12:20pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan, wdduncan@gmail.com)
      <br>12:20pm-12:30pm ET <b>Break</b>
-     <br>12:30pm-1:10pm ET <b>Presentation 4</b>
+     <br>12:30pm-1:10pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl, addiehl@buffalo.edu)
      <br>1:10pm-1:20pm ET <b>Break</b>
      <br>1:20pm-3:00pm ET <b>Short Talks</b>
   </pre>
@@ -134,8 +134,8 @@
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
-     <br>12:00pm-12:40pm ET <b>Presentation 5</b>
-     <br>12:40pm-1:20pm ET <b>Presentation 6</b>
+     <br>12:00pm-12:40pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer, sschurer@med.miami.edu)
+     <br>12:40pm-1:20pm ET <b>History in the Basic Formal Ontology</b>
      <br>1:20pm-1:30pm ET <b>Break</b>
      <br>1:30pm-3:00pm ET <b>Short Talks (6)</b>
   </pre>
@@ -144,6 +144,7 @@
           <li>Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
           <li>Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
           <li>METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
+          <li>Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: <b>Bartnik</b>)</li>
         </ul>
   </pre>
   </div>
