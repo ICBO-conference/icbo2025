@@ -64,7 +64,7 @@
       <br>14:40am-15:10am BKK Time <b>Invited Speaker, Wiphawee Laochaturapit, MPH</b> Burden of disease analysis for informing public health policy using data standard (in Thai)
       <br>15:10am-15:30pm BKK Time <b>Discussion and Closing Remarks</b>
      <br><b>Local Host/Co-Organizer:</b> Dr. Anuwat Pengput, (Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand) and Dr. Chuthamat Sucharit, (Phayakkhaphum Phisai Hospital, Maha Sarakham, Thailand)
-     <br><b>Website:</b> <a href="https://icbo-conference.github.io/icbo2025/east/">https://icbo-conference.github.io/icbo2025/east/</a>
+     <br><b>Website:</b> <a href="https://weddingpb.my.canva.site/icbo-east-and-ontothailand-2025">https://weddingpb.my.canva.site/icbo-east-and-ontothailand-2025</a>
    </pre>
             
 <h4>Wednesday, November 5, 2025</h4>
