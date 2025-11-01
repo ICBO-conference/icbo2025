@@ -140,7 +140,7 @@
      <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
      <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer, sschurer@med.miami.edu)
-     <br>12:30pm-1:00pm ET <b>History in the Basic Formal Ontology</b>
+     <br>12:30pm-1:00pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters, ceusters@buffalo.edu)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
      <br>1:55pm-2:05pm ET <b>Break</b>
