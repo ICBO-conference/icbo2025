@@ -84,10 +84,12 @@
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
      <br>1:00pm-1:10pm ET <b>Break</b>
-     <br>1:10pm-1:50pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas, damayanthijb@gmail.com)
-     <br>1:50pm-2:30pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta, niveditadgp@gmail.com)
-     <br>2:30pm-2:40pm ET <b>Break</b>
-     <br>2:40pm-4:00pm ET <b>Short Talks</b>
+     <br>1:10pm-1:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas, damayanthijb@gmail.com)
+     <br>1:40pm-2:10pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta, niveditadgp@gmail.com)
+     <br>2:10pm-2:20pm ET <b>Break</b>
+     <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
+     <br>3:05pm-3:15pm ET <b>Break</b>
+     <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
   </pre>
       <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
           <li>OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
@@ -109,12 +111,13 @@
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b></u>
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
-     <br>11:30am-11:40am ET <b>Break</b>
-     <br>11:40am-12:20pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan, wdduncan@gmail.com)
-     <br>12:20pm-12:30pm ET <b>Break</b>
-     <br>12:30pm-1:10pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl, addiehl@buffalo.edu)
-     <br>1:10pm-1:20pm ET <b>Break</b>
-     <br>1:20pm-3:00pm ET <b>Short Talks</b>
+     <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan, wdduncan@gmail.com)
+     <br>12:00pm-12:10pm ET <b>Break</b>
+     <br>12:10pm-12:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl, addiehl@buffalo.edu)
+     <br>12:40pm-12:50pm ET <b>Break</b>
+     <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
+     <br>1:50pm-2:00pm ET <b>Break</b>
+     <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
   </pre>
         <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
           <li>Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: <b>Caroline Eastwood</b>)</li>
@@ -123,6 +126,8 @@
           <li>Improvement of vaccine representation in OHDSI Standardized Vocabularies using Vaccine Ontology (Primary Author: <b>Jie Zheng</b>)</li>
           <li>Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: <b>Corey Cox</b>)</li>
           <li>An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
+          <li>Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: <b>Prashanti Manda</b>)</li>
+          <li>Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Primary Author: <b>William Hogan</b>)</li>
         </ul>
   </pre>
   </div>
@@ -134,17 +139,20 @@
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
-     <br>12:00pm-12:40pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer, sschurer@med.miami.edu)
-     <br>12:40pm-1:20pm ET <b>History in the Basic Formal Ontology</b>
-     <br>1:20pm-1:30pm ET <b>Break</b>
-     <br>1:30pm-3:00pm ET <b>Short Talks (6)</b>
+     <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer, sschurer@med.miami.edu)
+     <br>12:30pm-1:00pm ET <b>History in the Basic Formal Ontology</b>
+     <br>1:00pm-1:10pm ET <b>Break</b>
+     <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
+     <br>1:55pm-2:05pm ET <b>Break</b>
+     <br>2:05pm-3:00pm ET <b>Short Talks Pt. 2</b>
   </pre>
         <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
           <li>Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: <b>Ian Braun</b>)</li>
           <li>Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
           <li>Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
           <li>METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
-          <li>Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: <b>Bartnik</b>)</li>
+          <li>Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: <b>Alexander Bartnik</b>)</li>
+          <li>The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: <b>Karamarie Fecho</b>)</li>
         </ul>
   </pre>
   </div>
