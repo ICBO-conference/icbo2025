@@ -84,8 +84,8 @@
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
      <br>1:00pm-1:10pm ET <b>Break</b>
-     <br>1:10pm-1:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas, damayanthijb@gmail.com)
-     <br>1:40pm-2:10pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta, niveditadgp@gmail.com)
+     <br>1:10pm-1:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas)
+     <br>1:40pm-2:10pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
      <br>2:10pm-2:20pm ET <b>Break</b>
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
      <br>3:05pm-3:15pm ET <b>Break</b>
@@ -111,9 +111,9 @@
     <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b></u>
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
-     <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan, wdduncan@gmail.com)
+     <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan)
      <br>12:00pm-12:10pm ET <b>Break</b>
-     <br>12:10pm-12:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl, addiehl@buffalo.edu)
+     <br>12:10pm-12:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl)
      <br>12:40pm-12:50pm ET <b>Break</b>
      <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
      <br>1:50pm-2:00pm ET <b>Break</b>
