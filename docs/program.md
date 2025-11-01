@@ -127,7 +127,7 @@
           <li>Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: <b>Corey Cox</b>)</li>
           <li>An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
           <li>Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: <b>Prashanti Manda</b>)</li>
-          <li>Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Primary Author: <b>William Hogan</b>)</li>
+          <li>Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: <b>Colbie J. Reed</b>)</li>
         </ul>
   </pre>
   </div>
@@ -139,8 +139,8 @@
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
-     <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer, sschurer@med.miami.edu)
-     <br>12:30pm-1:00pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters, ceusters@buffalo.edu)
+     <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer)
+     <br>12:30pm-1:00pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
      <br>1:55pm-2:05pm ET <b>Break</b>
