@@ -179,12 +179,6 @@
   <pre style="background-color: lightblue; ">
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
-            
-### Keynotes Speakers
-
-<ul>
-    tbd
-</ul>
 
 ### Workshops Details
 
