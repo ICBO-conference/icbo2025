@@ -11,7 +11,7 @@
             <li><a href = "https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?tab=t.0" traget="_blank">Annotating Data with Ontologies: LinkML Can Help</a> (11/5/2025, 11 am - 1:30 pm ET/ 8 am - 10:30 am ET )</li>
             <li>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop: (11/7/2025)</li>
             <li>Workshop for PhD Students & Early Career Researchers: (11/10/2025)</li>
-            <li><a href="https://sites.google.com/view/fws2025workshop/home-page" target="_blank">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a> (11/14/2025)</li>
+            <li><a href="https://sites.google.com/view/fws2025workshop/home-page" target="_blank">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a> (11/14/2025, 10am - 1pm ET/4pm - 7pm CET)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
         <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
