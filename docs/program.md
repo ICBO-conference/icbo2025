@@ -84,8 +84,8 @@
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
      <br>1:00pm-1:10pm ET <b>Break</b>
-     <br>1:10pm-1:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas)
-     <br>1:40pm-2:10pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
+     <br>1:10pm-1:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl)
+     <br>1:40pm-2:10pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters)
      <br>2:10pm-2:20pm ET <b>Break</b>
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
      <br>3:05pm-3:15pm ET <b>Break</b>
@@ -113,7 +113,7 @@
      <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
      <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan)
      <br>12:00pm-12:10pm ET <b>Break</b>
-     <br>12:10pm-12:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl)
+     <br>12:10pm-12:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas)
      <br>12:40pm-12:50pm ET <b>Break</b>
      <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
      <br>1:50pm-2:00pm ET <b>Break</b>
@@ -140,7 +140,7 @@
      <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
      <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer)
-     <br>12:30pm-1:00pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters)
+     <br>12:30pm-1:00pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
      <br>1:55pm-2:05pm ET <b>Break</b>
