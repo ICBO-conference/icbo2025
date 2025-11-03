@@ -88,16 +88,20 @@
      <br>1:40pm-2:10pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters)
      <br>2:10pm-2:20pm ET <b>Break</b>
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
+     </pre>
+    <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
+          <li>(2:20) OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
+          <li>(2:35) Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
+          <li>(2:50) Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
+        </ul>
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>3:05pm-3:15pm ET <b>Break</b>
      <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
   </pre>
       <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
-          <li>Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
-          <li>Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
-          <li>The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)</li>
-          <li>Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
-          <li>PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
+          <li>(3:15) The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)</li>
+          <li>(3:30) Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
+          <li>(3:45) PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
         </ul>
   </pre>
   </div>
@@ -116,22 +120,26 @@
      <br>12:10pm-12:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas)
      <br>12:40pm-12:50pm ET <b>Break</b>
      <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
+    </pre>
+    <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
+          <li>(12:50) Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: <b>Caroline Eastwood</b>)</li>
+          <li>(1:05) Ontological modeling of the SEA-CDM and its applications for the vaccine domain (Primary Author: <b>Anthony Huffman</b>)</li>
+          <li>(1:20) Immunology Ontology: Filling the Gap (Primary Author: <b>Anna Maria Masci</b>)</li>
+          <li>(1:35) Improvement of vaccine representation in OHDSI Standardized Vocabularies using Vaccine Ontology (Primary Author: <b>Jie Zheng</b>)</li>
+        </ul>
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>1:50pm-2:00pm ET <b>Break</b>
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
   </pre>
         <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: <b>Caroline Eastwood</b>)</li>
-          <li>Ontological modeling of the SEA-CDM and its applications for the vaccine domain (Primary Author: <b>Anthony Huffman</b>)</li>
-          <li>Immunology Ontology: Filling the Gap (Primary Author: <b>Anna Maria Masci</b>)</li>
-          <li>Improvement of vaccine representation in OHDSI Standardized Vocabularies using Vaccine Ontology (Primary Author: <b>Jie Zheng</b>)</li>
-          <li>Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: <b>Corey Cox</b>)</li>
-          <li>An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
-          <li>Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: <b>Prashanti Manda</b>)</li>
-          <li>Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: <b>Colbie J. Reed</b>)</li>
+          <li>(2:00) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: <b>Corey Cox</b>)</li>
+          <li>(2:15) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
+          <li>(2:30) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: <b>Prashanti Manda</b>)</li>
+          <li>(2:45) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: <b>Colbie J. Reed</b>)</li>
         </ul>
   </pre>
   </div>
-
+  
 <h4>Tuesday, November 11, 2025</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -143,19 +151,24 @@
      <br>12:30pm-1:00pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
+    </pre>
+    <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
+          <li>(1:10) Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: <b>Ian Braun</b>)</li>
+          <li>(1:25) Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
+          <li>(1:40) Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
+        </ul>
+  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>1:55pm-2:05pm ET <b>Break</b>
      <br>2:05pm-3:00pm ET <b>Short Talks Pt. 2</b>
   </pre>
         <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: <b>Ian Braun</b>)</li>
-          <li>Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
-          <li>Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
-          <li>METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
-          <li>Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: <b>Alexander Bartnik</b>)</li>
-          <li>The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: <b>Karamarie Fecho</b>)</li>
+          <li>(2:05) METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
+          <li>(2:20) Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: <b>Alexander Bartnik</b>)</li>
+          <li>(2:35) The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: <b>Karamarie Fecho</b>)</li>
         </ul>
   </pre>
   </div>
+
 
 <h4>Friday, November 14, 2025</h4>
   <pre style="background-color: lightblue; ">
