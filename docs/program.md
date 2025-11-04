@@ -113,7 +113,7 @@
   </pre>
   
 ### Completed Sessions 
-<h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST Online General Session</h4>
+<h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
   <pre style="background-color: lightblue; ">
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
     <br>10:05am-10:45am JST <b>Keynote, Dr. Achille Zappa and Dr. Yukie Akune-Taylor</b> Glycoscience data and ontologies for understanding the expanded central dogma
