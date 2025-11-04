@@ -38,9 +38,9 @@
 #### <b>Main conference Day 1</b>
 
 <h4>Sunday, November 9, 2025 - ICBO 2025 Main Conference Day 1</h4>
-  <div style="background: #F7F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-     <br>12:00pm-12:15pm <b>Opening by Asiyah Yu Lin</b> 
+     <br>12:00pm-12:15pm <b>Opening Remark by Asiyah Yu Lin</b> 
      <br>12:15pm-1:00pm ET <b>Kenote: Conspiracy theories: Are ontologies really under attack? Speaker: Mark Musen </b>
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl)
@@ -52,9 +52,9 @@
           <br>  (2:50pm) Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: Yongqun He)
      <br>3:05pm-3:15pm ET <b>Break</b>
      <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
-          <br>  (3:15pm) The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)
-          <br>  (3:30pm) Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)
-          <br>  (3:45pm) PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)
+          <br>  (3:15pm) The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: John Graybeal)
+          <br>  (3:30pm) Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: Yongqun He)
+          <br>  (3:45pm) PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: Junguk Hur)
   </pre>
   </div>
 
@@ -70,7 +70,7 @@
   <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-     <br>11:00am-11:05am ET <b>Opening</b>
+     <br>11:00am-11:05am ET <b>Opening Remark</b>
      <br>11:05-11:30am ET <b>Invited Speaker: Giovanni Nisato</b>
      <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan)
      <br>12:00pm-12:10pm ET <b>Break</b>
@@ -96,7 +96,7 @@
 <h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-     <br>11:00am-11:05am ET <b>Opening</b>
+     <br>11:00am-11:05am ET <b>Opening Remark</b>
      <br>11:05am-11:50am ET <b>Kenote: Ontologies for Semantic Interoperability in the Age of AI Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
      <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer)
@@ -107,10 +107,11 @@
           <br>  (1:25pm) Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: Jonathan Vajda)
           <br>  (1:40pm) Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: Melissa Clarkson)
      <br>1:55pm-2:05pm ET <b>Break</b>
-     <br>2:05pm-3:00pm ET <b>Short Talks Pt. 2</b>
+     <br>2:05pm-3:05pm ET <b>Short Talks Pt. 2</b>
           <br>  (2:05pm) METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: Mark Miller)
           <br>  (2:20pm) Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: Alexander Bartnik)
           <br>  (2:35pm) The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: Karamarie Fecho)
+          <br>  (2:50pm) MCBO: Mammalian Cell Bioprocessing Ontology, A Hub-and-Spoke, IOF-Anchored Application Ontology (Primary Author: Kimberly Robasky)
   </pre>
   </div>
 
