@@ -59,12 +59,14 @@
   </div>
 
 #### <b>Workshop: AI, Ontologies, and the Next Generation of Researchers</b>
+
 <h4>Monday, November 10, 2025, Workshop for PhD Students & Early Career Researchers</h4>
   <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
   </pre>
 
   #### <b>Main conference Day 2</b> 
+  
   <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -90,6 +92,7 @@
   </div>
 
   #### <b>Main conference Day 3</b>
+  
 <h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -112,6 +115,7 @@
   </div>
 
 #### <b>Food, Waste, and Sustainbitlity Workshop</b>
+
 <h4>Friday, November 14, 2025</h4>
   <pre style="background-color: lightblue; ">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
@@ -123,6 +127,7 @@
   </pre>
   
 #### <b>ICBO EAST </b>
+
 <h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
   <pre style="background-color: lightblue; ">
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
