@@ -14,7 +14,7 @@
             <li><a href="https://sites.google.com/view/fws2025workshop/home-page" target="_blank">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a> (11/14/2025, 10am - 1pm ET/4pm - 7pm CET)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
-        <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
+        <li><b>Main conference</b>: November 9th to November 11th (11/9/2025-11/11/2025)</li>
         <li><b><a href="ICBOEAST">ICBO-EAST Satelite</a></b>: November 1st (11/1/2025)</li>
             <ul><li>online general session: 10:00 - 13:00 JST</li></ul>
     </ul>
