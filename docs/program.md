@@ -77,7 +77,7 @@
     tbd <b>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</b>
   </pre>
 
-<h4>Sunday, November 9, 2025 12:00pm-04:00pm ET - ICBO 2025 Main Conference Day 1</h4>
+<h4>Sunday, November 9, 2025 - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>12:00pm-12:15pm <b>Opening by Asiyah Yu Lin</b> 
@@ -100,7 +100,7 @@
 
 <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <pre style="background-color: lightblue; "> 
-    09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
+    09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
   </pre>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -118,11 +118,10 @@
         </ul>
       <br>1:50pm-2:00pm ET <b>Break</b>
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
-          <br>  (2:00) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: Corey Cox)
-          <br>  (2:15) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: Esther Roman)
-          <br>  (2:30) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: Prashanti Manda)
-          <br>  (2:45) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: Colbie J. Reed)
-        </ul>
+          <br>  (2:00pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: Corey Cox)
+          <br>  (2:15pm) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: Esther Roman)
+          <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: Prashanti Manda)
+          <br>  (2:45pm) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: Colbie J. Reed)
   </pre>
   </div>
   
@@ -136,16 +135,14 @@
      <br>12:30pm-1:00pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
-          <br>(1:10pm) Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: Ian Braun)
-          <br>(1:25pm) Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: Jonathan Vajda)
-          <br>(1:40pm) Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: Melissa Clarkson)
-        </ul>
+          <br>  (1:10pm) Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: Ian Braun)
+          <br>  (1:25pm) Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: Jonathan Vajda)
+          <br>  (1:40pm) Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: Melissa Clarkson)
      <br>1:55pm-2:05pm ET <b>Break</b>
      <br>2:05pm-3:00pm ET <b>Short Talks Pt. 2</b>
-          <br>(2:05) METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: Mark Miller)
-          <br>(2:20) Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: Alexander Bartnik)
-          <br>(2:35) The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: Karamarie Fecho)
-        </ul>
+          <br>  (2:05pm) METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: Mark Miller)
+          <br>  (2:20pm) Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: Alexander Bartnik)
+          <br>  (2:35pm) The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: Karamarie Fecho)
   </pre>
   </div>
 
