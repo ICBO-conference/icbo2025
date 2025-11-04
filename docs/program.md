@@ -22,16 +22,20 @@
 
 ### Schedule
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
-          
+
+#### LinkML Workshop 
 <h4>Wednesday, November 5, 2025 Annotating Data with Ontologies: LinkML Can Help </h4>
   <pre style="background-color: lightblue; ">
     11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" "target=_blank">Please check details here</a>
   </pre>
-
+  
+#### VDOS workshop
 <h4>Friday, November 7, 2025</h4>
   <pre style="background-color: lightblue; ">
     tbd <b>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</b>
   </pre>
+
+#### Main conference Day 1
 
 <h4>Sunday, November 9, 2025 - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
@@ -53,7 +57,8 @@
           <br>  (3:45pm) PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)
   </pre>
   </div>
-
+  
+#### Main conference Day 2
 <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
@@ -80,7 +85,8 @@
           <br>  (2:45pm) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: Colbie J. Reed)
   </pre>
   </div>
-  
+
+  #### Main conference Day 3
 <h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -102,6 +108,7 @@
   </pre>
   </div>
 
+#### Food, Waste, and Sustainbitlity Workshop
 <h4>Friday, November 14, 2025</h4>
   <pre style="background-color: lightblue; ">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
@@ -112,7 +119,7 @@
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
   
-### Completed Sessions 
+#### ICBO EAST 
 <h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
   <pre style="background-color: lightblue; ">
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
