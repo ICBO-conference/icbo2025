@@ -80,89 +80,71 @@
 <h4>Sunday, November 9, 2025 12:00pm-04:00pm ET - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-    <u>12:00pm-04:00pm ET <b></b></u>
-     <br>12:00pm-12:15pm <b>Opening</b> 
-     <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
+     <br>12:00pm-12:15pm <b>Opening by Asiyah Yu Lin</b> 
+     <br>12:15pm-1:00pm ET <b>Kenote: Conspiracy theories: Are ontologies really under attack? Speaker: Mark Musen </b>
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:40pm ET <b>Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</b> (Primary Author: Anuwat Penpgut; Corresponding Author: Alexander D. Diehl)
      <br>1:40pm-2:10pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters)
      <br>2:10pm-2:20pm ET <b>Break</b>
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
-          <br>(2:20) OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)
-          <br>(2:35) Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)
-          <br>(2:50) Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)
-               </pre>
-  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
+          <br>  (2:20pm) OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: Samuel Smith)
+          <br>  (2:35pm) Active Animals Ontology (Primary Author: Ditch Townsend)
+          <br>  (2:50pm) Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: Yongqun He)
      <br>3:05pm-3:15pm ET <b>Break</b>
      <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
-  </pre>
-      <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>(3:15) The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)</li>
-          <li>(3:30) Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)</li>
-          <li>(3:45) PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)</li>
-        </ul>
+          <br>  (3:15pm) The OntoChoice Community: Answering "How can I choose terms and ontologies?" (Primary Author: <b>John Graybeal</b>)
+          <br>  (3:30pm) Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports (Primary Author: <b>Yongqun He</b>)
+          <br>  (3:45pm) PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature (Primary Author: <b>Junguk Hur</b>)
   </pre>
   </div>
 
-<h4>Monday, November 10, 2025</h4>
+<h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers</b>
   </pre>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-    <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 2</b></u>
      <br>11:00am-11:05am ET <b>Opening</b>
-     <br>11:05-11:30am ET <b>Speaker: Giovanni Nisato</b>
+     <br>11:05-11:30am ET <b>Invited Speaker: Giovanni Nisato</b>
      <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan)
      <br>12:00pm-12:10pm ET <b>Break</b>
      <br>12:10pm-12:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas)
      <br>12:40pm-12:50pm ET <b>Break</b>
      <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
-    </pre>
-    <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>(12:50) Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: <b>Caroline Eastwood</b>)</li>
-          <li>(1:05) Ontological modeling of the SEA-CDM and its applications for the vaccine domain (Primary Author: <b>Anthony Huffman</b>)</li>
-          <li>(1:20) Immunology Ontology: Filling the Gap (Primary Author: <b>Anna Maria Masci</b>)</li>
-          <li>(1:35) Improvement of vaccine representation in OHDSI Standardized Vocabularies using Vaccine Ontology (Primary Author: <b>Jie Zheng</b>)</li>
+          <br>  (12:50pm) Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: Caroline Eastwood)
+          <br>  (1:05pm) Ontological modeling of the SEA-CDM and its applications for the vaccine domain (Primary Author: Anthony Huffman)
+          <br>  (1:20pm) Immunology Ontology: Filling the Gap (Primary Author: Anna Maria Masci)
+          <br>  (1:35pm) Improvement of vaccine representation in OHDSI Standardized Vocabularies using Vaccine Ontology (Primary Author: Jie Zheng)
         </ul>
-  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-     <br>1:50pm-2:00pm ET <b>Break</b>
+      <br>1:50pm-2:00pm ET <b>Break</b>
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
-  </pre>
-        <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>(2:00) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: <b>Corey Cox</b>)</li>
-          <li>(2:15) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: <b>Esther Roman</b>)</li>
-          <li>(2:30) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: <b>Prashanti Manda</b>)</li>
-          <li>(2:45) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: <b>Colbie J. Reed</b>)</li>
+          <br>  (2:00) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: Corey Cox)
+          <br>  (2:15) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: Esther Roman)
+          <br>  (2:30) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: Prashanti Manda)
+          <br>  (2:45) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: Colbie J. Reed)
         </ul>
   </pre>
   </div>
   
-<h4>Tuesday, November 11, 2025</h4>
+<h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-    <u>11:00am-03:00pm ET <b>ICBO 2025 Main Conference Day 3</b></u>
      <br>11:00am-11:05am ET <b>Opening</b>
-     <br>11:05am-11:50am ET <b>Speaker: Michel Dumontier</b>
+     <br>11:05am-11:50am ET <b>Kenote: Ontologies for Semantic Interoperability in the Age of AI Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
      <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer)
      <br>12:30pm-1:00pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
-    </pre>
-    <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>(1:10) Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: <b>Ian Braun</b>)</li>
-          <li>(1:25) Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: <b>Jonathan Vajda</b>)</li>
-          <li>(1:40) Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: <b>Melissa Clarkson</b>)</li>
+          <br>(1:10pm) Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: Ian Braun)
+          <br>(1:25pm) Ontology Development Workflows with Progressive Web Apps and Client-Side Processing Browser-Based Tools (Primary Author: Jonathan Vajda)
+          <br>(1:40pm) Developing semantically-augmented graphics as visual standards for anatomical knowledge representation (Primary Author: Melissa Clarkson)
         </ul>
-  <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>1:55pm-2:05pm ET <b>Break</b>
      <br>2:05pm-3:00pm ET <b>Short Talks Pt. 2</b>
-  </pre>
-        <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>(2:05) METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: <b>Mark Miller</b>)</li>
-          <li>(2:20) Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: <b>Alexander Bartnik</b>)</li>
-          <li>(2:35) The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: <b>Karamarie Fecho</b>)</li>
+          <br>(2:05) METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits (Primary Author: Mark Miller)
+          <br>(2:20) Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies (Primary Author: Alexander Bartnik)
+          <br>(2:35) The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query (Primary Author: Karamarie Fecho)
         </ul>
   </pre>
   </div>
