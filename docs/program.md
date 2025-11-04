@@ -77,10 +77,10 @@
     tbd <b>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</b>
   </pre>
 
-<h4>Sunday, November 9, 2025</h4>
+<h4>Sunday, November 9, 2025 12:00pm-04:00pm ET - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-    <u>12:00pm-04:00pm ET <b>ICBO 2025 Main Conference Day 1</b></u>
+    <u>12:00pm-04:00pm ET <b></b></u>
      <br>12:00pm-12:15pm <b>Opening</b> 
      <br>12:15pm-1:00pm ET <b>Speaker: Mark Musen</b>
      <br>1:00pm-1:10pm ET <b>Break</b>
@@ -88,12 +88,10 @@
      <br>1:40pm-2:10pm ET <b>History in the Basic Formal Ontology</b> (Primary Author: Werner Ceusters)
      <br>2:10pm-2:20pm ET <b>Break</b>
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
-     </pre>
-    <ul style="margin: 2px 0 0 24px; padding: 0; line-height: 1; list-style-position: inside;">
-          <li>(2:20) OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)</li>
-          <li>(2:35) Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)</li>
-          <li>(2:50) Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)</li>
-        </ul>
+          <br>(2:20) OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain (Primary Author: <b>Samuel Smith</b>)
+          <br>(2:35) Active Animals Ontology (Primary Author: <b>Ditch Townsend</b>)
+          <br>(2:50) Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Primary Author: <b>Yongqun He</b>)
+               </pre>
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>3:05pm-3:15pm ET <b>Break</b>
      <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
