@@ -74,7 +74,7 @@
      <br>11:05-11:30am ET <b>Invited Speaker: Giovanni Nisato</b>
      <br>11:30am-12:00pm ET <b>Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</b> (Corresponding Author: William D. Duncan)
      <br>12:00pm-12:10pm ET <b>Break</b>
-     <br>12:10pm-12:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Corresponding Author: B. Damayanthi Jesudas)
+     <br>12:10pm-12:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Presenter: B. Damayanthi Jesudas)
      <br>12:40pm-12:50pm ET <b>Break</b>
      <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
           <br>  (12:50pm) Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension (Primary Author: Caroline Eastwood)
@@ -86,7 +86,7 @@
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
           <br>  (2:00pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: Corey Cox)
           <br>  (2:15pm) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: Esther Roman)
-          <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: Prashanti Manda)
+          <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Presenter: Prashanti Manda)
           <br>  (2:45pm) AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments (Presenter: Colbie J. Reed)
   </pre>
   </div>
@@ -99,8 +99,8 @@
      <br>11:00am-11:05am ET <b>Opening Remark</b>
      <br>11:05am-11:50am ET <b>Kenote: Ontologies for Semantic Interoperability in the Age of AI Speaker: Michel Dumontier</b>
      <br>11:50am-12:00pm ET <b>Break</b>
-     <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Corresponding Author: Stephan C. Schürer)
-     <br>12:30pm-1:00pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Corresponding Author: Nivedita Dutta)
+     <br>12:00pm-12:30pm ET <b>Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Presenter: Stephan C. Schürer)
+     <br>12:30pm-1:00pm ET <b>Representing Dental Restoration Materials in the Oral Health and Disease Ontology</b> (Presenter: Nivedita Dutta)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
           <br>  (1:10pm) Automated Annotation of Rare Disease Data Dictionaries to Support Semantic Search (Primary Author: Ian Braun)
