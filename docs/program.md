@@ -32,7 +32,7 @@
 #### <b>VDOS workshop</b>
 <h4>Friday, November 7, 2025,14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</h4>
   <pre style="background-color: #F2F2F2; border: none">
-    tbd <b><a href ="https://vdos-workshop.github.io/vdos2025/program/" target="_blank">Please check details here(zoom link included)</a></b>
+    9:00am-12:40pm ET <a href ="https://vdos-workshop.github.io/vdos2025/program/" target="_blank">Please check details here(zoom link included)</a>
   </pre>
 
 #### <b>Main conference Day 1</b>
