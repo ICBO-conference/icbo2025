@@ -15,7 +15,7 @@
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
         <li><b>Main conference</b>: November 9th to November 11th (11/9/2025-11/11/2025)</li>
-        <li><b><a href="ICBOEAST">ICBO-EAST Satelite</a></b>: November 1st (11/1/2025)</li>
+        <li><b><a href="#ICBOEAST">ICBO-EAST Satelite</a></b>: November 1st (11/1/2025)</li>
             <ul><li>online general session: 10:00 - 13:00 JST</li></ul>
     </ul>
 </ul>
