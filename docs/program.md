@@ -25,13 +25,13 @@
 
 #### <b>LinkML Workshop</b> 
 <h4>Wednesday, November 5, 2025 Annotating Data with Ontologies: LinkML Can Help </h4>
-  <pre style="background-color: #F7F2F2; ">
+  <pre style="background-color: #F2F2F2; border: none">
     11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" "target=_blank">Please check details here(zoom link inlucded)</a>
   </pre>
   
 #### <b>VDOS workshop</b>
 <h4>Friday, November 7, 2025,14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</h4>
-  <pre style="background-color: #F7F2F2; ">
+  <pre style="background-color: #F2F2F2; border: none">
     tbd <b><a href ="https://vdos-workshop.github.io/vdos2025/program/" target="_blank">Please check details here(zoom link included)</a></b>
   </pre>
 
@@ -61,14 +61,14 @@
 #### <b>Workshop: AI, Ontologies, and the Next Generation of Researchers</b>
 
 <h4>Monday, November 10, 2025, Workshop for PhD Students & Early Career Researchers</h4>
-  <pre style="background-color: #F7F2F2; "> 
+  <pre style="background-color: #F2F2F2; border: none"> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
   </pre>
 
 #### <b>Main conference Day 2</b> 
   
   <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
-  <div style="background: #F7F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05-11:30am ET <b>Invited Speaker: Giovanni Nisato</b>
@@ -94,7 +94,7 @@
 #### <b>Main conference Day 3</b>
   
 <h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
-  <div style="background: #F7F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
+  <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>11:00am-11:05am ET <b>Opening</b>
      <br>11:05am-11:50am ET <b>Kenote: Ontologies for Semantic Interoperability in the Age of AI Speaker: Michel Dumontier</b>
@@ -117,19 +117,19 @@
 #### <b>Food, Waste, and Sustainbitlity Workshop</b>
 
 <h4>Friday, November 14, 2025</h4>
-  <pre style="background-color: #F7F2F2; ">
+  <pre style="background-color: #F7F2F2; border: none">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
   </pre>
 
 <h4>Tuesday, November 18, 2025</h4>
-  <pre style="background-color: #F7F2F2; ">
+  <pre style="background-color: #F2F2F2; border: none">
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
   
 #### <b>ICBO EAST </b>
 
 <h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
-  <pre style="background-color: #F7F2F2; ">
+  <pre style="background-color: #F2F2F2; border: none">
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
     <br>10:05am-10:45am JST <b>Keynote, Dr. Achille Zappa and Dr. Yukie Akune-Taylor</b> Glycoscience data and ontologies for understanding the expanded central dogma
     <br>10:45am-11:10am JST <b>Dr. Fariz Darai</b> Ontology-Driven Prompt Engineering for Text-to-SPARQL: A Case Study on Tuberculosis in Wikidata
@@ -139,27 +139,27 @@
     <br>12:55pm-13:00pm JST <b>Break</b>
   </pre>
 
- <pre style="background-color: #F7F2F2; white-space: pre-wrap; line-height: 1.5; margin: 0; padding: 8px;">
+ <pre style="background-color: #F7F2F2; white-space: pre-wrap; line-height: 1.5; margin: 0; padding: 8px; border: none">
 13:00pm–13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
     • (12:00pm–12:40pm Beijing Time, 11:00am–11:40am BKK Time)
 
 13:40pm–14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
 </pre>
 
-   <pre style="background-color: #F7F2F2; ">
+   <pre style="background-color: #F2F2F2; border: none">
     <u>14:00pm-17:30pm JST <b>Japan on-site session at ISWC venue (Nara Prefectural Convention Center) as a SIG-SWO meeting</b></u>
      <br><b>Local Hosts:</b> Takanori Ugai (Fujitsu, Japan), Eiichi Sunagawa (Toshiba, Japan), Shusaku Egami (National Institute of Advanced Industrial Science and Technology, Japan), Tetsuya Mihara (Tsukuba University, Japan), Atsuko Yamaguchi (Tokyo City University, Japan)
      <br><b>Website:</b> <a href="https://www.sigswo.org/papers/67cfp">https://www.sigswo.org/papers/67cfp</a>
    </pre>
 
-   <pre style="background-color: #F7F2F2; ">
+   <pre style="background-color: #F2F2F2; border: none">
     <u>13:00pm-16:30pm Beijing Time <b>China on-site session at Harbin Medical University, Harbin, China</b></u>
      <br><b>Local Host/Co-Organizer:</b> Dr. Liang Cheng, Harbin Medical University
      <br><b>Other Co-Organizers:</b> Xiaoling Yang (Chinese Academy of Medical Sciences) and Oliver He (University of Michigan)
      <br><b>Website:</b> <a href="https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html ">https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html </a>
    </pre>
 
-   <pre style="background-color: #F7F2F2; ">
+   <pre style="background-color: #F2F2F2; border: none">
     <u>13:00pm-15:30pm BKK Time <b>Thailand online session - OntoThailand 2025</b></u>
       <br>13:00pm-13:05pm BKK Time <b>Opening Remarks</b>
       <br>13:05pm-14:00pm BKK Time <b>Keynote Speaker, Dr. Alexander D. Diehl</b> Introduction to Biomedical Ontology (in English)
