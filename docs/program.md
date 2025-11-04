@@ -15,7 +15,7 @@
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
           </ul>
         <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
-        <li><b>ICBO-EAST Satelite</b>: November 1st (11/1/2025)</li>
+        <li><b><a href="ICBOEAST">ICBO-EAST Satelite</a></b>: November 1st (11/1/2025)</li>
             <ul><li>online general session: 10:00 - 13:00 JST</li></ul>
     </ul>
 </ul>
@@ -113,7 +113,7 @@
   </pre>
   
 ### Completed Sessions 
-<h4>Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST Online General Session</h4>
+<h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST Online General Session</h4>
   <pre style="background-color: lightblue; ">
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
     <br>10:05am-10:45am JST <b>Keynote, Dr. Achille Zappa and Dr. Yukie Akune-Taylor</b> Glycoscience data and ontologies for understanding the expanded central dogma
