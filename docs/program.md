@@ -23,19 +23,19 @@
 ### Schedule
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
 
-#### <b>LinkML Workshop 
+#### <b>LinkML Workshop</b> 
 <h4>Wednesday, November 5, 2025 Annotating Data with Ontologies: LinkML Can Help </h4>
   <pre style="background-color: lightblue; ">
-    11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" "target=_blank">Please check details here</a>
+    11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" "target=_blank">Please check details here(zoom link inlucded)</a>
   </pre>
   
-#### <b>VDOS workshop
-<h4>Friday, November 7, 2025</h4>
+#### <b>VDOS workshop</b>
+<h4>Friday, November 7, 2025,14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</h4>
   <pre style="background-color: lightblue; ">
-    tbd <b>14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</b>
+    tbd <b><a href ="https://vdos-workshop.github.io/vdos2025/program/" target="_blank">Please check details here(zoom link included)</a></b>
   </pre>
 
-#### <b>Main conference Day 1
+#### <b>Main conference Day 1</b>
 
 <h4>Sunday, November 9, 2025 - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
@@ -58,13 +58,13 @@
   </pre>
   </div>
 
-#### <b>Workshop: AI, Ontologies, and the Next Generation of Researchers
+#### <b>Workshop: AI, Ontologies, and the Next Generation of Researchers</b>
 <h4>Monday, November 10, 2025, Workshop for PhD Students & Early Career Researchers</h4>
   <pre style="background-color: lightblue; "> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
   </pre>
 
-  #### <b>Main conference Day 2 
+  #### <b>Main conference Day 2</b> 
   <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -89,7 +89,7 @@
   </pre>
   </div>
 
-  #### <b>Main conference Day 3
+  #### <b>Main conference Day 3</b>
 <h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
   <div style="background: lightblue; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
@@ -111,7 +111,7 @@
   </pre>
   </div>
 
-#### <b>Food, Waste, and Sustainbitlity Workshop
+#### <b>Food, Waste, and Sustainbitlity Workshop</b>
 <h4>Friday, November 14, 2025</h4>
   <pre style="background-color: lightblue; ">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
@@ -122,7 +122,7 @@
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
   
-#### <b>ICBO EAST 
+#### <b>ICBO EAST </b>
 <h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
   <pre style="background-color: lightblue; ">
     <br>10:00am-10:05am JST <b>Opening Remarks</b>
