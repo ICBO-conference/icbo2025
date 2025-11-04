@@ -87,7 +87,7 @@
           <br>  (2:00pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Primary Author: Corey Cox)
           <br>  (2:15pm) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Primary Author: Esther Roman)
           <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Primary Author: Prashanti Manda)
-          <br>  (2:45pm) Preliminary referent landscape characterization of the domain of social and environmental determinants of health, as derived from common real-world data collection instruments (Presenter: Colbie J. Reed)
+          <br>  (2:45pm) AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments (Presenter: Colbie J. Reed)
   </pre>
   </div>
 
