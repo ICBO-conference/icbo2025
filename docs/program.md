@@ -118,7 +118,7 @@
 #### <b>Food, Waste, and Sustainbitlity Workshop</b>
 
 <h4>Friday, November 14, 2025</h4>
-  <pre style="background-color: #F7F2F2; border: none">
+  <pre style="background-color: #F2F2F2; border: none">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
   </pre>
 
@@ -127,7 +127,7 @@
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
   
-#### <b>ICBO EAST </b>
+#### <b>ICBO EAST (concluded) </b>
 
 <h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
   <pre style="background-color: #F2F2F2; border: none">
@@ -140,7 +140,7 @@
     <br>12:55pm-13:00pm JST <b>Break</b>
   </pre>
 
- <pre style="background-color: #F7F2F2; white-space: pre-wrap; line-height: 1.5; margin: 0; padding: 8px; border: none">
+ <pre style="background-color: #F2F2F2; white-space: pre-wrap; line-height: 1.5; margin: 0; padding: 8px; border: none">
 13:00pm–13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
     • (12:00pm–12:40pm Beijing Time, 11:00am–11:40am BKK Time)
 
