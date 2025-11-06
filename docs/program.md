@@ -23,7 +23,7 @@
 ### Schedule
 <p>Note that the following schedule is subject to change. Additionally, more detail about presentations days/times will be added as it becomes available.</p>
 
-#### <b>LinkML Workshop</b> 
+#### <b>LinkML Workshop (concluded) </b> 
 <h4>Wednesday, November 5, 2025 Annotating Data with Ontologies: LinkML Can Help </h4>
   <pre style="background-color: #F2F2F2; border: none">
     11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" "target=_blank">Please check details here(zoom link inlucded)</a>
