@@ -63,6 +63,7 @@
 <h4>Monday, November 10, 2025, Workshop for PhD Students & Early Career Researchers</h4>
   <pre style="background-color: #F2F2F2; border: none"> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
+    <br><b>Website:</b> <a href="https://icbo-2025-workshop.tilda.ws/">https://icbo-2025-workshop.tilda.ws/</a>
   </pre>
 
 #### <b>Main conference Day 2</b> 
@@ -228,7 +229,7 @@
     <li>Abstract</li>
       <ul><span style="font-size: smaller;"><li>The Core Ontology for Biology and Biomedicine (COB) is a BFO-compatible upper-level ontology used by the Open Biomedical Ontologies (OBO) Foundry. COB provides a direct parent for the top-level classes in every OBO ontology, and so OBO ontologies that use COB are interoperable. Therefore, COB adoption makes interoperability measurable within the OBO Foundry, a critical step towards the Foundry's goal of ensuring the testability of all its principles. After a robust development push following the 2024 COB Workshop at the La Jolla Institute for Immunology, the COB development team is focused on making COB adoption faster, easier, and more rewarding. The purpose of this workshop is to engage and train others to adopt COB in their own ontologies and participate in future COB development.</li></span></ul>
   </ul>
-<li><u><b>Workshop for PhD Students & Early Career Researchers</b></u></li>
+<li><u><b><a href="https://icbo-2025-workshop.tilda.ws/">AI, Ontologies, and the Next Generation of Researchers</a></b> (Workshop for PhD Students & Early Career Researchers)</u></li>
   <ul>
     <li>Organizers</li>
       <ul>
