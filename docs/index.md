@@ -75,14 +75,13 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
 <ul>
   <li><b>Main Conference</b></li>
     <ul>
-      <li><u>Keynote: <b>Mark Musen:</b> Conspiracy theories: Are ontologies really under attack?</u> (Sunday Nov 9, 12:15pm-1:00pm ET)</li>
-      <li><u>Invited Speaker: <b>Giovanni Nisato:</b> Bridging Industry and Ontology: Insights from the Pistoia Alliance</u> (Monday Nov 10, 11:05-11:30am ET)</li>
-      <li><u>Keynote: <b>Michel Dumontier:</b> Ontologies for Semantic Interoperability in the Age of AI</u> (Tuesday Nov 11, 11:05am-11:50am ET)</li>
+      <li>Keynote: <b>Mark Musen: Conspiracy theories: Are ontologies really under attack?</b> (Sunday Nov 9, 12:15pm-1:00pm ET)</li>
+      <li>Invited Speaker: <b>Giovanni Nisato: Bridging Industry and Ontology: Insights from the Pistoia Alliance</b> (Monday Nov 10, 11:05-11:30am ET)</li>
+      <li>Keynote: <b>Michel Dumontier:</b> Ontologies for Semantic Interoperability in the Age of AI</b></u> (Tuesday Nov 11, 11:05am-11:50am ET)</li>
     </ul>
   <li><b>ICBO-EAST</b></li>
     <ul>
       <li><u>Keynotes: <b>Achille Zappa and Yukie Akune-Taylor:</b> Glycoscience data and ontologies for understanding the expanded central dogma</u> (Saturday Nov 1, 10:05am-10:45am JST)</li>
-      <li><u>Keynote: <b>Fariz Darai:</b> Ontology-Driven Prompt Engineering for Text-to-SPARQL: A Case Study on Tuberculosis in Wikidata</u> (10:45am-11:10am JST)</li>
       <li><u>Invited Speaker: <b>Bairong Shen:</b> Disease-Specific Ontology-Driven Intelligent Medicine</u> (Saturday Nov 1, 11:10am-11:50am JST)</li>
       <li><u>Keynote: <b>Jian Du:</b> Utilizing Large Language Models to Build Causal Diagrams for Observational Health Research</u> (Saturday Nov 1, 12:15pm-12:55pm JST)</li>
     </ul>
