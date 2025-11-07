@@ -91,10 +91,10 @@
         </ul>
       <br>1:50pm-2:00pm ET <b>Break</b>
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
-          <br>  (2:00pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Speaker: Corey Cox; Moderator: Anna Maria)
-          <br>  (2:15pm) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Speaker: Esther Roman; Moderator: Anna Maria)
-          <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Speaker: Prashanti Manda; Moderator: Anna Maria)
-          <br>  (2:45pm) AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments (Speaker: Colbie J. Reed; Moderator: Anna Maria)
+          <br>  (2:00pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Speaker: Corey Cox; Moderator: Anna Maria Masci)
+          <br>  (2:15pm) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Speaker: Esther Roman; Moderator: Anna Maria Masci)
+          <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Speaker: Prashanti Manda; Moderator: Anna Maria Masci)
+          <br>  (2:45pm) AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments (Speaker: Colbie J. Reed; Moderator: Anna Maria Masci)
   </pre>
   </div>
 
