@@ -25,48 +25,7 @@
 
 #### <b>ICBO EAST (concluded) </b>
 
-<h4 id ="ICBOEAST">Saturday, November 1, 2025 JST (*Oct. 30, 2025 in EST) ICBO-EAST</h4>
-  <pre style="background-color: #F2F2F2; border: none">
-    <br>10:00am-10:05am JST <b>Opening Remarks</b>
-    <br>10:05am-10:45am JST <b>Keynote, Dr. Achille Zappa and Dr. Yukie Akune-Taylor</b> Glycoscience data and ontologies for understanding the expanded central dogma
-    <br>10:45am-11:10am JST <b>Dr. Fariz Darai</b> Ontology-Driven Prompt Engineering for Text-to-SPARQL: A Case Study on Tuberculosis in Wikidata
-    <br>11:10am-11:50am JST <b>Invited Speaker, Dr. Bairong Shen</b> Disease-Specific Ontology-Driven Intelligent Medicine
-    <br>11:50am-12:15pm JST <b>Dr. Tatsuya Kushida</b> Ontology-driven Exploration of RIKEN Bioresources via ChEBI Roles and Gene Ontology
-    <br>12:15pm-12:55pm JST <b>Keynote, Dr. Jian Du</b> Utilizing Large Language Models to Build Causal Diagrams for Observational Health Research
-    <br>12:55pm-13:00pm JST <b>Break</b>
-  </pre>
 
- <pre style="background-color: #F2F2F2; white-space: pre-wrap; line-height: 1.5; margin: 0; padding: 8px; border: none">
-13:00pm–13:40pm JST <b>Keynote, Dr. Junguk Hur</b> Unlocking Biomedical Knowledge with LLMs: Literature Mining for Protein Interactions and Vaccine Adjuvant Research
-    • (12:00pm–12:40pm Beijing Time, 11:00am–11:40am BKK Time)
-
-13:40pm–14:00pm JST <b>Discussion, Announcement of Multi-language sessions, and Break</b>
-</pre>
-
-   <pre style="background-color: #F2F2F2; border: none">
-    <u>14:00pm-17:30pm JST <b>Japan on-site session at ISWC venue (Nara Prefectural Convention Center) as a SIG-SWO meeting</b></u>
-     <br><b>Local Hosts:</b> Takanori Ugai (Fujitsu, Japan), Eiichi Sunagawa (Toshiba, Japan), Shusaku Egami (National Institute of Advanced Industrial Science and Technology, Japan), Tetsuya Mihara (Tsukuba University, Japan), Atsuko Yamaguchi (Tokyo City University, Japan)
-     <br><b>Website:</b> <a href="https://www.sigswo.org/papers/67cfp">https://www.sigswo.org/papers/67cfp</a>
-   </pre>
-
-   <pre style="background-color: #F2F2F2; border: none">
-    <u>13:00pm-16:30pm Beijing Time <b>China on-site session at Harbin Medical University, Harbin, China</b></u>
-     <br><b>Local Host/Co-Organizer:</b> Dr. Liang Cheng, Harbin Medical University
-     <br><b>Other Co-Organizers:</b> Xiaoling Yang (Chinese Academy of Medical Sciences) and Oliver He (University of Michigan)
-     <br><b>Website:</b> <a href="https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html ">https://bio-computing.hrbmu.edu.cn/ICBO-EAST/index.html </a>
-   </pre>
-
-   <pre style="background-color: #F2F2F2; border: none">
-    <u>13:00pm-15:30pm BKK Time <b>Thailand online session - OntoThailand 2025</b></u>
-      <br>13:00pm-13:05pm BKK Time <b>Opening Remarks</b>
-      <br>13:05pm-14:00pm BKK Time <b>Keynote Speaker, Dr. Alexander D. Diehl</b> Introduction to Biomedical Ontology (in English)
-      <br>14:00pm-14:30pm BKK Time <b>Keynote Speaker, Dr. Supharerk Thawillarp</b> Introduction to Interoperability and Terminology (in Thai)
-      <br>14:30pm-14:40pm BKK Time <b>Break</b>
-      <br>14:40am-15:10am BKK Time <b>Invited Speaker, Wiphawee Laochaturapit, MPH</b> Burden of disease analysis for informing public health policy using data standard (in Thai)
-      <br>15:10am-15:30pm BKK Time <b>Discussion and Closing Remarks</b>
-     <br><b>Local Host/Co-Organizer:</b> Dr. Anuwat Pengput, (Sirindhorn College of Public Health Khon Kaen, Khon Kaen, Thailand) and Dr. Chuthamat Sucharit, (Phayakkhaphum Phisai Hospital, Maha Sarakham, Thailand)
-     <br><b>Website:</b> <a href="https://weddingpb.my.canva.site/icbo-east-and-ontothailand-2025">https://weddingpb.my.canva.site/icbo-east-and-ontothailand-2025</a>
-   </pre>
 
 #### <b>LinkML Workshop (concluded) </b> 
 <h4>Wednesday, November 5, 2025 Annotating Data with Ontologies: LinkML Can Help </h4>
