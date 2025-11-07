@@ -26,7 +26,7 @@
 #### <b>ICBO EAST (concluded) </b>
 <h4>Saturday, November 1, 2025 (JST) ICBO-EAST internal and local sessions </h4>
   <pre style="background-color: #F2F2F2; border: none">
-    11:00am ET (08:00am PT) <a href="https://icbo-conference.github.io/icbo2025/east/" "target=_blank">Please check details here(zoom link inlucded)</a>
+    10:00am JST (09:00pm ET) <a href="https://icbo-conference.github.io/icbo2025/east/" "target=_blank">Please check details here</a>
   </pre>
 
 #### <b>LinkML Workshop (concluded) </b> 
