@@ -70,10 +70,22 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
 <i>Short talks</i> submission deadline: <b>October 26th (10/26/2025)</b>. Notification: <b>October 31st</b>, 2025
   <li>We are now accepting submissions for short talks at ICBO 2025. These will be virtual, 10-15 minute talks. They are intended to encourage cooperation on projects with the ICBO community and to provide an opportunity to receive feedback. The talks allow presenters to show off ongoing work which might not yet be ready for a full publication. Submissions should be in the form of abstracts and can be submitted using the link <a href="https://cmt3.research.microsoft.com/ICBO2025/Track/6/Submission/Create">here</a></li>
 
-### Keynote Speakers
+### Keynote Speakers/Invited Talks
 
 <ul>
-    tbd
+  <li><b>Main Conference</b></li>
+    <ul>
+      <li><u>Keynote: <b>Mark Musen:</b> Conspiracy theories: Are ontologies really under attack?</u> (Sunday Nov 9, 12:15pm-1:00pm ET)</li>
+      <li><u>Invited Speaker: <b>Giovanni Nisato:</b> Bridging Industry and Ontology: Insights from the Pistoia Alliance</u> (Monday Nov 10, 11:05-11:30am ET)</li>
+      <li><u>Keynote: <b>Michel Dumontier:</b> Ontologies for Semantic Interoperability in the Age of AI</u> (Tuesday Nov 11, 11:05am-11:50am ET)</li>
+    </ul>
+  <li><b>ICBO-EAST</b></li>
+    <ul>
+      <li><u>Keynotes: <b>Achille Zappa and Yukie Akune-Taylor:</b> Glycoscience data and ontologies for understanding the expanded central dogma</u> (Saturday Nov 1, 10:05am-10:45am JST)</li>
+      <li><u>Keynote: <b>Fariz Darai:</b> Ontology-Driven Prompt Engineering for Text-to-SPARQL: A Case Study on Tuberculosis in Wikidata</u> (10:45am-11:10am JST)</li>
+      <li><u>Invited Speaker: <b>Bairong Shen:</b> Disease-Specific Ontology-Driven Intelligent Medicine</u> (Saturday Nov 1, 11:10am-11:50am JST)</li>
+      <li><u>Keynote: <b>Jian Du:</b> Utilizing Large Language Models to Build Causal Diagrams for Observational Health Research</u> (Saturday Nov 1, 12:15pm-12:55pm JST)</li>
+    </ul>
 </ul>
 
 ### Setting
