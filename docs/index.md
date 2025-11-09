@@ -74,14 +74,22 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
 
 <ul>
   <li><b>Main Conference</b></li>
+  <p>We are pleased to announce several of the distinguished keynote speakers who will be joining us at ICBO 2025. Each of these speakers has made exceptional and lasting contributions to the bioinformatics and ontology communities. As leading voices in our field, their work is critical to the development and expansion of bioinformatics and bio-ontology. Additional keynote speakers will be announced in the future.</p>
     <ul>
-      <li>Keynote: <b>Mark Musen: Conspiracy theories: Are ontologies really under attack?</b> (Sunday Nov 9, 12:15pm-1:00pm ET)</li>
-      <li>Invited Speaker: <b>Giovanni Nisato: Bridging Industry and Ontology: Insights from the Pistoia Alliance</b> (Monday Nov 10, 11:05-11:30am ET)</li>
-      <li>Keynote: <b>Michel Dumontier:</b> Ontologies for Semantic Interoperability in the Age of AI</b></u> (Tuesday Nov 11, 11:05am-11:50am ET)</li>
+      <li>Keynote: <b>Mark Musen: Conspiracy theories: Are ontologies really under attack?</b> (Sunday Nov 9, 12:15pm-1:00pm ET)
+      <p>Dr. Mark Musen is a Professor of Biomedical Informatics at Stanford University and Division Director of the Stanford Center for Biomedical Informatics Research. His research centers on open science, data stewardship, intelligent systems, and biomedical decision support. He also currently directs the WHO Collaborating Center for Classification, Terminology, and Standards. Further, he has been a lead developer on Protégé and is the founding co-editor in chief of the journal Applied Ontology.</p>
+      </li>
+      <li>Invited Speaker: <b>Giovanni Nisato: Bridging Industry and Ontology: Insights from the Pistoia Alliance</b> (Monday Nov 10, 11:05-11:30am ET)
+      </li>
+      <li>Keynote: <b>Michel Dumontier:</b> Ontologies for Semantic Interoperability in the Age of AI</b></u> (Tuesday Nov 11, 11:05am-11:50am ET)
+      <p>Dr. Michel Dumontier is the Distinguished Professor of Data Science and founder at Maastricht University and is the founder and Director of the Institute of Data Science at Maastricht University. He is also a co-founder of the FAIR data principles. His work focuses on building and mining knowledge graphs for drug discovery and personalized medicine. He is also editor-in-chief for the journal Data Science.</p>
+      </li>
     </ul>
   <li><b>ICBO-EAST</b></li>
     <ul>
-      <li><u>Keynotes: <b>Achille Zappa and Yukie Akune-Taylor:</b> Glycoscience data and ontologies for understanding the expanded central dogma</u> (Saturday Nov 1, 10:05am-10:45am JST)</li>
+      <li><u>Keynotes: <b>Achille Zappa and Yukie Akune-Taylor:</b> Glycoscience data and ontologies for understanding the expanded central dogma</u> (Saturday Nov 1, 10:05am-10:45am JST)
+      <p>Dr. Achille Zappa and Dr. Yukie Akune-Taylor are conducting research at Glycan and Life Systems Integration Center (GaLSIC) at Soka University with Professor Kiyoko Aoki-Kinoshita. Their work focuses on exploring the complex functions of glycans using computational analysis and data mining techniques. This includes the development of glycan semantic knowledgebases, linked-data schemas, and ontologies, as well as the analysis of glycan-protein-lipid interactions.</p>
+      </li>
       <li><u>Invited Speaker: <b>Bairong Shen:</b> Disease-Specific Ontology-Driven Intelligent Medicine</u> (Saturday Nov 1, 11:10am-11:50am JST)</li>
       <li><u>Keynote: <b>Jian Du:</b> Utilizing Large Language Models to Build Causal Diagrams for Observational Health Research</u> (Saturday Nov 1, 12:15pm-12:55pm JST)</li>
     </ul>
