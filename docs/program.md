@@ -47,7 +47,7 @@
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>12:00pm-12:15pm <b>Opening Remarks by Asiyah Yu Lin</b> 
-     <br>12:15pm-1:00pm ET <b>Kenote: Conspiracy theories: Are ontologies really under attack?</b> (<b>Speaker: Mark Musen</b>; Moderator: Asiyah Yu Lin)
+     <br>12:15pm-1:00pm ET <b><a href="https://docs.google.com/presentation/d/1L-F1HZxZzkJGxSB1kcjYMIv0PCKvLW2Z/edit?slide=id.p1#slide=id.p1" target="_blank">Kenote: Conspiracy theories: Are ontologies really under attack?</a></b> (<b>Speaker: Mark Musen</b>; Moderator: Asiyah Yu Lin)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:40pm ET <b><a href="https://drive.google.com/file/d/1hyEOHPvP9xKYrTS91-gb_3qjysE_r03x/view?usp=sharing" target="_blank">Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</a></b> (Speaker: Anuwat Penpgut; Moderator: Alex Diehl)
      <br>1:40pm-2:10pm ET <b><a href="https://docs.google.com/presentation/d/1iu0p_VAfN3CzIFIFSWjJ8yRWuCldTQqK/edit?slide=id.p1#slide=id.p1" target="_blank">History in the Basic Formal Ontology</a></b> (Speaker: Werner Ceusters; Moderator: Alex Diehl)
