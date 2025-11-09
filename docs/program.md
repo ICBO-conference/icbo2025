@@ -6,7 +6,7 @@
   <ul>
     <li><b>Conference Dates:</b></li>  
     <ul>
-        <li><b>Workshops/tutorials</b>: (see Program page for more detail) </li>
+        <li><b>Workshops/tutorials</b>: </li>
           <ul>
             <li><a href = "https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?tab=t.0" traget="_blank">Annotating Data with Ontologies: LinkML Can Help</a> (11/5/2025, 11 am - 1:30 pm ET/ 8 am - 10:30 am ET )</li>
             <li><a href ="https://vdos-workshop.github.io/vdos2025/program/" target="_blank">14th Vaccine and Drug Ontology Studies (VDOS) 2025 Workshop</a> (11/7/2025)</li>
@@ -26,13 +26,13 @@
 #### <b>ICBO EAST (concluded) </b>
 <h4>Saturday, November 1, 2025 (JST) ICBO-EAST internal and local sessions </h4>
   <pre style="background-color: #F2F2F2; border: none">
-    10:00am JST (09:00pm ET) <a href="https://icbo-conference.github.io/icbo2025/east/" "target=new">Please check details here</a>
+    10:00am JST (09:00pm ET) <a href="https://icbo-conference.github.io/icbo2025/east/" target="_blank">Please check details here</a>
   </pre>
 
 #### <b>LinkML Workshop (concluded) </b> 
 <h4>Wednesday, November 5, 2025 Annotating Data with Ontologies: LinkML Can Help </h4>
   <pre style="background-color: #F2F2F2; border: none">
-    11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" "target=new">Please check details here(zoom link inlucded)</a>
+    11:00am ET (08:00am PT) <a href="https://docs.google.com/document/d/1Xupv6BCiuC1nnNyPu1su-z3nbPHrEhIzz86YM_UUhh0/edit?usp=sharing" target="_blank">Please check details here(zoom link inlucded)</a>
   </pre>
   
 #### <b>VDOS Workshop (concluded) </b>
@@ -49,7 +49,7 @@
      <br>12:00pm-12:15pm <b>Opening Remarks by Asiyah Yu Lin</b> 
      <br>12:15pm-1:00pm ET <b>Kenote: Conspiracy theories: Are ontologies really under attack?</b> (<b>Speaker: Mark Musen</b>; Moderator: Asiyah Yu Lin)
      <br>1:00pm-1:10pm ET <b>Break</b>
-     <br>1:10pm-1:40pm ET <b><a href="https://drive.google.com/file/d/1hyEOHPvP9xKYrTS91-gb_3qjysE_r03x/view?usp=sharing">Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</a></b> (Speaker: Anuwat Penpgut; Moderator: Alex Diehl)
+     <br>1:10pm-1:40pm ET <b><a href="https://drive.google.com/file/d/1hyEOHPvP9xKYrTS91-gb_3qjysE_r03x/view?usp=sharing" target="_blank">Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</a></b> (Speaker: Anuwat Penpgut; Moderator: Alex Diehl)
      <br>1:40pm-2:10pm ET <b><a href="https://docs.google.com/presentation/d/1iu0p_VAfN3CzIFIFSWjJ8yRWuCldTQqK/edit?slide=id.p1#slide=id.p1">History in the Basic Formal Ontology</a></b> (Speaker: Werner Ceusters; Moderator: Alex Diehl)
      <br>2:10pm-2:20pm ET <b>Break</b>
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
