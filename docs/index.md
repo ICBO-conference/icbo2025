@@ -73,8 +73,8 @@ More information can be found <a href="https://icbo-conference.github.io/icbo202
 ### Keynote Speakers/Invited Talks
 
 <ul>
+  <p>We are pleased to announce several of the distinguished keynote speakers who will be joining us at ICBO 2025. Each of these speakers has made exceptional and lasting contributions to the bioinformatics and ontology communities. As leading voices in our field, their work is critical to the development and expansion of bioinformatics and bio-ontology.</p>
   <li><b>Main Conference</b></li>
-  <p>We are pleased to announce several of the distinguished keynote speakers who will be joining us at ICBO 2025. Each of these speakers has made exceptional and lasting contributions to the bioinformatics and ontology communities. As leading voices in our field, their work is critical to the development and expansion of bioinformatics and bio-ontology. Additional keynote speakers will be announced in the future.</p>
     <ul>
       <li>Keynote: <b>Mark Musen: Conspiracy theories: Are ontologies really under attack?</b> (Sunday Nov 9, 12:15pm-1:00pm ET)
       <p>Dr. Mark Musen is a Professor of Biomedical Informatics at Stanford University and Division Director of the Stanford Center for Biomedical Informatics Research. His research centers on open science, data stewardship, intelligent systems, and biomedical decision support. He also currently directs the WHO Collaborating Center for Classification, Terminology, and Standards. Further, he has been a lead developer on Protégé and is the founding co-editor in chief of the journal Applied Ontology.</p>
