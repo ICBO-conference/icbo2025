@@ -60,7 +60,7 @@
      <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
           <br>  (3:15pm) <a href="https://docs.google.com/presentation/d/1LblOdZ1GdzvmuH6yC4WFAGLob-Pij9ml88BcGXzKL_Y/edit?slide=id.p#slide=id.p" target="_blank">The OntoChoice Community: Answering "How can I choose terms and ontologies?"</a> (Speaker: John Graybeal; Moderator: Anthony Huffman)
           <br>  (3:30pm) <a href="https://docs.google.com/presentation/d/1bTdkckkvhO-T4FJr9xNlNgO3q2zEmMT8/edit?slide=id.p1#slide=id.p1" target="_blank">Ontology-based Updated Profiling of COVID-19 Vaccine Adverse Events Using VAERS Case Reports</a> (Speakers: Anna He & Katelyn Hur; Moderator: Anthony Huffman)
-          <br>  (3:45pm) <a href="https://docs.google.com/presentation/d/1-vSYJRv8GcUW17mKPc42Dhyvw-hqN2dG/edit?slide=id.p9#slide=id.p9" target="_blank">PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature</a> (Speaker: Hasin Rehana; Moderator: Anthony Huffman)
+          <br>  (3:45pm) <a href="https://docs.google.com/presentation/d/1-vSYJRv8GcUW17mKPc42Dhyvw-hqN2dG/edit?slide=id.p9#slide=id.p1" target="_blank">PICO/PECO-Guided Large Language Model Extraction and Ontological Modeling of Structured Occupational Safety and Health Evidence from Biomedical Literature</a> (Speaker: Hasin Rehana; Moderator: Anthony Huffman)
   </pre>
   </div>
 
