@@ -210,7 +210,7 @@ We welcome papers related to ontology development and application in biomedical 
 <ul>
    <h4><b>Program Committee Coordination</b></h4>
     <p>Alex Diehl (University at Buffalo)</p>
-    <p>William Duncan (University of Florida)</p>
+    <p>Asiyah Lin (OntoData Research and Solutions, LLC.)</p>
     <p>Xiaolin Yang (IMEC)</p>
 </ul>
 
