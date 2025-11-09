@@ -41,7 +41,7 @@
     9:00am-12:40pm ET <a href ="https://vdos-workshop.github.io/vdos2025/program/" target="_blank">Please check details here(zoom link included)</a>
   </pre>
 
-#### <b>Main conference Day 1</b>
+#### <b>Main conference Day 1 (concluded) </b>
 
 <h4>Sunday, November 9, 2025 - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
@@ -69,7 +69,7 @@
 <h4>Monday, November 10, 2025, Workshop for PhD Students & Early Career Researchers</h4>
   <pre style="background-color: #F2F2F2; border: none"> 
     09:00am - 11:00am ET <b>Workshop for PhD Students & Early Career Researchers: AI, Ontologies, and the Next Generation of Researchers</b>
-    <br><b>Website:</b> <a href="https://icbo-2025-workshop.tilda.ws/">https://icbo-2025-workshop.tilda.ws/</a>
+    <br><b>Website:</b> <a href="https://icbo-2025-workshop.tilda.ws/" target="_blank">https://icbo-2025-workshop.tilda.ws/</a>
   </pre>
 
 #### <b>Main conference Day 2</b> 
@@ -79,7 +79,7 @@
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
      <br>11:00am-11:05am ET <b>Opening Remarks by Matthew Lange</b>
      <br>11:05-11:30am ET <b>Invited Talk: <a href="https://docs.google.com/presentation/d/1QO-1awYSMGPMNrdhhqQc-UqwKkMV2ts7/edit?slide=id.p1#slide=id.p1" target="_blank">Bridging Industry and Ontology: Insights from the Pistoia Alliance​</a></b> (<b>Speaker: Giovanni Nisato</b>; Moderator: Matthew Lange)
-     <br>11:30am-12:00pm ET <b><a href="https://docs.google.com/presentation/d/1h_N7tzmL5KV1X6BvEgChRWvY6Ja_Kj2c/edit?slide=id.p1#slide=id.p1" a target="_blank">Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</a></b> (Speaker: William D. Duncan; Moderator: Matthew Lange)
+     <br>11:30am-12:00pm ET <b><a href="https://docs.google.com/presentation/d/1h_N7tzmL5KV1X6BvEgChRWvY6Ja_Kj2c/edit?slide=id.p1#slide=id.p1" target="_blank">Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</a></b> (Speaker: William D. Duncan; Moderator: Matthew Lange)
      <br>12:00pm-12:10pm ET <b>Break</b>
      <br>12:10pm-12:40pm ET <b>Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Speaker: B. Damayanthi Jesudas; Moderator: Bill Duncan)
      <br>12:40pm-12:50pm ET <b>Break</b>
@@ -127,7 +127,7 @@
 <h4>Friday, November 14, 2025</h4>
   <pre style="background-color: #F2F2F2; border: none">
     10:00am - 01:00pm ET (04:00pm - 07:00pm CET) <b>Food, Waste, and Sustainability: Synergizing Ontology Efforts</b>
-  <br><b>Website:</b> <a href="https://sites.google.com/view/fws2025workshop/home-page">https://sites.google.com/view/fws2025workshop/home-page</a>
+  <br><b>Website:</b> <a href="https://sites.google.com/view/fws2025workshop/home-page" target="_blank">https://sites.google.com/view/fws2025workshop/home-page</a>
   </pre>
 
 #### <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
