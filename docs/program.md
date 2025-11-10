@@ -13,6 +13,7 @@
             <li>Workshop for PhD Students & Early Career Researchers: (11/10/2025)</li>
             <li><a href="https://sites.google.com/view/fws2025workshop/home-page" target="_blank">Food, Waste, and Sustainability: Synergizing Ontology Efforts</a> (11/14/2025, 10am - 1pm ET/4pm - 7pm CET)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
+            <li>Workshop on the Core Ontology for Biology and Biomedicine: (01/26/2026)</li>
           </ul>
         <li><b>Main conference</b>: November 9th to November 11th (11/9/2025-11/11/2025)</li>
         <li><b><a href="#ICBOEAST">ICBO-EAST Satelite</a></b>: November 1st (11/1/2025)</li>
@@ -64,7 +65,7 @@
   </pre>
   </div>
 
-#### <b>Workshop: AI, Ontologies, and the Next Generation of Researchers</b>
+#### <b>Workshop: AI, Ontologies, and the Next Generation of Researchers (concluded)</b>
 
 <h4>Monday, November 10, 2025, Workshop for PhD Students & Early Career Researchers</h4>
   <pre style="background-color: #F2F2F2; border: none"> 
@@ -72,7 +73,7 @@
     <br><b>Website:</b> <a href="https://icbo-2025-workshop.tilda.ws/" target="_blank">https://icbo-2025-workshop.tilda.ws/</a>
   </pre>
 
-#### <b>Main conference Day 2</b> 
+#### <b>Main conference Day 2 (concluded)</b> 
   
   <h4>Monday, November 10, 2025, ICBO 2025 Main Conference Day 2</h4>
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
@@ -91,10 +92,8 @@
         </ul>
       <br>1:50pm-2:00pm ET <b>Break</b>
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
-          <br>  (2:00pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Speaker: Corey Cox; Moderator: Anna Maria Masci)
-          <br>  (2:15pm) An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure (Speaker: Esther Roman; Moderator: Anna Maria Masci)
-          <br>  (2:30pm) Semantic Analysis of SNOMED CT Concept Co-occurrences in Clinical Documentation using MIMIC-IV (Speaker: Prashanti Manda; Moderator: Anna Maria Masci)
-          <br>  (2:45pm) <a href="https://docs.google.com/presentation/d/179OaiT3yUE8jcar3fC-58PlK74DHWdpEaXmyIteCV8c/edit?slide=id.p1#slide=id.p1" target="_blank">AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments</a> (Speaker: Colbie J. Reed; Moderator: Anna Maria Masci)
+          <br>  (2:00pm) <a href="https://docs.google.com/presentation/d/179OaiT3yUE8jcar3fC-58PlK74DHWdpEaXmyIteCV8c/edit?usp=drive_link" target="_blank">An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure</a>a> (Speaker: Esther Roman; Moderator: Anna Maria Masci)
+          <br>  (2:15pm) <a href="https://docs.google.com/presentation/d/179OaiT3yUE8jcar3fC-58PlK74DHWdpEaXmyIteCV8c/edit?slide=id.p1#slide=id.p1" target="_blank">AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments</a> (Speaker: Colbie J. Reed; Moderator: Anna Maria Masci)
   </pre>
   </div>
 
@@ -119,6 +118,7 @@
           <br>  (2:20pm) <a href="https://docs.google.com/presentation/d/1Ho4_1qXhSXT5eFQVz8pPR4PEQ2IPiHsJ/edit?slide=id.p1#slide=id.p1" target="_blank">Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies</a> (Speaker: Alexander Bartnik; Moderator: Oliver He)
           <br>  (2:35pm) <a href="https://docs.google.com/presentation/d/1RwJQiefUP7OV5464MBu6U1AVGvqUyPGX/edit?slide=id.p1#slide=id.p1" target="_blank">The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query</a> (Speaker: Karamarie Fecho; Moderator: Oliver He)
           <br>  (2:50pm) MCBO: Mammalian Cell Bioprocessing Ontology, A Hub-and-Spoke, IOF-Anchored Application Ontology (Speaker: Kimberly Robasky; Moderator: Oliver He)
+          <br>  (3:05pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets (Speaker: Corey Cox; Moderator: Oliver He)
   </pre>
   </div>
 
