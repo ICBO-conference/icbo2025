@@ -5,12 +5,8 @@
 
 ### Registration for ICBO main conference, workshops, and ICBO EAST 2025
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=pp_url&entry.614919108=Yes+(default+opt-in)" class="btn btn-success btn-primary btn-lg" role="button" target="_blank">
-  Free Registration (via Google Form)
-</a>
-
 <p>
-The number of seats for workshops and tutorials is limited due to the capacity of the virtual rooms. In order to better accommodate participants, please complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform?usp=pp_url&entry.614919108=Yes+(default+opt-in)">the registration form</a> to indicate your workshop/tutorial preferences.
+Registration is closed. Please contact < a href="mailto:ontology.world@gmail.com">Conference Organizers</a> or via <a href="https://obo-communitygroup.slack.com/archives/C043W8W982Y" target="_blank">ICBO Slack Channel</a> 
 </p>
 
 ### Virtual Attendance fees
