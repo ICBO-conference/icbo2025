@@ -136,7 +136,14 @@
   <pre style="background-color: #F2F2F2; border: none">
     10:00am - 01:00pm ET (07:00am - 10:00am PT / 03:00pm - 06:00pm UK / 04:00pm - 07:00pm CET) <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
   </pre>
-   
+
+#### <b>Accelerating Ontology Curation with Agentic AI and GitHub</b>
+
+<h4>Monday, January 26, 2026</h4>
+  <pre style="background-color: #F2F2F2; border: none">
+    11:00am - 01:00pm ET (8:00am - 11:00am PT) <b>Workshop on the Core Ontology for Biology and Biomedicine</b>
+  </pre>
+  
 ### Workshops Details
 
 <li><u><b>Accelerating Ontology Curation with Agentic AI and GitHub</b></u></li>
