@@ -6,7 +6,7 @@
 ### Registration for ICBO main conference, workshops, and ICBO EAST 2025
 
 <p>
-Registration is closed. Please contact < a href="mailto:ontology.world@gmail.com">Conference Organizers</a> or via <a href="https://obo-communitygroup.slack.com/archives/C043W8W982Y" target="_blank">ICBO Slack Channel</a> 
+Registration is closed. Please contact Conference Organizers or via <a href="https://obo-communitygroup.slack.com/archives/C043W8W982Y" target="_blank">ICBO Slack Channel</a> to receive meeting links and related information. 
 </p>
 
 ### Virtual Attendance fees
