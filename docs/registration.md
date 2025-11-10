@@ -11,7 +11,7 @@ Registration is closed. Please contact Conference Organizers or via <a href="htt
 
 ### Virtual Attendance fees
 
-ICBO 2025 virtual attendance is free. If you plan to attend, you are required to fill out the registration form in order to receive the meeting link.
+ICBO 2025 virtual attendance is free. 
 
 ## Consent to Use Photographic Images
 
