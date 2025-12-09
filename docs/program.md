@@ -47,7 +47,7 @@
 <h4>Sunday, November 9, 2025 - ICBO 2025 Main Conference Day 1</h4>
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-     <br>12:00pm-12:15pm <b><a href="https://docs.google.com/presentation/d/1yhRJojgQ17xifLWN8S-9kR7PHEhCksShvbDd4chR2iM/edit?slide=id.gc6fa3c898_0_0#slide=id.gc6fa3c898_0_0" target="_blank">Opening Remarks by Asiyah Yu Lin</b> 
+     <br>12:00pm-12:15pm <b><a href="https://docs.google.com/presentation/d/1yhRJojgQ17xifLWN8S-9kR7PHEhCksShvbDd4chR2iM/edit?slide=id.gc6fa3c898_0_0#slide=id.gc6fa3c898_0_0" target="_blank">Opening Remarks by Asiyah Yu Lin</a></b> 
      <br>12:15pm-1:00pm ET <b><a href="https://docs.google.com/presentation/d/1L-F1HZxZzkJGxSB1kcjYMIv0PCKvLW2Z/edit?slide=id.p1#slide=id.p1" target="_blank">Kenote: Conspiracy theories: Are ontologies really under attack?</a></b> (<b>Speaker: Mark Musen</b>; Moderator: Asiyah Yu Lin)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:40pm ET <b><a href="https://drive.google.com/file/d/1hyEOHPvP9xKYrTS91-gb_3qjysE_r03x/view?usp=sharing" target="_blank">Ontology Development and Use for Cholangiocarcinoma Risk Factors and Predictions : A Term Enrichment Data Analysis and Machine Learning Classification</a></b> (Speaker: Anuwat Pengput; Moderator: Alex Diehl)
@@ -56,7 +56,7 @@
      <br>2:20pm-3:05pm ET <b>Short Talks Pt. 1</b>
           <br>  (2:20pm) <a href="https://docs.google.com/presentation/d/1M3XFDfSt0X-Pj8hUd6-51zB46fudJ7Ac/edit?slide=id.p1#slide=id.p1" target="_blank">OntoChimp: A ChatGPT-based document analysis program for identifying key concepts for ontological development and its application in the solitude domain</a> (Speaker: Samuel Smith; Moderator: Finn Wilson)
           <br>  (2:35pm) <a href="https://docs.google.com/presentation/d/1-AT5pwjPO24KG0kcc5d-dQinfLx7arAw/edit?slide=id.p1#slide=id.p1" target="_blank">Active Animals Ontology</a> (Speaker: Ditch Townsend; Moderator: Finn Wilson)
-          <br>  (2:50pm) <a href="https://docs.google.com/presentation/d/1BHJ61JVqbVGLpA8Z9iQfthL-xWnh-SIz/edit?slide=id.p1#slide=id.p1" target="_blank">Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine (Speaker: Yongqun He; Moderator: Finn Wilson)
+          <br>  (2:50pm) <a href="https://docs.google.com/presentation/d/1BHJ61JVqbVGLpA8Z9iQfthL-xWnh-SIz/edit?slide=id.p1#slide=id.p1" target="_blank">Logic-based Yin-Yang Ontology: Top-level Design for Integrating Traditional Chinese and Western Medicine</a> (Speaker: Yongqun He; Moderator: Finn Wilson)
      <br>3:05pm-3:15pm ET <b>Break</b>
      <br>3:15pm-4:00pm ET <b>Short Talks Pt. 2</b>
           <br>  (3:15pm) <a href="https://docs.google.com/presentation/d/1LblOdZ1GdzvmuH6yC4WFAGLob-Pij9ml88BcGXzKL_Y/edit?slide=id.p#slide=id.p" target="_blank">The OntoChoice Community: Answering "How can I choose terms and ontologies?"</a> (Speaker: John Graybeal; Moderator: Anthony Huffman)
@@ -82,7 +82,7 @@
      <br>11:05-11:30am ET <b>Invited Talk: <a href="https://docs.google.com/presentation/d/1QO-1awYSMGPMNrdhhqQc-UqwKkMV2ts7/edit?slide=id.p1#slide=id.p1" target="_blank">Bridging Industry and Ontology: Insights from the Pistoia Alliance​</a></b> (<b>Speaker: Giovanni Nisato</b>; Moderator: Matthew Lange)
      <br>11:30am-12:00pm ET <b><a href="https://docs.google.com/presentation/d/1h_N7tzmL5KV1X6BvEgChRWvY6Ja_Kj2c/edit?slide=id.p1#slide=id.p1" target="_blank">Representing Dental Caries and Dysbiosis within the Oral Microbiome in the Oral Health and Disease Ontology</a></b> (Speaker: William D. Duncan; Moderator: Matthew Lange)
      <br>12:00pm-12:10pm ET <b>Break</b>
-     <br>12:10pm-12:40pm ET <b><a href="https://docs.google.com/presentation/d/1kEfzZORcPvVwnBF-1tiasAZpYvbN_QZK/edit?slide=id.p1#slide=id.p1" target="_blank">Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</b> (Speaker: B. Damayanthi Jesudas; Moderator: Bill Duncan)
+     <br>12:10pm-12:40pm ET <b><a href="https://docs.google.com/presentation/d/1kEfzZORcPvVwnBF-1tiasAZpYvbN_QZK/edit?slide=id.p1#slide=id.p1" target="_blank">Utilizing BERTopic Modeling for Concept Discovery in the Domain of Gerotranscendence and Solitude</a></b> (Speaker: B. Damayanthi Jesudas; Moderator: Bill Duncan)
      <br>12:40pm-12:50pm ET <b>Break</b>
      <br>12:50pm-1:50pm ET <b>Short Talks Pt. 1</b>
           <br>  (12:50pm) <a href="https://docs.google.com/presentation/d/1U1EKJcqGa8WJO6Q4thCjXKlB7PHg8ym4JoWCswZxYAo/edit?slide=id.g3a09acdb4e6_0_264#slide=id.g3a09acdb4e6_0_264" target="_blank">Towards an Integrated Agentic Workflow for Cell Ontology Annotation and Extension</a> (Speaker: Caroline Eastwood; Moderator: Alex Diehl)
@@ -92,7 +92,7 @@
         </ul>
       <br>1:50pm-2:00pm ET <b>Break</b>
      <br>2:00pm-3:00pm ET <b>Short Talks Pt. 2</b>
-          <br>  (2:00pm) <a href="https://docs.google.com/presentation/d/179OaiT3yUE8jcar3fC-58PlK74DHWdpEaXmyIteCV8c/edit?usp=drive_link" target="_blank">An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure</a>a> (Speaker: Esther Roman; Moderator: Anna Maria Masci)
+          <br>  (2:00pm) <a href="https://docs.google.com/presentation/d/179OaiT3yUE8jcar3fC-58PlK74DHWdpEaXmyIteCV8c/edit?usp=drive_link" target="_blank">An Ontology for a Clinical Decision Support System in the Management of COVID‑19–Related Acute Respiratory Failure</a> (Speaker: Esther Roman; Moderator: Anna Maria Masci)
           <br>  (2:15pm) <a href="https://docs.google.com/presentation/d/179OaiT3yUE8jcar3fC-58PlK74DHWdpEaXmyIteCV8c/edit?slide=id.p1#slide=id.p1" target="_blank">AI-Support in Ontology Construction: A Pilot Targeting SEDOH Factors as Represented by Diverse Data-Collection Instruments</a> (Speaker: Colbie J. Reed; Moderator: Anna Maria Masci)
   </pre>
   </div>
@@ -102,10 +102,10 @@
 <h4>Tuesday, November 11, 2025 ICBO 2025 Main Conference Day 3</h4>
   <div style="background: #F2F2F2; padding: 10px; width: 100%; border: none; outline: none; box-shadow: none;">
   <pre style="background: transparent; border: none; outline: none; box-shadow: none; margin: 0; white-space: pre-wrap; font-family: inherit;">
-     <br>11:00am-11:05am ET <b><a href="https://docs.google.com/presentation/d/1MK-ZQ8hCDodTj3yuPDUAgUMAlASy0b9v/edit?slide=id.p1#slide=id.p1" target="_blank">Opening Remarks by Alex Diehl</b>
-     <br>11:05am-11:50am ET <b><a href="https://docs.google.com/presentation/d/1SbvSdTnAXYVUPJMxZjpiq71CCv4SLCJn/edit?slide=id.p1#slide=id.p1" target="_blank">Kenote: Ontologies for Semantic Interoperability in the Age of AI</b> (<b>Speaker: Michel Dumontier</b>; Moderator: Alex Diehl)
+     <br>11:00am-11:05am ET <b><a href="https://docs.google.com/presentation/d/1MK-ZQ8hCDodTj3yuPDUAgUMAlASy0b9v/edit?slide=id.p1#slide=id.p1" target="_blank">Opening Remarks by Alex Diehl</a></b>
+     <br>11:05am-11:50am ET <b><a href="https://docs.google.com/presentation/d/1SbvSdTnAXYVUPJMxZjpiq71CCv4SLCJn/edit?slide=id.p1#slide=id.p1" target="_blank">Kenote: Ontologies for Semantic Interoperability in the Age of AI</a></b> (<b>Speaker: Michel Dumontier</b>; Moderator: Alex Diehl)
      <br>11:50am-12:00pm ET <b>Break</b>
-     <br>12:00pm-12:30pm ET <b><a href="https://drive.google.com/drive/folders/1iCIzlnC60rJ5PPfWEr34tOCIS6GXISzJ" target="_blank">Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</b> (Speaker: Stephan C. Schürer; Moderator: Bill Duncan)
+     <br>12:00pm-12:30pm ET <b><a href="https://drive.google.com/drive/folders/1iCIzlnC60rJ5PPfWEr34tOCIS6GXISzJ" target="_blank">Advancing the BioAssay Ontology through Integrated PK/PD and Safety Pharmacology Representation</a></b> (Speaker: Stephan C. Schürer; Moderator: Bill Duncan)
      <br>12:30pm-1:00pm ET <b><a href="https://docs.google.com/presentation/d/1mGR9eXst4xWQCaAS3roWXJO8bXAeuTJL/edit?slide=id.p1#slide=id.p1" target="_blank">Representing Dental Restoration Materials in the Oral Health and Disease Ontology</a></b> (Speaker: Nivedita Dutta; Moderator: Bill Duncan)
      <br>1:00pm-1:10pm ET <b>Break</b>
      <br>1:10pm-1:55pm ET <b>Short Talks Pt. 1</b>
@@ -117,8 +117,8 @@
           <br>  (2:05pm) <a href="https://drive.google.com/file/d/140vtQlbky2BjESkITUXK3Kwwfav1ETsT/view?usp=sharing" target="_blank">METPO: A Pragmatic Ontology for Microbial Ecophysiological Traits</a> (Speaker: Mark Miller; Moderator: Oliver He)
           <br>  (2:20pm) <a href="https://docs.google.com/presentation/d/1Ho4_1qXhSXT5eFQVz8pPR4PEQ2IPiHsJ/edit?slide=id.p1#slide=id.p1" target="_blank">Modeling fMRI Analysis in the MRI Ontology (MRIO): Practical Reuse of OBO Foundry Statistical Ontologies</a> (Speaker: Alexander Bartnik; Moderator: Oliver He)
           <br>  (2:35pm) <a href="https://docs.google.com/presentation/d/1RwJQiefUP7OV5464MBu6U1AVGvqUyPGX/edit?slide=id.p1#slide=id.p1" target="_blank">The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query</a> (Speaker: Karamarie Fecho; Moderator: Oliver He)
-          <br>  (2:50pm) <a href="https://drive.google.com/drive/folders/1iCIzlnC60rJ5PPfWEr34tOCIS6GXISzJ" target="_blank">MCBO: Mammalian Cell Bioprocessing Ontology, A Hub-and-Spoke, IOF-Anchored Application Ontology (Speaker: Kimberly Robasky; Moderator: Oliver He)
-          <br>  (3:05pm) Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets <a href="https://docs.google.com/presentation/d/1PxN36jMfJwrvObw5Mz7jeVSmovardMofdPYKByGh6Xs/edit?slide=id.p1#slide=id.p1" target="_blank"> (Speaker: Corey Cox; Moderator: Oliver He)
+          <br>  (2:50pm) <a href="https://drive.google.com/drive/folders/1iCIzlnC60rJ5PPfWEr34tOCIS6GXISzJ" target="_blank">MCBO: Mammalian Cell Bioprocessing Ontology, A Hub-and-Spoke, IOF-Anchored Application Ontology</a> (Speaker: Kimberly Robasky; Moderator: Oliver He)
+          <br>  (3:05pm) <a href="https://docs.google.com/presentation/d/1PxN36jMfJwrvObw5Mz7jeVSmovardMofdPYKByGh6Xs/edit?slide=id.p1#slide=id.p1" target="_blank">Data Model-Based Ingestion Pipeline: Automating Harmonization of Datasets</a> (Speaker: Corey Cox; Moderator: Oliver He)
   </pre>
   </div>
 
