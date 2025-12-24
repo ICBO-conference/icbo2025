@@ -26,6 +26,7 @@ The focus of our 2025 conference is <b>Biological and Biomedical Ontologies in A
             <li>Workshop for PhD Students & Early Career Researchers: (11/10/2025)</li>
             <li>Food, Waste, and Sustainability: Synergizing Ontology Efforts: (11/14/2025)</li>
             <li>Accelerating Ontology Curation with Agentic AI and GitHub: (11/18/2025)</li>
+            <li>Workshop on the Core Ontology for Biology and Biomedicine: (01/26/2026)</li>
           </ul>
         <li><b>Main conference</b>: <span style="color: red; text-decoration: line-through;">November 7th to November 9th (11/7/2025-11/9/2025)</span> November 9th to November 11th (11/9/2025-11/11/2025)</li>
         <li><b>ICBO-EAST Satelite</b>: November 1st (11/1/2025)</li>
